@@ -1,0 +1,1421 @@
+player_id,player_name,primary_team,matches,p_innings,p_balls,eligibility,reliability_score,rank,kind
+1187,Jason Roy,Kolkata Knight Riders,19,3,57,Insufficient Evidence,72.63475659515602,,Batter
+6273,Tom Banton,England,19,2,23,Insufficient Evidence,81.68245094664653,,Batter
+1596,Moeen Ali,England,53,23,287,Fully Eligible,43.03654277803295,48.0,Batter
+1210,James Vince,England,5,1,10,Insufficient Evidence,57.28088753812584,,Batter
+478,Eoin Morgan,England,2,2,32,Insufficient Evidence,42.76905222184898,,Batter
+1924,Sam Billings,Kolkata Knight Riders,12,6,78,Insufficient Evidence,48.59920316271333,,Batter
+722,Liam Dawson,England,4,3,38,Insufficient Evidence,39.090089045501344,,Batter
+786,Chris Jordan,England,19,14,112,Limited Sample,16.973883445002148,,Batter
+479,Adil Rashid,England,21,12,112,Limited Sample,21.21834497458065,,Batter
+4499,Saqib Mahmood,England,5,2,31,Insufficient Evidence,29.450209529172998,,Batter
+3639,Brandon King,West Indies,59,4,62,Insufficient Evidence,57.477973490550596,,Batter
+4369,Shai Hope,West Indies,58,9,116,Limited Sample,85.72901099884653,,Batter
+3125,Nicholas Pooran,Lucknow Super Giants,115,39,582,Fully Eligible,66.06132558777462,33.0,Batter
+778,Darren Bravo,West Indies,2,1,10,Insufficient Evidence,44.81415821274009,,Batter
+494,Kieron Pollard,Mumbai Indians,18,12,129,Limited Sample,38.84142189064923,,Batter
+2633,Jason Holder,West Indies,59,29,277,Fully Eligible,77.13286929750906,23.0,Batter
+6726,Romario Shepherd,West Indies,68,34,414,Fully Eligible,40.886817366265056,50.0,Batter
+4840,Odean Smith,West Indies,20,11,91,Insufficient Evidence,34.18895500581131,,Batter
+3272,Fabian Allen,West Indies,9,5,44,Insufficient Evidence,49.7464121650991,,Batter
+2417,Akeal Hosein,West Indies,32,15,146,Limited Sample,57.1603603362979,,Batter
+4986,Rovman Powell,West Indies,100,48,726,Fully Eligible,94.11525518511606,5.0,Batter
+4391,Liam Livingstone,Punjab Kings,68,21,293,Fully Eligible,87.01780098923419,13.0,Batter
+6280,Harry Brook,England,56,9,75,Insufficient Evidence,38.98249476160509,,Batter
+5553,Phil Salt,England,84,5,70,Insufficient Evidence,74.71832325087021,,Batter
+4826,George Garton,England,1,1,4,Insufficient Evidence,48.727067522469056,,Batter
+2315,Reece Topley,England,6,2,18,Insufficient Evidence,42.72475367622294,,Batter
+2304,Tymal Mills,England,5,1,12,Insufficient Evidence,43.236244090744414,,Batter
+2416,Kyle Mayers,Lucknow Super Giants,46,3,16,Insufficient Evidence,81.82699340521526,,Batter
+2687,Roston Chase,West Indies,36,13,141,Limited Sample,40.74810553118128,,Batter
+126,Rohit Sharma,India,91,5,92,Insufficient Evidence,78.28034064626644,,Batter
+4117,Ishan Kishan,Mumbai Indians,122,9,115,Limited Sample,38.770091353166706,,Batter
+47,Virat Kohli,Royal Challengers Bengaluru,92,7,85,Insufficient Evidence,29.22138157829958,,Batter
+4703,Rishabh Pant,Delhi Capitals,73,15,243,Fully Eligible,61.04567777960372,38.0,Batter
+1699,Suryakumar Yadav,Mumbai Indians,139,30,504,Fully Eligible,96.35427304636353,3.0,Batter
+7544,Venkatesh Iyer,Kolkata Knight Riders,55,12,167,Limited Sample,65.13941307701059,,Batter
+2261,Harshal Patel,India,29,13,109,Limited Sample,15.074705062675363,,Batter
+6059,Ruturaj Gaikwad,Chennai Super Kings,77,10,146,Limited Sample,45.807450792250165,,Batter
+3647,Shreyas Iyer,India,98,17,262,Fully Eligible,64.36094266507232,35.0,Batter
+6797,Dominic Drakes,West Indies,3,2,12,Insufficient Evidence,42.06829961521963,,Batter
+3622,Hayden Walsh,West Indies,3,3,15,Insufficient Evidence,45.61559320029491,,Batter
+250,Aaron Finch,Australia,21,0,0,Insufficient Evidence,55.426381372200254,,Batter
+3539,Ben McDermott,Australia,7,0,0,Insufficient Evidence,55.426381372200254,,Batter
+4736,Josh Inglis,Australia,56,5,56,Insufficient Evidence,49.71610812601543,,Batter
+838,Glenn Maxwell,Australia,75,17,201,Fully Eligible,86.3507369680903,15.0,Batter
+223,Steven Smith,Australia,13,4,27,Insufficient Evidence,56.50397647701837,,Batter
+2639,Marcus Stoinis,Lucknow Super Giants,89,30,457,Fully Eligible,72.75599925741649,28.0,Batter
+796,Matthew Wade,Australia,30,12,166,Limited Sample,96.05930067229217,,Batter
+829,Mitchell Starc,Delhi Capitals,13,3,20,Insufficient Evidence,15.39256025459742,,Batter
+1758,Patrick Cummins,Sunrisers Hyderabad,35,19,190,Limited Sample,24.64750999102126,,Batter
+2636,Adam Zampa,Australia,15,6,41,Insufficient Evidence,9.242772193286397,,Batter
+830,Josh Hazlewood,Royal Challengers Bengaluru,12,3,33,Insufficient Evidence,27.311425463223106,,Batter
+6931,Pathum Nissanka,Sri Lanka,75,8,87,Insufficient Evidence,48.06463389248336,,Batter
+2351,Danushka Gunathilaka,Sri Lanka,13,1,17,Insufficient Evidence,51.3841229033683,,Batter
+4902,Avishka Fernando,Sri Lanka,9,1,8,Insufficient Evidence,40.267050723988135,,Batter
+4895,Charith Asalanka,Sri Lanka,53,15,202,Fully Eligible,49.35915822470799,44.0,Batter
+4900,Wanindu Hasaranga,Sri Lanka,62,31,268,Fully Eligible,5.5943212388561685,67.0,Batter
+2436,Dasun Shanaka,Sri Lanka,61,32,396,Fully Eligible,84.27085911192975,17.0,Batter
+1100,Dinesh Chandimal,Sri Lanka,5,2,32,Insufficient Evidence,36.95813803426318,,Batter
+6160,Chamika Karunaratne,Sri Lanka,17,8,135,Limited Sample,25.128882701900878,,Batter
+2399,Dushmantha Chameera,Sri Lanka,29,14,91,Insufficient Evidence,16.7596455037322,,Batter
+3664,Binura Fernando,Sri Lanka,7,3,22,Insufficient Evidence,27.514084035606434,,Batter
+19316,Maheesh Theekshana,Sri Lanka,37,21,172,Limited Sample,1.4957167575126211,,Batter
+3672,Kusal Mendis,Sri Lanka,67,6,65,Insufficient Evidence,41.42902595876005,,Batter
+2364,Ashton Agar,Australia,4,0,2,Insufficient Evidence,57.73898286556736,,Batter
+4460,Jeffrey Vandersay,Sri Lanka,3,3,23,Insufficient Evidence,43.71748340561091,,Batter
+6518,Daniel Sams,Australia,13,6,46,Insufficient Evidence,33.07608878954871,,Batter
+7049,Kamil Mishara,Sri Lanka,22,1,14,Insufficient Evidence,69.08893051599227,,Batter
+26519,Janith Liyanage,Sri Lanka,10,2,73,Insufficient Evidence,43.44559195802321,,Batter
+169,Robin Uthappa,Chennai Super Kings,11,2,17,Insufficient Evidence,59.75590456958019,,Batter
+1941,Devon Conway,Chennai Super Kings,61,5,52,Insufficient Evidence,41.417819157700364,,Batter
+535,Ambati Rayudu,Chennai Super Kings,23,8,115,Limited Sample,43.52731648314398,,Batter
+152,Ravindra Jadeja,Chennai Super Kings,65,31,512,Fully Eligible,60.74798039091975,39.0,Batter
+4755,Shivam Dube,Chennai Super Kings,98,38,519,Fully Eligible,70.2554038301901,30.0,Batter
+8,Mahendra Singh Dhoni,Chennai Super Kings,48,27,354,Fully Eligible,58.12016845781678,41.0,Batter
+167,Ajinkya Rahane,Kolkata Knight Riders,56,4,43,Insufficient Evidence,45.739605517946416,,Batter
+4246,Nitish Rana,Kolkata Knight Riders,50,13,159,Limited Sample,52.06828072393363,,Batter
+344,Sheldon Jackson,Kolkata Knight Riders,5,2,16,Insufficient Evidence,36.98610235723676,,Batter
+4817,Anmolpreet Singh,Sunrisers Hyderabad,8,0,1,Insufficient Evidence,50.86286843321643,,Batter
+7897,Namboori Tilak Varma,Mumbai Indians,123,42,712,Fully Eligible,89.3517948865062,9.0,Batter
+6396,Tim David,Mumbai Indians,98,33,445,Fully Eligible,97.10419797443213,1.0,Batter
+5928,Prithvi Shaw,Delhi Capitals,26,1,7,Insufficient Evidence,58.159109325180246,,Batter
+3700,Tim Seifert,New Zealand,43,3,37,Insufficient Evidence,41.405335385591,,Batter
+1039,Mandeep Singh,Kolkata Knight Riders,6,1,11,Insufficient Evidence,49.59691676006085,,Batter
+6671,Lalit Yadav,Delhi Capitals,16,10,92,Insufficient Evidence,48.44293215995342,,Batter
+2847,Shardul Thakur,Delhi Capitals,30,17,143,Limited Sample,28.291719321831433,,Batter
+2876,Axar Patel,Delhi Capitals,105,55,682,Fully Eligible,39.21776172317503,51.0,Batter
+88,Faf du Plessis,Royal Challengers Bengaluru,54,9,87,Insufficient Evidence,52.29605772294461,,Batter
+6467,Anuj Rawat,Royal Challengers Bengaluru,20,9,97,Insufficient Evidence,51.48321890617794,,Batter
+143,Dinesh Karthik,Royal Challengers Bengaluru,61,30,358,Fully Eligible,93.13494901100768,7.0,Batter
+992,Mayank Agarwal,Sunrisers Hyderabad,30,4,40,Insufficient Evidence,48.042923762692865,,Batter
+142,Shikhar Dhawan,Punjab Kings,30,6,85,Insufficient Evidence,74.41973801656097,,Batter
+2003,Bhanuka Rajapaksa,Sri Lanka,31,8,125,Limited Sample,75.43851797688403,,Batter
+26834,Raj Bawa,Mumbai Indians,4,1,14,Insufficient Evidence,49.75950066755654,,Batter
+3782,M Shahrukh Khan,Gujarat Titans,43,22,230,Fully Eligible,47.3419529650423,47.0,Batter
+953,Lokesh Rahul,Lucknow Super Giants,74,18,227,Fully Eligible,37.80775752209833,54.0,Batter
+2573,Evin Lewis,Lucknow Super Giants,19,2,23,Insufficient Evidence,75.80293944015062,,Batter
+2101,Quinton de Kock,Lucknow Super Giants,66,11,115,Limited Sample,48.17026359001953,,Batter
+198,Manish Pandey,Kolkata Knight Riders,21,8,113,Limited Sample,66.99563526481612,,Batter
+3648,Deepak Hooda,Lucknow Super Giants,55,19,232,Fully Eligible,38.654153301927536,53.0,Batter
+6460,Ayush Badoni,Lucknow Super Giants,56,29,465,Fully Eligible,90.29418591893699,8.0,Batter
+4219,Krunal Pandya,Lucknow Super Giants,54,20,233,Fully Eligible,12.192116407648967,66.0,Batter
+6288,Shubman Gill,Gujarat Titans,112,8,162,Limited Sample,76.80915359898573,,Batter
+2877,Vijay Shankar,Gujarat Titans,26,10,108,Limited Sample,67.73929585530223,,Batter
+3330,Hardik Pandya,India,118,41,691,Fully Eligible,73.30456488450699,27.0,Batter
+1077,David Miller,Gujarat Titans,81,46,660,Fully Eligible,93.74284047873832,6.0,Batter
+3926,Rahul Tewatia,Gujarat Titans,57,30,352,Fully Eligible,33.443004237224436,57.0,Batter
+4494,Abhinav Manohar,Gujarat Titans,20,11,143,Limited Sample,48.73435266546567,,Batter
+813,Jos Buttler,Rajasthan Royals,121,19,266,Fully Eligible,63.39590433161527,36.0,Batter
+6819,Yashasvi Jaiswal,Rajasthan Royals,89,1,4,Insufficient Evidence,58.47262923194726,,Batter
+2258,Sanju Samson,Rajasthan Royals,124,14,199,Limited Sample,33.09829840831332,,Batter
+6314,Devdutt Padikkal,Rajasthan Royals,60,9,96,Insufficient Evidence,33.92519268531469,,Batter
+3297,Shimron Hetmyer,Rajasthan Royals,94,39,504,Fully Eligible,41.35119973474233,49.0,Batter
+6423,Riyan Parag,Rajasthan Royals,69,23,340,Fully Eligible,86.96815783880827,14.0,Batter
+820,Nathan Coulter Nile,Rajasthan Royals,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+1568,Kane Williamson,New Zealand,24,4,52,Insufficient Evidence,49.34335370516091,,Batter
+6281,Abhishek Sharma,India,130,6,90,Insufficient Evidence,65.87385503282712,,Batter
+1440,Rahul Tripathi,Sunrisers Hyderabad,43,7,91,Insufficient Evidence,37.614634316134875,,Batter
+3605,Aiden Markram,South Africa,94,24,334,Fully Eligible,66.32921982516586,32.0,Batter
+7446,Abdul Samad,Sunrisers Hyderabad,41,23,258,Fully Eligible,26.374813135611475,61.0,Batter
+4823,Washington Sundar,Sunrisers Hyderabad,48,21,293,Fully Eligible,35.83552101447789,55.0,Batter
+360,Bhuvneshwar Kumar,Sunrisers Hyderabad,33,18,158,Limited Sample,3.5398993043070743,,Batter
+781,Sunil Narine,Kolkata Knight Riders,49,7,61,Insufficient Evidence,33.18003629217118,,Batter
+1318,Andre Russell,Kolkata Knight Riders,57,28,383,Fully Eligible,76.90555756331099,24.0,Batter
+278,Tim Southee,New Zealand,16,7,45,Insufficient Evidence,20.122927028391768,,Batter
+403,Umesh Yadav,Kolkata Knight Riders,15,9,82,Insufficient Evidence,24.658946806776072,,Batter
+6256,Varun Chakravarthy,Kolkata Knight Riders,14,5,45,Insufficient Evidence,17.51571906783675,,Batter
+6725,Sherfane Rutherford,West Indies,56,20,290,Fully Eligible,83.82371080885915,18.0,Batter
+1219,David Willey,Royal Challengers Bengaluru,10,4,61,Insufficient Evidence,63.038907788801566,,Batter
+7472,Shahbaz Ahmed,Royal Challengers Bengaluru,32,18,233,Fully Eligible,18.813860728768745,64.0,Batter
+2334,Dwaine Pretorius,Chennai Super Kings,11,3,27,Insufficient Evidence,60.241977416555656,,Batter
+161,Dwayne Bravo,Chennai Super Kings,6,2,22,Insufficient Evidence,43.31087922206707,,Batter
+7325,Harpreet Brar,Punjab Kings,21,10,101,Limited Sample,24.3151552082179,,Batter
+6161,Rahul Chahar,Punjab Kings,12,8,78,Insufficient Evidence,28.27326821829852,,Batter
+3628,Kagiso Rabada,Punjab Kings,25,15,114,Limited Sample,23.746857464650006,,Batter
+6464,Arshdeep Singh,India,39,17,100,Limited Sample,8.068926523463782,,Batter
+305,Ravichandran Ashwin,Rajasthan Royals,37,18,178,Limited Sample,57.8347251238778,,Batter
+4288,Navdeep Saini,Rajasthan Royals,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+2320,Trent Boult,Rajasthan Royals,20,9,73,Insufficient Evidence,37.38281849332273,,Batter
+5034,Murugan Ashwin,Mumbai Indians,4,1,14,Insufficient Evidence,42.59642655205088,,Batter
+2933,Jasprit Bumrah,Mumbai Indians,13,3,29,Insufficient Evidence,20.550629523467894,,Batter
+4722,Rashid Khan,Gujarat Titans,71,37,410,Fully Eligible,38.93352504643472,52.0,Batter
+3644,Kuldeep Yadav,Delhi Capitals,37,19,194,Limited Sample,0.8729045109150709,,Batter
+4816,Khaleel Ahmed,Chennai Super Kings,4,0,5,Insufficient Evidence,40.27300960730461,,Batter
+4373,Mustafizur Rahman,Bangladesh,13,10,59,Insufficient Evidence,26.93224992632084,,Batter
+3916,Jitesh Sharma,Punjab Kings,69,26,293,Fully Eligible,67.40971303536523,31.0,Batter
+8746,Vaibhav Arora,Punjab Kings,11,2,17,Insufficient Evidence,31.546339951883883,,Batter
+7250,Mukesh Choudhary,Chennai Super Kings,3,1,8,Insufficient Evidence,48.8085109172942,,Batter
+25048,Umran Malik,Sunrisers Hyderabad,7,2,18,Insufficient Evidence,57.24970002621621,,Batter
+25213,Dewald Brevis,South Africa,40,11,105,Limited Sample,27.13848334033775,,Batter
+220,David Warner,Delhi Capitals,45,9,147,Limited Sample,32.021828481780815,,Batter
+3645,Sarfaraz Khan,Delhi Capitals,16,6,82,Insufficient Evidence,36.52581700537838,,Batter
+1205,Jonny Bairstow,England,33,5,77,Insufficient Evidence,70.03031330127567,,Batter
+23450,Sai Sudharsan,Gujarat Titans,57,11,174,Limited Sample,64.12257097965693,,Batter
+20006,Ramandeep Singh,Kolkata Knight Riders,27,12,116,Limited Sample,15.492169906299875,,Batter
+1071,Jaydev Unadkat,Mumbai Indians,12,6,63,Insufficient Evidence,53.043525113752054,,Batter
+7327,Rasikh Salam,Delhi Capitals,6,4,29,Insufficient Evidence,22.645078954726788,,Batter
+2930,Rassie van der Dussen,South Africa,20,11,127,Limited Sample,68.86219109632769,,Batter
+914,Krishnappa Gowtham,Lucknow Super Giants,8,4,23,Insufficient Evidence,46.36595208951315,,Batter
+3653,Avesh Khan,Lucknow Super Giants,18,5,38,Insufficient Evidence,63.64265715782622,,Batter
+8085,Suyash Prabhudessai,Royal Challengers Bengaluru,10,7,76,Insufficient Evidence,38.30793288488847,,Batter
+7473,Akash Deep,Royal Challengers Bengaluru,5,1,11,Insufficient Evidence,53.33991087682083,,Batter
+5944,Mohammed Siraj,Royal Challengers Bengaluru,13,9,70,Insufficient Evidence,8.890207519594506,,Batter
+3323,Jimmy Neesham,New Zealand,38,21,278,Fully Eligible,59.111769407374815,40.0,Batter
+4489,Prasidh Krishna,Rajasthan Royals,5,3,22,Insufficient Evidence,33.661142281475875,,Batter
+1612,Yuzvendra Chahal,Rajasthan Royals,3,1,10,Insufficient Evidence,41.106207174943584,,Batter
+7545,Kuldeep Sen,Rajasthan Royals,1,1,3,Insufficient Evidence,50.82859919073314,,Batter
+20894,Aman Khan,Delhi Capitals,10,7,86,Insufficient Evidence,32.80441228435343,,Batter
+818,Mitchell Marsh,Lucknow Super Giants,82,7,98,Insufficient Evidence,33.40635008380674,,Batter
+7216,Prabhsimran Singh,Punjab Kings,60,1,46,Insufficient Evidence,70.73011188049239,,Batter
+109,Wriddhiman Saha,Gujarat Titans,37,2,11,Insufficient Evidence,58.448565132726394,,Batter
+3275,Alzarri Joseph,West Indies,20,10,106,Limited Sample,15.158372642856982,,Batter
+930,Karun Nair,Delhi Capitals,12,3,26,Insufficient Evidence,49.306452466288754,,Batter
+6286,Shivam Mavi,India,5,2,22,Insufficient Evidence,47.81926838026676,,Batter
+7503,Ravi Bishnoi,India,28,9,73,Insufficient Evidence,31.75574373122021,,Batter
+7920,Nathan Ellis,Australia,11,7,45,Insufficient Evidence,16.0450564134859,,Batter
+27959,Hrithik Shokeen,Mumbai Indians,5,3,42,Insufficient Evidence,46.29143160686937,,Batter
+4101,Mitchell Santner,New Zealand,57,24,312,Fully Eligible,15.191537493158009,65.0,Batter
+4692,Lockie Ferguson,New Zealand,13,5,30,Insufficient Evidence,25.818975774626306,,Batter
+7322,Yash Dayal,Royal Challengers Bengaluru,4,1,8,Insufficient Evidence,34.197983180028565,,Batter
+4708,Rinku Singh,Kolkata Knight Riders,83,33,498,Fully Eligible,87.22362095785347,12.0,Batter
+4106,Daryl Mitchell,New Zealand,69,26,325,Fully Eligible,19.140291554197336,63.0,Batter
+5039,Rajat Patidar,Royal Challengers Bengaluru,48,11,143,Limited Sample,65.51313264683985,,Batter
+2756,Shashank Singh,Punjab Kings,42,20,278,Fully Eligible,80.25488325342478,20.0,Batter
+7808,Marco Jansen,South Africa,34,18,197,Limited Sample,44.959057863840215,,Batter
+3451,Baba Indrajith,Kolkata Knight Riders,3,1,3,Insufficient Evidence,48.830367352981966,,Batter
+29888,Harshit Rana,India,18,9,126,Limited Sample,27.302836817760234,,Batter
+6669,Mohsin Khan,Lucknow Super Giants,7,4,24,Insufficient Evidence,35.128769367003656,,Batter
+1617,Rishi Dhawan,Punjab Kings,6,2,29,Insufficient Evidence,58.79746669824941,,Batter
+4821,Mahipal Lomror,Royal Challengers Bengaluru,25,9,105,Limited Sample,79.55580165393768,,Batter
+147,Pradeep Sangwan,Gujarat Titans,1,1,5,Insufficient Evidence,46.36143295187562,,Batter
+7533,Simarjeet Singh,Chennai Super Kings,6,2,11,Insufficient Evidence,32.649824045628826,,Batter
+1389,Sean Abbott,Australia,11,2,14,Insufficient Evidence,30.572843216172586,,Batter
+3469,Shreyas Gopal,Sunrisers Hyderabad,1,1,7,Insufficient Evidence,54.932072673423015,,Batter
+8530,Kartik Tyagi,Kolkata Knight Riders,5,2,14,Insufficient Evidence,36.284749854227016,,Batter
+6284,Anukul Roy,Kolkata Knight Riders,14,6,45,Insufficient Evidence,46.36355659807828,,Batter
+2852,Jagadeesha Suchith,Sunrisers Hyderabad,2,1,8,Insufficient Evidence,39.98043291399084,,Batter
+7240,FazalHaq Farooqi,Afghanistan,11,7,45,Insufficient Evidence,16.768215559556477,,Batter
+2860,KS Bharat,Delhi Capitals,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+8040,Ripal Patel,Delhi Capitals,5,5,46,Insufficient Evidence,38.343186522210424,,Batter
+7270,Anrich Nortje,Delhi Capitals,17,8,66,Insufficient Evidence,15.978208479350076,,Batter
+7574,Kumar Kartikeya Singh,Mumbai Indians,4,3,16,Insufficient Evidence,29.68795947302002,,Batter
+5940,Riley Meredith,Mumbai Indians,2,0,3,Insufficient Evidence,45.17458677220782,,Batter
+20023,Karan Sharma,Lucknow Super Giants,3,1,10,Insufficient Evidence,44.70802757365472,,Batter
+20702,Tristan Stubbs,Delhi Capitals,69,29,510,Fully Eligible,73.44850047745317,26.0,Batter
+5608,Narayan Jagadeesan,Chennai Super Kings,8,2,35,Insufficient Evidence,45.3962067352514,,Batter
+6487,Priyam Garg,Delhi Capitals,4,2,10,Insufficient Evidence,49.87519034197817,,Batter
+5665,Sanjay Yadav,Mumbai Indians,1,0,2,Insufficient Evidence,49.79534578638491,,Batter
+7498,Abhijeet Tomar,Kolkata Knight Riders,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+5029,Prerak Mankad,Lucknow Super Giants,5,1,9,Insufficient Evidence,70.7283033787275,,Batter
+2884,Manan Vohra,Lucknow Super Giants,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+4837,Obed McCoy,West Indies,8,6,43,Insufficient Evidence,33.84244448930822,,Batter
+2361,Temba Bavuma,South Africa,10,0,0,Insufficient Evidence,55.426381372200254,,Batter
+768,Reeza Hendricks,South Africa,34,8,139,Limited Sample,90.78073694394658,,Batter
+4260,Heinrich Klaasen,Sunrisers Hyderabad,72,28,440,Fully Eligible,81.53828237756309,19.0,Batter
+295,Wayne Parnell,South Africa,7,3,62,Insufficient Evidence,28.923816938091484,,Batter
+1944,Keshav Maharaj,South Africa,12,7,80,Insufficient Evidence,17.517412330605957,,Batter
+4237,Tabraiz Shamsi,South Africa,4,1,7,Insufficient Evidence,41.87813115141913,,Batter
+4641,Lungi Ngidi,South Africa,15,9,60,Insufficient Evidence,27.033041314143414,,Batter
+19312,Nuwan Thushara,Sri Lanka,7,3,19,Insufficient Evidence,31.94944772961099,,Batter
+4505,Jhye Richardson,Delhi Capitals,2,0,2,Insufficient Evidence,51.635868080340465,,Batter
+3304,Munim Shahriar,Bangladesh,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+499,Shakib Al Hasan,Bangladesh,18,7,112,Limited Sample,64.86366454562757,,Batter
+2218,Anamul Haque,Bangladesh,7,1,5,Insufficient Evidence,56.90931604859377,,Batter
+2671,Liton Das,Bangladesh,61,5,95,Insufficient Evidence,86.16410462423183,,Batter
+507,Mohammad Mahmudullah,Bangladesh,14,8,159,Limited Sample,35.9887441990051,,Batter
+5882,Afif Hossain,Bangladesh,20,11,141,Limited Sample,71.24776124411282,,Batter
+2680,Nurul Hasan,Bangladesh,22,13,143,Limited Sample,75.30560380788557,,Batter
+5837,Mahedi Hasan,Bangladesh,25,15,194,Limited Sample,28.41547449280598,,Batter
+4658,Nasum Ahmed,Bangladesh,15,8,66,Insufficient Evidence,19.440079265925053,,Batter
+2661,Shamarh Brooks,West Indies,7,1,13,Insufficient Evidence,48.680921352765836,,Batter
+3281,Mosaddek Hossain,Bangladesh,11,8,84,Insufficient Evidence,55.80254702379549,,Batter
+4867,Wesley Madhevere,Zimbabwe,30,10,138,Limited Sample,35.9803629873538,,Batter
+24887,Innocent Kaia,Zimbabwe,10,1,23,Insufficient Evidence,53.81160892204696,,Batter
+1116,Craig Ervine,Zimbabwe,15,4,38,Insufficient Evidence,39.72631603649964,,Batter
+1649,Regis Chakabva,Zimbabwe,5,2,22,Insufficient Evidence,50.56725452968651,,Batter
+4876,Milton Shumba,Zimbabwe,6,4,28,Insufficient Evidence,29.581894582610047,,Batter
+2984,Sikandar Raza,Zimbabwe,57,24,417,Fully Eligible,88.25052906376763,11.0,Batter
+2463,Ryan Burl,Zimbabwe,42,24,406,Fully Eligible,48.97081835346311,45.0,Batter
+22134,Luke Jongwe,Zimbabwe,17,13,108,Limited Sample,41.275517874264814,,Batter
+7709,Ainsley Ndlovu,Zimbabwe,3,3,32,Insufficient Evidence,42.202785253746214,,Batter
+1159,Tendai Chatara,Zimbabwe,5,3,24,Insufficient Evidence,34.60118385090044,,Batter
+7152,Hazratullah Zazai,Afghanistan,16,0,1,Insufficient Evidence,55.518327691336836,,Batter
+6674,Rahmanullah Gurbaz,Afghanistan,69,5,77,Insufficient Evidence,72.11825949568889,,Batter
+6433,Darwish Rasooli,Afghanistan,19,7,98,Insufficient Evidence,52.01944203200085,,Batter
+3544,Usman Ghani,Afghanistan,7,1,32,Insufficient Evidence,54.2496141901427,,Batter
+2533,Najibullah Zadran,Afghanistan,23,13,145,Limited Sample,49.03162930535368,,Batter
+1107,Mohammad Nabi,Afghanistan,50,27,397,Fully Eligible,76.74825384307886,25.0,Batter
+5808,Karim Janat,Afghanistan,23,9,113,Limited Sample,65.95160832110608,,Batter
+8600,Tadiwanashe Marumani,Zimbabwe,40,6,56,Insufficient Evidence,42.326098708265356,,Batter
+3995,Donald Tiripano,Zimbabwe,2,0,1,Insufficient Evidence,55.49414171228866,,Batter
+3545,Ihsanullah Janat,Afghanistan,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+3306,Afsar Zazai,Afghanistan,1,1,8,Insufficient Evidence,47.66509513063491,,Batter
+3550,Sharafuddin Ashraf,Afghanistan,3,1,14,Insufficient Evidence,63.99536332173871,,Batter
+6676,Azmatullah Omarzai,Afghanistan,53,30,391,Fully Eligible,31.912828404702303,58.0,Batter
+7967,Noor Ahmad,Afghanistan,26,16,104,Limited Sample,7.342265051995232,,Batter
+7227,Nijat Masood,Afghanistan,1,1,5,Insufficient Evidence,52.19323844725563,,Batter
+21781,Clive Madande,Zimbabwe,23,15,212,Fully Eligible,30.33069106755306,59.0,Batter
+443,Paul Stirling,Ireland,39,3,23,Insufficient Evidence,27.03849028031955,,Batter
+3954,Andrew Balbirnie,Ireland,29,4,61,Insufficient Evidence,83.64397141736711,,Batter
+7741,Gareth Delany,Ireland,31,13,185,Limited Sample,44.066975963577356,,Batter
+4812,Harry Tector,Ireland,45,10,175,Limited Sample,77.22058879087277,,Batter
+4814,Lorcan Tucker,Ireland,40,8,94,Insufficient Evidence,68.67472269821556,,Batter
+1101,George Dockrell,Ireland,42,22,260,Fully Eligible,70.69557281568002,29.0,Batter
+5379,Mark Adair,Ireland,27,20,219,Fully Eligible,85.52505728873881,16.0,Batter
+728,Dawid Malan,England,22,1,16,Insufficient Evidence,61.554567623360846,,Batter
+4409,Sam Curran,Punjab Kings,59,24,358,Fully Eligible,24.680349745507062,62.0,Batter
+6297,Matthew Parkinson,England,2,1,5,Insufficient Evidence,43.82134027219532,,Batter
+5562,Richard Gleeson,England,3,1,6,Insufficient Evidence,41.36059745823217,,Batter
+4838,Keemo Paul,West Indies,3,2,29,Insufficient Evidence,47.01030265455897,,Batter
+1810,Devon Thomas,West Indies,6,1,3,Insufficient Evidence,48.826606884917986,,Batter
+274,Martin Guptill,New Zealand,9,1,20,Insufficient Evidence,52.72176262522732,,Batter
+4847,Finn Allen,New Zealand,52,1,13,Insufficient Evidence,58.964920606973045,,Batter
+4684,Dane Cleaver,New Zealand,10,0,1,Insufficient Evidence,58.333574006439434,,Batter
+4853,Glenn Phillips,New Zealand,56,22,262,Fully Eligible,51.87482560241453,43.0,Batter
+6512,Michael Bracewell,New Zealand,33,12,153,Limited Sample,14.222936117312207,,Batter
+2526,Ish Sodhi,New Zealand,27,16,113,Limited Sample,22.551840862575663,,Batter
+7094,Curtis Campher,Ireland,35,16,196,Limited Sample,54.17554817884872,,Batter
+5441,Barry McCarthy,Ireland,15,10,103,Limited Sample,42.94499754084181,,Batter
+3720,Craig Young,Ireland,8,6,30,Insufficient Evidence,27.759183026835714,,Batter
+4807,Joshua Little,Ireland,5,3,19,Insufficient Evidence,45.99107954870531,,Batter
+772,Rilee Rossouw,Punjab Kings,26,5,49,Insufficient Evidence,66.06126478455148,,Batter
+3627,Andile Phehlukwayo,South Africa,5,4,30,Insufficient Evidence,27.272396861991645,,Batter
+1541,Sean Williams,Zimbabwe,14,5,41,Insufficient Evidence,31.40582225271818,,Batter
+3280,Nazmul Hossain Shanto,Bangladesh,28,5,68,Insufficient Evidence,47.74950461840178,,Batter
+4639,Wellington Masakadza,Zimbabwe,21,14,132,Limited Sample,20.70228670858113,,Batter
+21784,Brad Evans,Zimbabwe,17,13,116,Limited Sample,29.426819521160493,,Batter
+8664,Victor Nyauchi,Zimbabwe,1,1,3,Insufficient Evidence,51.843419807833435,,Batter
+7901,Parvez Emon,Bangladesh,36,3,22,Insufficient Evidence,25.235809177815117,,Batter
+6643,Hasan Mahmud,Bangladesh,7,4,46,Insufficient Evidence,48.26329974666071,,Batter
+3595,Andy McBrine,Ireland,2,2,8,Insufficient Evidence,54.80860477700092,,Batter
+8661,Matheesha Pathirana,Sri Lanka,9,4,31,Insufficient Evidence,25.090932874563883,,Batter
+7689,Dilshan Madushanka,Sri Lanka,5,1,12,Insufficient Evidence,30.389923558346375,,Batter
+6448,Ibrahim Zadran,Afghanistan,47,10,183,Limited Sample,50.75557646742161,,Batter
+3024,Mohammad Rizwan,Pakistan,37,7,126,Limited Sample,87.98952972471747,,Batter
+2485,Babar Azam,Pakistan,52,8,107,Limited Sample,81.16237391155417,,Batter
+2921,Fakhar Zaman,Pakistan,47,14,171,Limited Sample,76.58735939206804,,Batter
+3056,Iftikhar Ahmed,Pakistan,30,16,204,Fully Eligible,65.37091549118053,34.0,Batter
+4111,Khushdil Shah,Pakistan,18,10,135,Limited Sample,12.335212705086352,,Batter
+4926,Shadab Khan,Pakistan,29,10,109,Limited Sample,19.544983556325455,,Batter
+2892,Asif Ali,Pakistan,13,6,53,Insufficient Evidence,52.3554202225254,,Batter
+2490,Mohammad Nawaz,Pakistan,46,26,279,Fully Eligible,47.67917290967929,46.0,Batter
+7364,Haris Rauf,Pakistan,23,12,97,Insufficient Evidence,40.588222631868994,,Batter
+8049,Naseem Shah,Pakistan,11,4,41,Insufficient Evidence,30.2170555179177,,Batter
+19530,Shahnawaz Dhani,Pakistan,1,1,6,Insufficient Evidence,61.89368085626984,,Batter
+6645,Mohammad Sheikh,Bangladesh,4,2,25,Insufficient Evidence,45.252208161365544,,Batter
+505,Mushfiqur Rahim,Bangladesh,2,1,3,Insufficient Evidence,48.92266967233296,,Batter
+3382,Nizakat Khan,Hong Kong,7,2,68,Insufficient Evidence,58.27738267021615,,Batter
+2972,Yasim Murtaza,Hong Kong,8,4,63,Insufficient Evidence,36.31993913302601,,Batter
+3377,Babar Hayat,Hong Kong,8,2,30,Insufficient Evidence,41.71809633362145,,Batter
+3383,Kinchit Shah,Hong Kong,6,3,48,Insufficient Evidence,33.119207047154596,,Batter
+3373,Aizaz Khan,Hong Kong,6,5,44,Insufficient Evidence,22.018188691105667,,Batter
+19012,Zeeshan Ali,Hong Kong,6,4,55,Insufficient Evidence,57.198535874950394,,Batter
+6705,Scott McKechnie,Hong Kong,3,3,26,Insufficient Evidence,49.25246845317547,,Batter
+3282,Mehidy Hasan Miraz,Bangladesh,17,5,109,Insufficient Evidence,37.31888940044719,,Batter
+2210,Sabbir Rahman,Bangladesh,4,0,0,Insufficient Evidence,55.426381372200254,,Batter
+2681,Taskin Ahmed,Bangladesh,17,10,85,Insufficient Evidence,24.147006206597553,,Batter
+4901,Asitha Fernando,Sri Lanka,3,0,3,Insufficient Evidence,59.27009720977735,,Batter
+7201,Haroon Arshad,Hong Kong,2,2,18,Insufficient Evidence,57.01422616516724,,Batter
+19125,Ayush Shukla,Hong Kong,2,1,7,Insufficient Evidence,42.42943155600434,,Batter
+5750,Ehsan Khan,Hong Kong,4,2,17,Insufficient Evidence,35.29696819955741,,Batter
+7935,Mohammad Ghazanfar,Hong Kong,2,1,4,Insufficient Evidence,49.43226680264542,,Batter
+6450,Mujeeb Ur Rahman,Afghanistan,14,7,65,Insufficient Evidence,54.141253496393425,,Batter
+4201,Fareed Malik,Afghanistan,3,3,20,Insufficient Evidence,30.01438603902637,,Batter
+3623,Hasan Ali,Pakistan,4,1,12,Insufficient Evidence,39.40165408378491,,Batter
+3033,Usman Qadir,Pakistan,2,1,7,Insufficient Evidence,44.115515058635005,,Batter
+6677,Mohammad Hasnain,Pakistan,4,3,12,Insufficient Evidence,54.86129094122775,,Batter
+2407,Dhananjaya de Silva,Sri Lanka,15,2,20,Insufficient Evidence,46.29238405360647,,Batter
+2996,Stephanus Myburgh,Netherlands,2,1,5,Insufficient Evidence,50.29744259988364,,Batter
+4412,Max ODowd,Netherlands,11,0,0,Insufficient Evidence,55.426381372200254,,Batter
+6985,Bas de Leede,Netherlands,5,3,64,Insufficient Evidence,62.640145918677185,,Batter
+232,Tom Cooper,Netherlands,2,1,13,Insufficient Evidence,62.05114217050082,,Batter
+6881,Scott Edwards,Netherlands,12,5,45,Insufficient Evidence,39.758622850102654,,Batter
+6514,Anil Nidamanuru,Netherlands,5,2,22,Insufficient Evidence,66.51301799421009,,Batter
+3772,Logan van Beek,Netherlands,5,4,18,Insufficient Evidence,33.20983852015791,,Batter
+19902,Tim Pringle,Netherlands,4,3,36,Insufficient Evidence,58.444794971458435,,Batter
+22187,Ryan Klein,Netherlands,5,3,49,Insufficient Evidence,62.57767396742647,,Batter
+24381,Shariz Ahmad,Netherlands,3,3,31,Insufficient Evidence,38.26319438144763,,Batter
+7914,Clayton Floyd,Netherlands,1,0,1,Insufficient Evidence,55.49414171228866,,Batter
+7912,Vikramjit Singh,Netherlands,11,1,12,Insufficient Evidence,69.65417092242136,,Batter
+3260,Hashmatullah Shahidi,Afghanistan,2,1,30,Insufficient Evidence,44.42100464421883,,Batter
+5809,Naveen ul Haq,Afghanistan,11,7,64,Insufficient Evidence,13.537363457877655,,Batter
+22137,Fionn Hand,Ireland,7,2,24,Insufficient Evidence,77.08106391901599,,Batter
+17424,Graham Hume,Ireland,5,1,4,Insufficient Evidence,53.483974624313724,,Batter
+7925,Rohan Rangarajan,Singapore,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+7931,Aritra Dutta,Singapore,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+3832,Rezza Gaznavi,Singapore,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+7927,Janak Prakash,Singapore,3,1,33,Insufficient Evidence,46.55116189804924,,Batter
+7926,Manpreet Singh,Singapore,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+8014,Avi Dixit,Singapore,3,3,21,Insufficient Evidence,42.227543243006664,,Batter
+6203,Surendran Chandramohan,Singapore,3,1,5,Insufficient Evidence,60.139445313719676,,Batter
+3839,Amjad Mahboob,Singapore,3,2,19,Insufficient Evidence,50.07657691575436,,Batter
+7929,Aryaman Sunil Uchil,Singapore,3,2,16,Insufficient Evidence,49.27635335419298,,Batter
+22565,Muhammad Waseem,United Arab Emirates,20,2,21,Insufficient Evidence,51.26268991512699,,Batter
+6035,Chirag Suri,United Arab Emirates,5,0,0,Insufficient Evidence,55.426381372200254,,Batter
+8637,Vriitya Aravind,United Arab Emirates,8,0,0,Insufficient Evidence,55.426381372200254,,Batter
+8005,Zawar Farid,United Arab Emirates,5,3,35,Insufficient Evidence,60.13152614187197,,Batter
+8638,Basil Hameed,United Arab Emirates,9,5,83,Insufficient Evidence,33.36644492002429,,Batter
+15274,Ravija Sandaruwan,Kuwait,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+25501,Meet Bhavsar,Kuwait,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+25502,Adnan Idrees,Kuwait,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+15271,Usmangani Ibrahim Patel,Kuwait,3,1,15,Insufficient Evidence,53.923830280328644,,Batter
+15279,Shiraz Khan,Kuwait,2,1,5,Insufficient Evidence,47.12662092571593,,Batter
+15303,Bilal Tahir,Kuwait,3,0,3,Insufficient Evidence,46.21013435603671,,Batter
+15269,Mohammed Aslam,Kuwait,2,2,33,Insufficient Evidence,54.38730895008727,,Batter
+25507,Edson Silva,Kuwait,3,2,39,Insufficient Evidence,80.17444800204015,,Batter
+15280,Sayed Monib,Kuwait,3,2,11,Insufficient Evidence,60.33515752176586,,Batter
+31107,Yasin Patel,Kuwait,1,1,7,Insufficient Evidence,51.40042357422394,,Batter
+24346,Mohamed Shafeeq,Kuwait,2,1,6,Insufficient Evidence,55.4098499324928,,Batter
+7406,Rizwan CP,United Arab Emirates,4,2,64,Insufficient Evidence,68.30943147868373,,Batter
+8719,Aryan Lakra,United Arab Emirates,4,0,0,Insufficient Evidence,55.426381372200254,,Batter
+16498,Sultan Ahmad,United Arab Emirates,2,0,4,Insufficient Evidence,47.283231738146576,,Batter
+8639,Kartik Meiyappan,United Arab Emirates,2,2,15,Insufficient Evidence,48.02965643355196,,Batter
+8009,Junaid Siddique,United Arab Emirates,10,8,38,Insufficient Evidence,26.94103968369187,,Batter
+31836,Aman Desai,Singapore,2,2,21,Insufficient Evidence,40.815666697139406,,Batter
+7928,Vinoth Baskaran,Singapore,2,2,9,Insufficient Evidence,42.231271569640995,,Batter
+31835,Akshay Roopak Puri,Singapore,2,1,5,Insufficient Evidence,47.12662092571593,,Batter
+33440,Adwitya Bhargava,Singapore,2,1,6,Insufficient Evidence,54.1823696359582,,Batter
+3040,Kashif Daud,United Arab Emirates,1,0,2,Insufficient Evidence,51.70437069838388,,Batter
+5939,Cameron Green,Kolkata Knight Riders,63,12,153,Limited Sample,29.29816850367064,,Batter
+7338,Haider Ali,Pakistan,9,2,17,Insufficient Evidence,39.552741223761736,,Batter
+3097,Shan Masood,Pakistan,10,2,73,Insufficient Evidence,78.84276515175061,,Batter
+1183,Alex Hales,England,9,0,0,Insufficient Evidence,55.426381372200254,,Batter
+2379,Ben Duckett,England,20,2,32,Insufficient Evidence,39.40159713116602,,Batter
+6272,William Jacks,Mumbai Indians,55,8,51,Insufficient Evidence,40.8737253337855,,Batter
+2321,Olly Stone,England,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+19145,Aamer Jamal,Pakistan,3,3,22,Insufficient Evidence,61.4637051082119,,Batter
+7696,Mohammad Wasim,Pakistan,7,3,18,Insufficient Evidence,38.32594087220086,,Batter
+1171,Chris Woakes,England,8,4,37,Insufficient Evidence,22.682170564988162,,Batter
+8741,Mohammad Haris,Pakistan,30,3,41,Insufficient Evidence,49.16027467542528,,Batter
+1813,Deepak Chahar,Mumbai Indians,11,5,57,Insufficient Evidence,63.561681961050176,,Batter
+5839,Yasir Ali Chowdhury,Bangladesh,9,6,63,Insufficient Evidence,72.17229386478583,,Batter
+27464,Aayan Afzal Khan,United Arab Emirates,3,3,56,Insufficient Evidence,49.56644386901937,,Batter
+1327,Johnson Charles,West Indies,27,0,1,Insufficient Evidence,51.73348239848884,,Batter
+2650,Raymon Reifer,West Indies,2,1,15,Insufficient Evidence,45.50047845813136,,Batter
+3135,Yannic Cariah,West Indies,2,0,4,Insufficient Evidence,51.319783909683956,,Batter
+3374,Mark Chapman,New Zealand,53,21,295,Fully Eligible,96.59057103834327,2.0,Batter
+2213,Soumya Sarkar,Bangladesh,13,2,31,Insufficient Evidence,46.936385702602955,,Batter
+38855,Mohammad Saifuddin,Bangladesh,12,6,61,Insufficient Evidence,40.911480645656454,,Batter
+1195,Ben Stokes,England,5,0,0,Insufficient Evidence,55.426381372200254,,Batter
+286,Kane Richardson,Australia,1,0,1,Insufficient Evidence,54.78469973548871,,Batter
+4604,Mitchell Swepson,Australia,1,0,1,Insufficient Evidence,56.20182829867003,,Batter
+1487,Adam Milne,New Zealand,13,6,41,Insufficient Evidence,26.04349131711589,,Batter
+4947,Kasun Rajitha,Sri Lanka,3,2,9,Insufficient Evidence,59.74352490803771,,Batter
+17432,Ross Adair,Ireland,16,1,18,Insufficient Evidence,48.71650124239593,,Batter
+4802,Stephen Doheny,Ireland,3,1,5,Insufficient Evidence,61.962340123504845,,Batter
+6919,Tyrone Kane,Ireland,1,1,11,Insufficient Evidence,48.156987495281065,,Batter
+1233,Gary Ballance,Zimbabwe,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+17413,Neil Rock,Ireland,6,3,18,Insufficient Evidence,32.08491370701847,,Batter
+4815,Benjamin White,Ireland,4,2,11,Insufficient Evidence,38.78451827363942,,Batter
+7894,Tony Munyonga,Zimbabwe,13,6,59,Insufficient Evidence,38.31967994531059,,Batter
+22920,Jacob Duffy,New Zealand,10,4,26,Insufficient Evidence,51.9220671767511,,Batter
+5892,Blair Tickner,New Zealand,1,1,5,Insufficient Evidence,47.12662092571593,,Batter
+6515,Benjamin Lister,New Zealand,3,1,6,Insufficient Evidence,40.04749726978175,,Batter
+4235,Sisanda Magala,South Africa,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+4636,Bjorn Fortuin,South Africa,10,5,49,Insufficient Evidence,50.9411242456449,,Batter
+4372,Rony Talukder,Bangladesh,9,0,0,Insufficient Evidence,55.426381372200254,,Batter
+6651,Towhid Hridoy,Bangladesh,50,14,257,Fully Eligible,78.35500059215825,21.0,Batter
+24475,Rehan Ahmed,England,8,2,17,Insufficient Evidence,57.437189162397495,,Batter
+3298,Jofra Archer,Rajasthan Royals,29,11,102,Limited Sample,25.6696044501206,,Batter
+6772,Chetan Sakariya,Delhi Capitals,2,1,6,Insufficient Evidence,47.55623349759584,,Batter
+5041,Mukesh Kumar,Delhi Capitals,8,2,20,Insufficient Evidence,33.337417602429724,,Batter
+7059,Nehal Wadhera,Mumbai Indians,37,14,229,Fully Eligible,54.14103659746606,42.0,Batter
+20005,Arshad Khan,Lucknow Super Giants,13,8,93,Insufficient Evidence,61.005432877684875,,Batter
+2985,Mark Wood,England,6,3,18,Insufficient Evidence,59.25359974112836,,Batter
+19714,Abishek Porel,Delhi Capitals,33,9,116,Limited Sample,39.15390498491275,,Batter
+7260,Dhruv Jurel,Rajasthan Royals,54,16,257,Fully Eligible,88.40918675479546,10.0,Batter
+395,Karn Sharma,Royal Challengers Bengaluru,6,3,16,Insufficient Evidence,50.443455085845336,,Batter
+23,Piyush Chawla,Mumbai Indians,10,4,34,Insufficient Evidence,34.627647105733175,,Batter
+3727,Matthew Short,Australia,31,3,44,Insufficient Evidence,51.58242565774035,,Batter
+36983,Mohit Rathee,Punjab Kings,1,0,2,Insufficient Evidence,54.43005811853339,,Batter
+26909,Yash Dhull,Delhi Capitals,3,1,10,Insufficient Evidence,50.41590678435439,,Batter
+8580,Yudhvir Singh,Lucknow Super Giants,4,2,16,Insufficient Evidence,43.94845085217635,,Batter
+6466,Atharwa Taide,Punjab Kings,10,2,41,Insufficient Evidence,64.49784911695163,,Batter
+1040,Harpreet Bhatia,Punjab Kings,5,2,37,Insufficient Evidence,51.564290897022914,,Batter
+6683,Mayank Markande,Sunrisers Hyderabad,3,1,13,Insufficient Evidence,62.114852043975624,,Batter
+4487,Vyshak Kumar,Royal Challengers Bengaluru,6,2,16,Insufficient Evidence,40.25630387833878,,Batter
+20802,Abdul Basith,Rajasthan Royals,1,0,1,Insufficient Evidence,55.41348041359002,,Batter
+1045,David Wiese,Kolkata Knight Riders,3,1,8,Insufficient Evidence,49.165321443930814,,Batter
+28,Ishant Sharma,Delhi Capitals,3,2,8,Insufficient Evidence,42.21332127636137,,Batter
+7060,Arjun Tendulkar,Mumbai Indians,2,1,9,Insufficient Evidence,51.043700868358634,,Batter
+2054,Jason Behrendorff,Mumbai Indians,3,2,11,Insufficient Evidence,47.4340026477757,,Batter
+158,Amit Mishra,Lucknow Super Giants,1,1,17,Insufficient Evidence,44.03707518193213,,Batter
+2411,Sandeep Sharma,Rajasthan Royals,3,2,11,Insufficient Evidence,43.609288149848254,,Batter
+1701,Swapnil Singh,Lucknow Super Giants,6,2,8,Insufficient Evidence,56.16511985048665,,Batter
+393,Kedar Jadhav,Royal Challengers Bengaluru,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+6806,Tushar Deshpande,Rajasthan Royals,8,3,24,Insufficient Evidence,42.737822428657005,,Batter
+4211,Vishnu Vinod,Mumbai Indians,4,3,16,Insufficient Evidence,45.32445034264467,,Batter
+2790,Praveen Dubey,Delhi Capitals,1,1,3,Insufficient Evidence,48.54102774388262,,Batter
+2531,Joe Root,Rajasthan Royals,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+6591,KM Asif,Rajasthan Royals,1,0,2,Insufficient Evidence,49.79534578638491,,Batter
+1566,Mohammed Shami,Lucknow Super Giants,15,7,35,Insufficient Evidence,38.8510193528444,,Batter
+2878,Mohit Sharma,Gujarat Titans,5,1,18,Insufficient Evidence,24.93674915100854,,Batter
+7304,Sanvir Singh,Sunrisers Hyderabad,5,1,8,Insufficient Evidence,57.369157855181875,,Batter
+20989,Vivrant Sharma,Sunrisers Hyderabad,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+7690,Saim Ayub,Pakistan,58,1,11,Insufficient Evidence,65.068843867949,,Batter
+6441,Abdullah Shafique,Pakistan,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+7355,Tayyab Tahir,Pakistan,7,4,57,Insufficient Evidence,47.93047833609393,,Batter
+3578,Imad Wasim,Pakistan,11,4,103,Insufficient Evidence,41.06736538504702,,Batter
+6783,Azam Khan,Pakistan,10,4,25,Insufficient Evidence,26.332878307218316,,Batter
+5189,Faheem Ashraf,Pakistan,27,11,122,Limited Sample,35.58422844275911,,Batter
+25030,Zaman Khan,Pakistan,2,1,8,Insufficient Evidence,53.11266274619474,,Batter
+27516,Ihsanullah Ihsanullah,Pakistan,1,1,8,Insufficient Evidence,51.69497325603556,,Batter
+2214,Gulbadin Naib,Afghanistan,14,5,63,Insufficient Evidence,73.03442284120794,,Batter
+8647,Sediqullah Atal,Afghanistan,30,5,82,Insufficient Evidence,63.77229295820147,,Batter
+7903,Shamim Hossain,Bangladesh,34,15,197,Limited Sample,53.690198121799895,,Batter
+8380,Mohammad Rishad Hossain,Bangladesh,29,19,153,Limited Sample,16.355016639034815,,Batter
+7344,Shoriful Islam,Bangladesh,16,9,73,Insufficient Evidence,20.76297721359211,,Batter
+1481,Kusal Perera,Sri Lanka,32,5,42,Insufficient Evidence,43.61428532348241,,Batter
+25534,Chad Bowes,New Zealand,11,0,1,Insufficient Evidence,51.8757883405007,,Batter
+2246,Tom Latham,New Zealand,11,2,28,Insufficient Evidence,59.488759525257585,,Batter
+4854,Rachin Ravindra,New Zealand,44,12,97,Insufficient Evidence,56.49160695581252,,Batter
+6025,Henry Shipley,New Zealand,2,0,2,Insufficient Evidence,55.320448853668445,,Batter
+6932,Pramod Madushan,Sri Lanka,1,1,3,Insufficient Evidence,48.92266967233296,,Batter
+6355,Shaheen Afridi,Pakistan,26,18,155,Limited Sample,23.9339449518043,,Batter
+2523,Will Young,New Zealand,12,4,44,Insufficient Evidence,64.25322211155935,,Batter
+3174,Matt Henry,New Zealand,9,3,21,Insufficient Evidence,24.350270203408886,,Batter
+4662,Cole McConchie,New Zealand,9,6,90,Insufficient Evidence,36.37651695034483,,Batter
+6489,Darshan Nalkande,Gujarat Titans,2,0,1,Insufficient Evidence,50.79742662746143,,Batter
+27469,Aryansh Sharma,United Arab Emirates,6,1,5,Insufficient Evidence,54.50066038817407,,Batter
+8301,Asif Khan,United Arab Emirates,13,6,87,Insufficient Evidence,85.22045795171998,,Batter
+8217,Ansh Tandon,United Arab Emirates,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+27460,Ali Naseer,United Arab Emirates,1,1,4,Insufficient Evidence,57.44446168487263,,Batter
+8723,Mohammed Faraazuddin,United Arab Emirates,2,1,8,Insufficient Evidence,43.23805130948891,,Batter
+6503,Zahoor Khan,United Arab Emirates,1,0,2,Insufficient Evidence,53.89893529896903,,Batter
+3697,Kyle Jamieson,New Zealand,14,10,62,Insufficient Evidence,25.028412467317107,,Batter
+4793,Dean Foxcroft,New Zealand,6,0,0,Insufficient Evidence,55.426381372200254,,Batter
+2367,Travis Head,Sunrisers Hyderabad,66,1,17,Insufficient Evidence,60.121666786715025,,Batter
+6398,Aaron Hardie,Australia,11,2,27,Insufficient Evidence,46.97186475125338,,Batter
+6628,Gerald Coetzee,South Africa,18,9,76,Insufficient Evidence,21.85642381616162,,Batter
+2483,Lizaad Williams,South Africa,9,2,19,Insufficient Evidence,25.40781325902054,,Batter
+6342,Matthew Breetzke,South Africa,14,4,31,Insufficient Evidence,29.779522531010038,,Batter
+8182,Donovan Ferreira,Rajasthan Royals,30,12,167,Limited Sample,25.532742840307865,,Batter
+2373,Ashton Turner,Lucknow Super Giants,3,1,9,Insufficient Evidence,58.644982846475244,,Batter
+3660,Luke Wood,England,3,2,8,Insufficient Evidence,53.493016186088205,,Batter
+7008,Gus Atkinson,England,2,2,23,Insufficient Evidence,33.15707337681109,,Batter
+6097,Brydon Carse,England,8,3,12,Insufficient Evidence,51.102414946999666,,Batter
+8424,Tanveer Sangha,Australia,1,1,4,Insufficient Evidence,51.66138520350611,,Batter
+6395,Josh Philippe,Australia,5,1,17,Insufficient Evidence,44.87172748808046,,Batter
+3641,Ben Dwarshuis,Australia,9,3,25,Insufficient Evidence,38.41293895001761,,Batter
+4221,Chris Green,Australia,1,1,3,Insufficient Evidence,52.55748546150465,,Batter
+7312,Nandre Burger,South Africa,6,3,24,Insufficient Evidence,30.76231486795063,,Batter
+24017,Brian Bennett,Zimbabwe,44,6,66,Insufficient Evidence,58.83222759671689,,Batter
+28915,Trevor Gwandu,Zimbabwe,5,4,25,Insufficient Evidence,30.4438917847517,,Batter
+4874,Richard Ngarava,Zimbabwe,19,4,51,Insufficient Evidence,19.73250452975126,,Batter
+6523,Blessing Muzarabani,Zimbabwe,15,6,39,Insufficient Evidence,21.34626636529655,,Batter
+7046,Tinashe Kamunhukamwe,Zimbabwe,5,0,0,Insufficient Evidence,55.426381372200254,,Batter
+4871,Brandon Mavuta,Zimbabwe,2,2,15,Insufficient Evidence,40.85805663055197,,Batter
+8295,Matthew Forde,West Indies,14,10,81,Insufficient Evidence,64.08500564996727,,Batter
+3276,Gudakesh Motie,West Indies,21,11,100,Limited Sample,77.23465314012611,,Batter
+4856,Benjamin Sears,New Zealand,8,4,28,Insufficient Evidence,26.854694031287885,,Batter
+6389,Tanvir Islam,Bangladesh,3,2,12,Insufficient Evidence,43.84418268998067,,Batter
+3669,Sadeera Samarawickrama,Sri Lanka,8,4,24,Insufficient Evidence,66.9064778653946,,Batter
+332,Angelo Mathews,Sri Lanka,7,6,92,Insufficient Evidence,67.4326718611955,,Batter
+2534,Rahmat Shah,Afghanistan,1,1,6,Insufficient Evidence,47.63921437659728,,Batter
+3077,Usama Mir,Pakistan,4,1,7,Insufficient Evidence,48.99233243924209,,Batter
+7699,Abbas Afridi,Pakistan,14,7,81,Insufficient Evidence,18.37553368911868,,Batter
+3091,Sahibzada Farhan,Pakistan,39,3,60,Insufficient Evidence,52.89018148717397,,Batter
+26839,Haseebullah Khan,Pakistan,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+6436,Qais Ahmad,Afghanistan,1,1,4,Insufficient Evidence,56.75026768485398,,Batter
+8652,Mohammad Ishaq,Afghanistan,7,2,24,Insufficient Evidence,44.74508059413828,,Batter
+4904,Kamindu Mendis,Sri Lanka,38,18,200,Fully Eligible,35.06172526383037,56.0,Batter
+2439,Akila Dananjaya,Sri Lanka,1,0,1,Insufficient Evidence,58.350220131118945,,Batter
+4686,Joshua Clarkson,New Zealand,9,7,79,Insufficient Evidence,51.096370032305515,,Batter
+3651,Ricky Bhui,Delhi Capitals,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+8266,Sumit Kumar 1,Delhi Capitals,3,2,15,Insufficient Evidence,38.13970951768438,,Batter
+37052,Naman Dhir,Mumbai Indians,42,14,187,Limited Sample,95.90539663843694,,Batter
+6697,Shams Mulani,Mumbai Indians,1,0,1,Insufficient Evidence,55.41348041359002,,Batter
+8238,Sameer Rizvi,Delhi Capitals,18,6,110,Limited Sample,56.771690776624276,,Batter
+6354,Spencer Johnson,Gujarat Titans,7,2,13,Insufficient Evidence,34.66978252466223,,Batter
+8177,Akash Madhwal,Rajasthan Royals,2,2,14,Insufficient Evidence,40.75757846883993,,Batter
+25139,Shubham Dubey,Rajasthan Royals,17,13,104,Limited Sample,75.52737651679368,,Batter
+4716,Mayank Dagar,Royal Challengers Bengaluru,1,0,1,Insufficient Evidence,54.68516872848035,,Batter
+26906,Angkrish Raghuvanshi,Kolkata Knight Riders,30,6,54,Insufficient Evidence,40.87791855532916,,Batter
+8101,Ashutosh Sharma,Delhi Capitals,26,20,248,Fully Eligible,96.19346144246234,4.0,Batter
+8221,Nitish Reddy,Sunrisers Hyderabad,45,13,202,Fully Eligible,78.11280239454044,22.0,Batter
+27962,Saurav Chauhan,Royal Challengers Bengaluru,3,1,7,Insufficient Evidence,49.43933976066104,,Batter
+8251,Kumar Kushagra,Delhi Capitals,4,1,4,Insufficient Evidence,43.17252370871061,,Batter
+4486,BR Sharath,Gujarat Titans,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+4773,Jaker Ali Anik,Bangladesh,34,18,331,Fully Eligible,62.75519420509317,37.0,Batter
+24779,Ijaz Ahmadzai,Afghanistan,5,4,57,Insufficient Evidence,77.333374065604,,Batter
+17911,Nangeyalia Kharote,Afghanistan,2,1,10,Insufficient Evidence,47.76937505848827,,Batter
+7341,Jake McGurk,Delhi Capitals,23,1,9,Insufficient Evidence,73.28799592512513,,Batter
+6486,Tanush Kotian,Rajasthan Royals,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+5577,Sai Kishore,Gujarat Titans,4,2,15,Insufficient Evidence,43.73692000727978,,Batter
+42845,Arshin Kulkarni,Lucknow Super Giants,4,0,0,Insufficient Evidence,55.426381372200254,,Batter
+34969,Manav Suthar,Gujarat Titans,1,0,2,Insufficient Evidence,50.51868652933359,,Batter
+27964,Anshul Kamboj,Chennai Super Kings,10,7,47,Insufficient Evidence,54.9316091775821,,Batter
+3967,Tom Kohler,Rajasthan Royals,3,1,3,Insufficient Evidence,47.97383892001751,,Batter
+43774,Shivam Singh,Punjab Kings,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+19315,Vijayakanth Viyaskanth,Sunrisers Hyderabad,2,1,7,Insufficient Evidence,48.481960368324906,,Batter
+28967,Tim Robinson,New Zealand,26,1,5,Insufficient Evidence,43.446015605718046,,Batter
+20327,Usman Khan,Pakistan,23,4,34,Insufficient Evidence,48.873833076317126,,Batter
+8739,Muhammad Irfan,Pakistan,11,4,44,Insufficient Evidence,55.97800106072651,,Batter
+4665,Tom Blundell,New Zealand,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+470,Mohammad Amir,Pakistan,2,1,4,Insufficient Evidence,56.05398369216819,,Batter
+29066,Zakary Foulkes,New Zealand,12,4,43,Insufficient Evidence,49.166325748723324,,Batter
+21791,J Gumbie,Zimbabwe,3,1,5,Insufficient Evidence,51.83200712381467,,Batter
+7900,Tanzid Hasan,Bangladesh,44,3,34,Insufficient Evidence,52.225744980764034,,Batter
+7978,Johnathan Campbell,Zimbabwe,9,5,61,Insufficient Evidence,52.1027677268935,,Batter
+19147,Faraz Akram,Zimbabwe,5,4,46,Insufficient Evidence,66.4948332844238,,Batter
+7905,Tanzim Sakib,Bangladesh,17,13,132,Limited Sample,29.919383864864873,,Batter
+492,Andre Fletcher,West Indies,5,0,0,Insufficient Evidence,55.426381372200254,,Batter
+4007,Ryan Rickelton,South Africa,47,3,32,Insufficient Evidence,61.9838293516109,,Batter
+4779,Pieter Willem Mulder,South Africa,10,4,50,Insufficient Evidence,42.4914561610417,,Batter
+8805,Ottneil Baartman,South Africa,6,3,35,Insufficient Evidence,20.299691371459943,,Batter
+25128,Nqabayomzi Peter,South Africa,4,3,12,Insufficient Evidence,54.54360599720963,,Batter
+5866,Patrick Kruger,South Africa,5,4,59,Insufficient Evidence,45.79562253246755,,Batter
+6574,Alick Athanaze,West Indies,15,0,0,Insufficient Evidence,55.426381372200254,,Batter
+42811,Michael Levitt,Netherlands,8,0,0,Insufficient Evidence,55.426381372200254,,Batter
+757,Sybrand Engelbrecht,Netherlands,2,1,5,Insufficient Evidence,50.04709688168837,,Batter
+22188,Aryan Dutt,Netherlands,5,4,44,Insufficient Evidence,45.55775965626902,,Batter
+2997,Paul van Meekeren,Netherlands,5,3,18,Insufficient Evidence,32.336281360269595,,Batter
+27743,DT Doram,Netherlands,2,1,6,Insufficient Evidence,51.30090458408383,,Batter
+6900,Michael Jones,Scotland,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+7911,Oliver Hairs,Scotland,5,0,0,Insufficient Evidence,55.426381372200254,,Batter
+24982,Charlie Tear,Scotland,3,0,2,Insufficient Evidence,51.84706649940296,,Batter
+418,Richard Berrington,Scotland,6,0,0,Insufficient Evidence,55.426381372200254,,Batter
+3415,Matthew Cross,Scotland,5,3,22,Insufficient Evidence,48.513094449229996,,Batter
+3361,Michael Leask,Scotland,6,2,15,Insufficient Evidence,50.769351897687834,,Batter
+3689,Mark Watt,Scotland,6,5,51,Insufficient Evidence,41.87843539992841,,Batter
+24812,Chris Greaves,Scotland,4,4,28,Insufficient Evidence,33.839969830433304,,Batter
+3683,Gavin Main,Scotland,1,0,1,Insufficient Evidence,51.89678575983777,,Batter
+30925,Bradley Currie,Scotland,3,1,9,Insufficient Evidence,47.77866806014096,,Batter
+3686,CB Sole,Scotland,5,4,22,Insufficient Evidence,34.166291785671255,,Batter
+4102,George Munsey,Scotland,5,0,2,Insufficient Evidence,63.68523151494333,,Batter
+1791,Wesley Barresi,Netherlands,2,1,4,Insufficient Evidence,51.59603199948675,,Batter
+46378,Kyle Klein,Netherlands,5,4,39,Insufficient Evidence,25.23912251099294,,Batter
+3771,Vivian Kingma,Netherlands,1,0,1,Insufficient Evidence,51.89678575983777,,Batter
+2296,Safyaan Sharif,Scotland,2,1,6,Insufficient Evidence,51.30090458408383,,Batter
+6664,Dion Myers,Zimbabwe,20,5,104,Insufficient Evidence,68.3230028770158,,Batter
+3673,Ramesh Mendis,Sri Lanka,2,1,10,Insufficient Evidence,51.84530628185136,,Batter
+7702,Chamindu Wickramasinghe,Sri Lanka,4,1,26,Insufficient Evidence,53.3132528602676,,Batter
+32399,Aaron Johnson,Canada,4,0,0,Insufficient Evidence,55.426381372200254,,Batter
+43250,Dilpreet Singh Bajwa,Canada,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+7003,Rayyan Pathan,Canada,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+7002,Nicholas Kirton,Canada,4,2,60,Insufficient Evidence,53.41675939830067,,Batter
+8408,Shreyas Movva,Canada,4,4,52,Insufficient Evidence,44.890582126827056,,Batter
+7755,Harsh Thaker,Canada,4,3,34,Insufficient Evidence,32.814383132899685,,Batter
+7761,Ravinderpal Singh,Canada,3,2,24,Insufficient Evidence,60.556620079144786,,Batter
+45457,Zach Lion Cachet,Netherlands,4,1,13,Insufficient Evidence,45.041385279310326,,Batter
+7001,Dilon Heyliger,Canada,3,3,20,Insufficient Evidence,68.24639153154062,,Batter
+42810,Noah Croes,Netherlands,5,4,34,Insufficient Evidence,45.052275788853954,,Batter
+7915,Monank Patel,United States Of America,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+5877,Andries Gous,United States Of America,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+7634,Aaron Jones,United States Of America,3,1,10,Insufficient Evidence,65.19071245854444,,Batter
+1801,Nitish Kumar,United States Of America,3,1,9,Insufficient Evidence,52.97384177579024,,Batter
+15629,Shayan Jahangir,United States Of America,3,2,29,Insufficient Evidence,63.69790318109526,,Batter
+773,Shadley Van Schalkwyk,United States Of America,3,1,8,Insufficient Evidence,59.1887128173626,,Batter
+2887,Harmeet Singh,United States Of America,3,2,16,Insufficient Evidence,52.48873207463953,,Batter
+4438,Jasdeep Singh,United States Of America,2,1,8,Insufficient Evidence,48.34102242293475,,Batter
+26916,Yasir Mohammad,United States Of America,2,1,6,Insufficient Evidence,49.497442694848736,,Batter
+5547,Nosthush Kenjige,United States Of America,2,1,3,Insufficient Evidence,49.92358909182961,,Batter
+25809,Juanoy Drysdale,United States Of America,1,0,2,Insufficient Evidence,54.61043036773211,,Batter
+39991,Parveen Kumar,Canada,1,1,8,Insufficient Evidence,46.565560383658436,,Batter
+6995,Saad Zafar,Canada,2,2,39,Insufficient Evidence,45.533491973609316,,Batter
+32401,Akhil Kumar,Canada,2,2,12,Insufficient Evidence,54.7931138684624,,Batter
+7756,Kaleem Sana,Canada,1,1,4,Insufficient Evidence,61.04687031076966,,Batter
+7710,Brandon Glover,Netherlands,1,0,1,Insufficient Evidence,58.350220131118945,,Batter
+30927,Saiteja Mukkamalla,United States Of America,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+8405,Kanwarpal Tathgur,Canada,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+26663,Kwena Maphaka,South Africa,6,3,18,Insufficient Evidence,54.03322188072246,,Batter
+3635,Jason Smith,South Africa,8,2,17,Insufficient Evidence,47.513677673063434,,Batter
+7044,Jamie Smith,England,5,0,0,Insufficient Evidence,55.426381372200254,,Batter
+23311,Jacob Bethell,England,33,5,38,Insufficient Evidence,68.22004791582859,,Batter
+43798,Lhuan Pretorius,South Africa,9,0,0,Insufficient Evidence,55.426381372200254,,Batter
+34522,Brandon McMullen,Scotland,3,2,24,Insufficient Evidence,70.05315030656809,,Batter
+24978,Jack Jarvis,Scotland,2,2,11,Insufficient Evidence,46.67979248720704,,Batter
+57747,Charlie Cassell,Scotland,1,1,3,Insufficient Evidence,48.92266967233296,,Batter
+34527,Jasper John Davidson,Scotland,1,1,4,Insufficient Evidence,52.37490733615867,,Batter
+5561,Brad Wheal,Scotland,2,2,12,Insufficient Evidence,51.97309847974111,,Batter
+5738,Xavier Bartlett,Australia,14,4,60,Insufficient Evidence,32.488247650732724,,Batter
+7744,Jordan Cox,England,5,1,18,Insufficient Evidence,46.81040759639049,,Batter
+2382,Jamie Overton,Chennai Super Kings,18,11,114,Limited Sample,56.27203371794346,,Batter
+22471,Matthew Humphreys,Ireland,4,1,8,Insufficient Evidence,46.82474185549599,,Batter
+27960,Mayank Yadav,India,5,2,10,Insufficient Evidence,46.485572960817855,,Batter
+6795,Terrance Hinds,West Indies,1,1,3,Insufficient Evidence,59.14408811173173,,Batter
+8311,Dan Mousley,England,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+3489,Salman Agha,Pakistan,42,13,243,Fully Eligible,30.28753525474767,60.0,Batter
+34485,Sufiyan Muqeem,Pakistan,8,4,23,Insufficient Evidence,42.43593452966952,,Batter
+47724,Jahandad Khan,Pakistan,5,3,32,Insufficient Evidence,38.37435836777715,,Batter
+4842,Shamar Springer,West Indies,7,7,66,Insufficient Evidence,75.2457739019756,,Batter
+47050,Shamar Joseph,West Indies,7,4,28,Insufficient Evidence,62.99113236552153,,Batter
+19894,Mitchell Hay,New Zealand,9,2,16,Insufficient Evidence,31.868285960394616,,Batter
+7052,Dunith Wellalage,Sri Lanka,7,3,40,Insufficient Evidence,76.66841469802223,,Batter
+6440,Omair Yousuf,Pakistan,4,0,0,Insufficient Evidence,55.426381372200254,,Batter
+21790,Tashinga Musekiwa,Zimbabwe,21,12,123,Limited Sample,41.99555948026796,,Batter
+7692,Qasim Akram,Pakistan,1,1,15,Insufficient Evidence,53.75469652142295,,Batter
+34466,Arafat Minhas,Pakistan,2,2,40,Insufficient Evidence,54.27478120073167,,Batter
+33969,Tinotenda Maposa,Zimbabwe,10,7,42,Insufficient Evidence,53.85819775419628,,Batter
+25216,Andile Simelane,South Africa,6,3,21,Insufficient Evidence,45.71090164538055,,Batter
+4790,Lutho Sipamla,South Africa,3,3,14,Insufficient Evidence,35.218790888360985,,Batter
+17937,Zubaid Akbari,Afghanistan,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+4229,George Linde,South Africa,13,8,81,Insufficient Evidence,50.89107851979542,,Batter
+2418,Justin Greaves,West Indies,2,1,15,Insufficient Evidence,46.01776274179943,,Batter
+8326,Jayden Seales,West Indies,3,0,6,Insufficient Evidence,54.55016720047715,,Batter
+49003,Hasan Nawaz,Pakistan,27,8,67,Insufficient Evidence,29.93288307657695,,Batter
+6922,Abdul Samad,Pakistan,5,4,61,Insufficient Evidence,49.14609667266138,,Batter
+5979,Abrar Ahmed,Pakistan,4,2,11,Insufficient Evidence,42.443918209197605,,Batter
+20229,Mohammad Ali,Pakistan,1,0,1,Insufficient Evidence,55.49414171228866,,Batter
+47370,Aniket Verma,Sunrisers Hyderabad,20,7,59,Insufficient Evidence,30.622117019592267,,Batter
+31529,Robin Minz,Mumbai Indians,4,2,13,Insufficient Evidence,42.85879223357747,,Batter
+45381,PV Satyanarayan Raju,Mumbai Indians,1,0,1,Insufficient Evidence,55.41348041359002,,Batter
+46066,Vipraj Nigam,Delhi Capitals,10,7,75,Insufficient Evidence,87.68698406460122,,Batter
+25669,Priyansh Arya,Punjab Kings,31,0,0,Insufficient Evidence,55.426381372200254,,Batter
+7625,Suryansh Shedge,Punjab Kings,12,7,77,Insufficient Evidence,42.93579535559513,,Batter
+26913,Shaik Rasheed,Chennai Super Kings,5,0,0,Insufficient Evidence,55.426381372200254,,Batter
+6494,Manoj Bhandage,Royal Challengers Bengaluru,1,1,4,Insufficient Evidence,46.63655235031543,,Batter
+50284,Vaibhav Sooryavanshi,Rajasthan Royals,31,1,3,Insufficient Evidence,62.16627394791563,,Batter
+48504,Ayush Mhatre,Chennai Super Kings,13,1,5,Insufficient Evidence,55.74230885500497,,Batter
+3629,Corbin Bosch,South Africa,15,10,116,Limited Sample,38.45215158086294,,Batter
+58246,Prince Yadav,India,9,2,31,Insufficient Evidence,35.747868661831696,,Batter
+58134,Digvesh Rathi,Lucknow Super Giants,3,2,8,Insufficient Evidence,39.06110445414067,,Batter
+35071,Kunal Rathore,Rajasthan Royals,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+6457,Urvil Patel,Chennai Super Kings,10,0,1,Insufficient Evidence,58.067860469793374,,Batter
+56830,Madhav Tiwari,Delhi Capitals,2,2,9,Insufficient Evidence,63.68492603577425,,Batter
+19781,Mitchell Owen,Australia,12,2,24,Insufficient Evidence,37.91624361843986,,Batter
+37731,Musheer Khan,Punjab Kings,1,1,3,Insufficient Evidence,46.9147053773374,,Batter
+4830,Keacy Carty,West Indies,6,1,3,Insufficient Evidence,46.04783453415895,,Batter
+17419,Tim Tector,Ireland,6,1,9,Insufficient Evidence,47.81192972068944,,Batter
+25011,Liam Mccarthy,Ireland,3,2,19,Insufficient Evidence,43.38488990499657,,Batter
+8654,Cooper Connolly,Punjab Kings,21,3,54,Insufficient Evidence,68.82329961595879,,Batter
+36553,Jediah Blades,West Indies,3,2,6,Insufficient Evidence,46.03015284998304,,Batter
+37201,Jewel Andrew,West Indies,6,0,0,Insufficient Evidence,55.426381372200254,,Batter
+7140,Senuran Muthusamy,South Africa,2,1,4,Insufficient Evidence,49.43226680264542,,Batter
+2750,Alex Carey,Australia,3,1,18,Insufficient Evidence,60.34286508947281,,Batter
+39374,Muhammad Zohaib,United Arab Emirates,10,0,2,Insufficient Evidence,62.60358843737281,,Batter
+8726,Alishan Sharafu,United Arab Emirates,11,4,45,Insufficient Evidence,58.36267901908651,,Batter
+26646,Rahul Chopra,United Arab Emirates,11,5,63,Insufficient Evidence,46.93455159345613,,Batter
+27466,Dhruv Parashar,United Arab Emirates,9,6,61,Insufficient Evidence,29.14137776899145,,Batter
+8727,Sanchit Sharma,United Arab Emirates,1,1,5,Insufficient Evidence,49.23761611853452,,Batter
+47371,Zuhaid Zubair,United Arab Emirates,1,0,2,Insufficient Evidence,50.99822572518974,,Batter
+28756,Haider Ali,United Arab Emirates,9,7,37,Insufficient Evidence,32.19400532943176,,Batter
+27390,Matiullah Khan,United Arab Emirates,2,1,5,Insufficient Evidence,49.78144019485566,,Batter
+42548,Muhammad Jawadullah,United Arab Emirates,2,2,10,Insufficient Evidence,45.243812283102805,,Batter
+29080,Muhammad Khan,United Arab Emirates,3,2,12,Insufficient Evidence,58.84397617516316,,Batter
+20704,Salman Mirza,Pakistan,3,0,3,Insufficient Evidence,53.644314348841625,,Batter
+20310,Ahmed Daniyal,Pakistan,1,1,11,Insufficient Evidence,58.96523758683961,,Batter
+3038,Hussain Talat,Pakistan,5,1,7,Insufficient Evidence,47.23034140803252,,Batter
+4458,AHT Donald,England,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+19309,Lahiru Udara,Sri Lanka,6,1,7,Insufficient Evidence,60.22140653142751,,Batter
+39657,Eshan Malinga,Sri Lanka,11,6,37,Insufficient Evidence,23.158683726876344,,Batter
+19307,Tharindu Rathnayake,Sri Lanka,2,2,15,Insufficient Evidence,38.486131104739954,,Batter
+3802,Anshuman Rath,Hong Kong,3,1,14,Insufficient Evidence,52.509779807620795,,Batter
+64604,Kalhan Challu,Hong Kong,2,1,3,Insufficient Evidence,53.98292677576874,,Batter
+19020,Ateeq Iqbal,Hong Kong,1,1,3,Insufficient Evidence,51.843419807833435,,Batter
+27380,Harshit Kaushik,United Arab Emirates,8,3,29,Insufficient Evidence,32.01881732070746,,Batter
+27364,Simranjeet Kang,United Arab Emirates,2,2,9,Insufficient Evidence,40.20702511031088,,Batter
+28655,Muhammad Rohid,United Arab Emirates,2,0,3,Insufficient Evidence,52.92169501194719,,Batter
+3871,Aamir Kaleem,Oman,3,1,20,Insufficient Evidence,70.04321485381128,,Batter
+3858,Jatinder Singh,Oman,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+27137,Hammad Mirza,Oman,3,1,23,Insufficient Evidence,67.00617362151495,,Batter
+4974,Mohammad Nadeem,Oman,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+3876,Sufyan Mehmood,Oman,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+27071,Vinayak Shukla,Oman,3,1,10,Insufficient Evidence,47.71285595743831,,Batter
+35122,Shah Faisal,Oman,2,0,2,Insufficient Evidence,51.70437069838388,,Batter
+35102,Zikria Islam,Oman,2,1,7,Insufficient Evidence,44.65600124815108,,Batter
+3613,Shakeel Ahmed,Oman,2,2,33,Insufficient Evidence,43.33721966952568,,Batter
+27004,Hassnain Shah,Oman,2,1,5,Insufficient Evidence,44.51021207518578,,Batter
+25231,Samay Shrivastava,Oman,2,2,19,Insufficient Evidence,41.89115933634946,,Batter
+7937,Wasim Ali,Oman,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+34546,Aryan Bisht,Oman,1,1,8,Insufficient Evidence,49.41356145175331,,Batter
+26988,Jitenkumar Ramanandi,Oman,2,2,14,Insufficient Evidence,64.61061304209797,,Batter
+4780,Mohammad Saif Hassan,Bangladesh,23,2,27,Insufficient Evidence,54.903461407077316,,Batter
+32862,Allah Ghazanfar,Afghanistan,3,2,11,Insufficient Evidence,39.64575037767552,,Batter
+31513,Ethan Dsouza,United Arab Emirates,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+6473,Nuwanidu Fernando,Sri Lanka,2,1,3,Insufficient Evidence,48.041544411929,,Batter
+27504,Dushan Hemantha,Sri Lanka,2,1,10,Insufficient Evidence,50.056986231553715,,Batter
+4983,Sikander Zulfiqar,Netherlands,1,1,3,Insufficient Evidence,49.62867128845839,,Batter
+55747,Benjamin Calitz,Ireland,6,4,38,Insufficient Evidence,75.60582422073388,,Batter
+4882,Kushal Bhurtel,Nepal,3,1,8,Insufficient Evidence,51.98404970714869,,Batter
+20163,Aasif Sheikh,Nepal,2,1,26,Insufficient Evidence,62.27785766603775,,Batter
+7120,Rohit Paudel,Nepal,3,2,43,Insufficient Evidence,43.37582928704732,,Batter
+7924,Kushal Malla,Nepal,3,1,19,Insufficient Evidence,61.555718853304406,,Batter
+24803,Gulshan Jha,Nepal,3,3,31,Insufficient Evidence,56.54020308677863,,Batter
+4881,Dipendra Airee,Nepal,1,1,19,Insufficient Evidence,46.76076610435144,,Batter
+7409,Sundeep Jora,Nepal,3,3,50,Insufficient Evidence,62.791563467432354,,Batter
+3775,Sompal Kami,Nepal,2,2,9,Insufficient Evidence,48.354133534080255,,Batter
+4417,Karan KC,Nepal,2,0,2,Insufficient Evidence,48.38784887706215,,Batter
+20175,Nandan Yadav,Nepal,1,0,2,Insufficient Evidence,59.574939348336066,,Batter
+6739,Amir Jangoo,West Indies,7,1,14,Insufficient Evidence,44.3578047486329,,Batter
+15551,Ackeem Auguste,West Indies,9,2,15,Insufficient Evidence,39.64092192947199,,Batter
+60609,Navin Bidaisee,West Indies,2,2,19,Insufficient Evidence,44.53855475800047,,Batter
+29075,Aadil Ansari,Nepal,2,1,5,Insufficient Evidence,51.4804641466985,,Batter
+36551,Zishan Motara,West Indies,1,1,4,Insufficient Evidence,49.43226680264542,,Batter
+4880,Aarif Sheikh,Nepal,1,1,3,Insufficient Evidence,56.93874628765225,,Batter
+8241,Lokesh Bam,Nepal,1,1,10,Insufficient Evidence,49.78459070725496,,Batter
+20316,Shahab Alam,Nepal,1,0,1,Insufficient Evidence,54.78469973548871,,Batter
+49027,Bevon Jacobs,New Zealand,12,4,55,Insufficient Evidence,49.73263683892037,,Batter
+4784,Tony de Zorzi,South Africa,7,0,0,Insufficient Evidence,55.426381372200254,,Batter
+47314,Wafiullah Tarakhil,Afghanistan,2,1,4,Insufficient Evidence,48.02226604714851,,Batter
+56685,Abdullah Ahmadzai,Afghanistan,2,1,9,Insufficient Evidence,41.5363629174074,,Batter
+29833,Bashir Ahmad,Afghanistan,1,1,5,Insufficient Evidence,50.76721649806607,,Batter
+5977,Khary Pierre,West Indies,3,2,15,Insufficient Evidence,41.904808626500724,,Batter
+3543,Shahidullah Kamal,Afghanistan,5,2,47,Insufficient Evidence,50.4004595770283,,Batter
+985,Brendan Taylor,Zimbabwe,7,0,0,Insufficient Evidence,55.426381372200254,,Batter
+988,Graeme Cremer,Zimbabwe,1,1,4,Insufficient Evidence,52.37490733615867,,Batter
+7704,Pavan Rathnayake,Sri Lanka,6,1,3,Insufficient Evidence,49.78752984239708,,Batter
+49268,Sohaib Khan,United Arab Emirates,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+29558,Muhammad Arfan,United Arab Emirates,2,2,32,Insufficient Evidence,56.124498241892795,,Batter
+41110,Mayank Kumar,United Arab Emirates,1,1,6,Insufficient Evidence,47.63921437659728,,Batter
+37879,Khawaja Nafay,Pakistan,4,0,0,Insufficient Evidence,55.426381372200254,,Batter
+8623,Kristian Clarke,New Zealand,1,0,1,Insufficient Evidence,51.89678575983777,,Batter
+35506,Quentin Sampson,West Indies,4,4,47,Insufficient Evidence,46.17409539696536,,Batter
+8298,Ramon Simmonds,West Indies,1,0,2,Insufficient Evidence,51.70437069838388,,Batter
+3986,Matthew Renshaw,Australia,6,0,0,Insufficient Evidence,55.426381372200254,,Batter
+6166,Jack Edwards,Australia,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+6350,Matthew Kuhnemann,Australia,2,2,12,Insufficient Evidence,40.998485790160046,,Batter
+4695,Nick Kelly,New Zealand,7,1,5,Insufficient Evidence,51.25346474261788,,Batter
+28970,Connor Esterhuizen,South Africa,5,0,0,Insufficient Evidence,55.426381372200254,,Batter
+8771,Rubin Hermann,South Africa,5,2,11,Insufficient Evidence,46.11655969537656,,Batter
+46929,Dian Forrester,South Africa,5,2,24,Insufficient Evidence,48.77445988292634,,Batter
+50062,Nqobani Mokoena,South Africa,2,1,21,Insufficient Evidence,53.38988282909192,,Batter
+6565,Katene Clarke,New Zealand,4,0,0,Insufficient Evidence,55.426381372200254,,Batter
+25679,Salil Arora,Sunrisers Hyderabad,11,1,21,Insufficient Evidence,59.671660324253196,,Batter
+25138,Harsh Dubey,Sunrisers Hyderabad,4,0,1,Insufficient Evidence,50.738454010559664,,Batter
+1556,David Payne,Sunrisers Hyderabad,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+46137,Kartik Sharma,Chennai Super Kings,11,4,53,Insufficient Evidence,54.746389737632526,,Batter
+45749,Mukul Choudhary,Lucknow Super Giants,10,6,100,Limited Sample,68.50229984613738,,Batter
+56817,Shivang Kumar,Sunrisers Hyderabad,6,3,36,Insufficient Evidence,30.783737363024223,,Batter
+45966,Prashant Veer,Chennai Super Kings,5,4,52,Insufficient Evidence,73.70533156419097,,Batter
+28018,Ashok Sharma,Gujarat Titans,2,1,4,Insufficient Evidence,50.56663685311409,,Batter
+8141,Auqib Nabi,Delhi Capitals,2,0,2,Insufficient Evidence,52.975089739702796,,Batter
+4265,T Natarajan,Delhi Capitals,1,0,2,Insufficient Evidence,54.43005811853339,,Batter
+4857,Nathan Smith,New Zealand,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+24767,Ripon Mondol,Bangladesh,1,0,1,Insufficient Evidence,51.89678575983777,,Batter
+59045,Jai Moondra,Ireland,2,0,1,Insufficient Evidence,55.49414171228866,,Batter
+25132,Praful Hinge,Sunrisers Hyderabad,2,1,8,Insufficient Evidence,44.12958452493533,,Batter
+67036,Brijesh Sharma,Rajasthan Royals,2,1,4,Insufficient Evidence,51.29980449581654,,Batter
+6526,Himmat Singh,Lucknow Super Giants,5,2,13,Insufficient Evidence,60.68927557744493,,Batter
+48953,Danish Malewar,Mumbai Indians,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+43917,Krish Bhagat,Mumbai Indians,2,2,21,Insufficient Evidence,35.48720287637791,,Batter
+8634,Ashwani Kumar,Mumbai Indians,1,1,6,Insufficient Evidence,48.58569885277662,,Batter
+48575,Sahil Parakh,Delhi Capitals,4,0,0,Insufficient Evidence,55.426381372200254,,Batter
+33067,Ravichandran Smaran,Sunrisers Hyderabad,4,0,1,Insufficient Evidence,54.810137728752814,,Batter
+26830,Nishant Kumar Sindhu,Gujarat Titans,5,2,13,Insufficient Evidence,49.431285782611624,,Batter
+31518,Akshat Raghuwanshi,Lucknow Super Giants,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+60700,Ravi Singh,Rajasthan Royals,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+58135,Tejasvi Dahiya,Kolkata Knight Riders,2,1,3,Insufficient Evidence,47.87927753490296,,Batter
+28021,Saurabh Dubey,Kolkata Knight Riders,1,0,2,Insufficient Evidence,57.35492630575089,,Batter
+28185,Kamil Pooran,West Indies,3,1,15,Insufficient Evidence,65.96538606793922,,Batter
+6172,Lasith Croospulle,Sri Lanka,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+7566,Ben Curran,Zimbabwe,4,0,0,Insufficient Evidence,55.426381372200254,,Batter
+47403,Newman Nyamhuri,Zimbabwe,5,3,21,Insufficient Evidence,36.55376305283696,,Batter
+48616,Abdul Saqlain,Bangladesh,2,2,21,Insufficient Evidence,49.07226270306947,,Batter
+8093,Nikhil Chaudhary,Australia,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+26795,Joel Davies,Australia,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+7269,Sushant Mishra,Rajasthan Royals,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+35318,Sakib Hussain,Sunrisers Hyderabad,1,1,7,Insufficient Evidence,51.27278570125754,,Batter
+37939,Nahid Rana,Bangladesh,1,1,5,Insufficient Evidence,46.42445330097524,,Batter
+66103,Noor Rahman,Afghanistan,2,1,13,Insufficient Evidence,49.57914173123424,,Batter
+34928,Kendel Fleming,Japan,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+34929,Lachlan Lake,Japan,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+29699,Ibrahim Takahashi,Japan,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+54404,Benjamin Ito,Japan,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+16559,Alexander Patmore,Japan,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+7155,Sahan Arachchige,Sri Lanka,2,0,1,Insufficient Evidence,51.89678575983777,,Batter
+26843,Maaz Sadaqat,Pakistan,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+6506,Mohammad Imran Randhawa,Pakistan,2,1,7,Insufficient Evidence,48.72430516203317,,Batter
+39640,Sineth Jayawardena,Sri Lanka,2,0,0,Insufficient Evidence,55.426381372200254,,Batter
+71727,Razaullah Razaullah,Pakistan,1,0,0,Insufficient Evidence,55.426381372200254,,Batter
+17910,Mohammad Akram,Afghanistan,3,0,0,Insufficient Evidence,55.426381372200254,,Batter
+21780,Ernest Masuku,Zimbabwe,2,1,6,Insufficient Evidence,47.82577687493198,,Batter
+21777,Tafadzwa Tsiga,Zimbabwe,2,1,24,Insufficient Evidence,57.32634880597971,,Batter
+28908,Vincent Masekesa,Zimbabwe,1,1,4,Insufficient Evidence,50.23297223738352,,Batter
+1772,Sheldon Cottrell,West Indies,11,6,52,Insufficient Evidence,43.52535790105594,,Bowler
+2633,Jason Holder,West Indies,88,52,705,Fully Eligible,17.33673463369599,48.0,Bowler
+2417,Akeal Hosein,West Indies,79,31,378,Fully Eligible,67.25194674000731,15.0,Bowler
+6726,Romario Shepherd,West Indies,92,43,527,Fully Eligible,26.76182546502348,41.0,Bowler
+4840,Odean Smith,West Indies,24,11,115,Insufficient Evidence,52.50772531968242,,Bowler
+494,Kieron Pollard,West Indies,12,5,76,Insufficient Evidence,64.80922189474607,,Bowler
+3272,Fabian Allen,West Indies,12,4,45,Insufficient Evidence,63.18256679885926,,Bowler
+4499,Saqib Mahmood,England,11,4,33,Insufficient Evidence,42.46927089178138,,Bowler
+786,Chris Jordan,England,27,21,302,Fully Eligible,58.59413042562947,20.0,Bowler
+479,Adil Rashid,England,61,33,564,Fully Eligible,50.12317179106481,28.0,Bowler
+722,Liam Dawson,England,22,12,177,Limited Sample,74.24103069556168,,Bowler
+2304,Tymal Mills,England,12,8,90,Insufficient Evidence,32.538790444649926,,Bowler
+1596,Moeen Ali,England,58,23,224,Limited Sample,21.423971775081252,,Bowler
+2315,Reece Topley,England,29,20,217,Limited Sample,51.10869555898287,,Bowler
+4826,George Garton,England,1,1,8,Insufficient Evidence,51.37600607527196,,Bowler
+4391,Liam Livingstone,England,49,20,207,Limited Sample,25.93844480108999,,Bowler
+4986,Rovman Powell,West Indies,11,7,49,Insufficient Evidence,39.15222012108485,,Bowler
+6797,Dominic Drakes,West Indies,7,3,30,Insufficient Evidence,59.19041659355293,,Bowler
+360,Bhuvneshwar Kumar,Sunrisers Hyderabad,101,49,681,Fully Eligible,9.165764579255459,51.0,Bowler
+1813,Deepak Chahar,India,48,13,178,Limited Sample,53.22363389536785,,Bowler
+2261,Harshal Patel,Royal Challengers Bengaluru,79,47,679,Fully Eligible,31.236740312540967,38.0,Bowler
+1612,Yuzvendra Chahal,Rajasthan Royals,98,53,804,Fully Eligible,79.42893131664383,8.0,Bowler
+7503,Ravi Bishnoi,India,109,58,909,Fully Eligible,71.2846200029858,12.0,Bowler
+7544,Venkatesh Iyer,Kolkata Knight Riders,7,3,20,Insufficient Evidence,36.84189928526697,,Bowler
+2687,Roston Chase,West Indies,45,17,198,Limited Sample,85.93312647213901,,Bowler
+3622,Hayden Walsh,West Indies,9,3,44,Insufficient Evidence,64.63266190557957,,Bowler
+3653,Avesh Khan,Lucknow Super Giants,79,48,600,Fully Eligible,40.393302160111084,32.0,Bowler
+2847,Shardul Thakur,Delhi Capitals,50,25,348,Fully Eligible,63.913711196720804,16.0,Bowler
+2399,Dushmantha Chameera,Sri Lanka,53,21,245,Limited Sample,43.448432299718476,,Bowler
+3664,Binura Fernando,Sri Lanka,16,11,116,Insufficient Evidence,19.55668895659685,,Bowler
+19316,Maheesh Theekshana,Sri Lanka,99,44,607,Fully Eligible,68.12674160246213,13.0,Bowler
+4900,Wanindu Hasaranga,Sri Lanka,91,38,542,Fully Eligible,72.15847198517864,11.0,Bowler
+6160,Chamika Karunaratne,Sri Lanka,20,7,90,Insufficient Evidence,44.618939776070164,,Bowler
+2436,Dasun Shanaka,Sri Lanka,43,16,172,Limited Sample,45.86215477914733,,Bowler
+829,Mitchell Starc,Delhi Capitals,39,21,233,Limited Sample,51.449834105875304,,Bowler
+830,Josh Hazlewood,Royal Challengers Bengaluru,65,36,443,Fully Eligible,76.65392128318189,9.0,Bowler
+1758,Patrick Cummins,Sunrisers Hyderabad,54,31,468,Fully Eligible,26.98304969331139,40.0,Bowler
+2639,Marcus Stoinis,Australia,55,28,278,Limited Sample,17.805292749154418,,Bowler
+2636,Adam Zampa,Australia,52,34,405,Fully Eligible,38.82567335894132,33.0,Bowler
+19312,Nuwan Thushara,Sri Lanka,38,16,212,Limited Sample,48.132270977473624,,Bowler
+286,Kane Richardson,Australia,9,4,52,Insufficient Evidence,47.161189763437804,,Bowler
+838,Glenn Maxwell,Australia,52,15,171,Limited Sample,45.68945734143958,,Bowler
+6518,Daniel Sams,Mumbai Indians,17,6,81,Insufficient Evidence,55.230272573972464,,Bowler
+2364,Ashton Agar,Australia,6,1,27,Insufficient Evidence,67.93686662619122,,Bowler
+4460,Jeffrey Vandersay,Sri Lanka,5,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+4505,Jhye Richardson,Australia,5,3,38,Insufficient Evidence,48.39270162617711,,Bowler
+4903,Lahiru Kumara,Sri Lanka,3,1,14,Insufficient Evidence,54.615957510487775,,Bowler
+6180,Praveen Jayawickrama,Sri Lanka,2,1,10,Insufficient Evidence,59.36590132695099,,Bowler
+403,Umesh Yadav,Kolkata Knight Riders,29,8,125,Insufficient Evidence,37.05803737041306,,Bowler
+6286,Shivam Mavi,India,12,4,50,Insufficient Evidence,74.18592575520998,,Bowler
+6256,Varun Chakravarthy,Kolkata Knight Riders,95,54,808,Fully Eligible,60.060898767878655,18.0,Bowler
+781,Sunil Narine,Kolkata Knight Riders,67,34,466,Fully Eligible,92.57654496212548,2.0,Bowler
+1318,Andre Russell,Kolkata Knight Riders,57,28,335,Fully Eligible,28.927289997332235,39.0,Bowler
+6806,Tushar Deshpande,Chennai Super Kings,50,32,397,Fully Eligible,34.068044126337725,37.0,Bowler
+1487,Adam Milne,New Zealand,26,17,184,Limited Sample,39.74606071120074,,Bowler
+4101,Mitchell Santner,New Zealand,83,35,498,Fully Eligible,54.762620055142854,23.0,Bowler
+161,Dwayne Bravo,Chennai Super Kings,10,5,83,Insufficient Evidence,70.0128968112119,,Bowler
+4755,Shivam Dube,India,40,20,202,Limited Sample,13.081185577222238,,Bowler
+152,Ravindra Jadeja,Chennai Super Kings,74,33,471,Fully Eligible,48.85026154729181,29.0,Bowler
+4816,Khaleel Ahmed,Delhi Capitals,56,27,308,Fully Eligible,67.31691610108169,14.0,Bowler
+2876,Axar Patel,India,136,72,959,Fully Eligible,46.87445508481881,30.0,Bowler
+6285,Kamlesh Nagarkoti,Delhi Capitals,1,0,3,Insufficient Evidence,62.096290736863345,,Bowler
+3644,Kuldeep Yadav,Delhi Capitals,89,46,702,Fully Eligible,59.377474107028426,19.0,Bowler
+6671,Lalit Yadav,Delhi Capitals,14,4,39,Insufficient Evidence,34.537067337007095,,Bowler
+2933,Jasprit Bumrah,Mumbai Indians,75,37,504,Fully Eligible,82.22405803079793,6.0,Bowler
+4276,Basil Thampi,Mumbai Indians,5,2,21,Insufficient Evidence,56.6689259002022,,Bowler
+5034,Murugan Ashwin,Mumbai Indians,10,6,86,Insufficient Evidence,70.92266832341555,,Bowler
+2411,Sandeep Sharma,Rajasthan Royals,43,21,288,Limited Sample,24.763190391205924,,Bowler
+6464,Arshdeep Singh,India,147,93,1072,Fully Eligible,54.92649964361497,22.0,Bowler
+6161,Rahul Chahar,Punjab Kings,38,20,288,Limited Sample,45.64623634490069,,Bowler
+7325,Harpreet Brar,Punjab Kings,38,7,112,Insufficient Evidence,70.05595845157922,,Bowler
+1219,David Willey,England,19,7,80,Insufficient Evidence,65.97634595111636,,Bowler
+5944,Mohammed Siraj,Royal Challengers Bengaluru,83,43,451,Fully Eligible,79.66117369882804,7.0,Bowler
+7472,Shahbaz Ahmed,Sunrisers Hyderabad,42,13,154,Limited Sample,21.256575167482218,,Bowler
+7473,Akash Deep,Lucknow Super Giants,14,6,76,Insufficient Evidence,17.703798879035702,,Bowler
+1566,Mohammed Shami,Gujarat Titans,57,16,199,Limited Sample,75.3465391845037,,Bowler
+1028,Varun Aaron,Gujarat Titans,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+4692,Lockie Ferguson,New Zealand,53,28,360,Fully Eligible,54.38252433089502,24.0,Bowler
+3330,Hardik Pandya,India,111,40,542,Fully Eligible,34.55479547048943,36.0,Bowler
+4722,Rashid Khan,Gujarat Titans,122,57,819,Fully Eligible,84.90327057131495,4.0,Bowler
+6669,Mohsin Khan,Lucknow Super Giants,30,17,192,Limited Sample,81.42748351967506,,Bowler
+4219,Krunal Pandya,Royal Challengers Bengaluru,66,29,376,Fully Eligible,63.28078130063845,17.0,Bowler
+3648,Deepak Hooda,India,13,5,45,Insufficient Evidence,74.51029912640607,,Bowler
+25048,Umran Malik,Sunrisers Hyderabad,31,15,197,Limited Sample,77.95486745851343,,Bowler
+4823,Washington Sundar,India,51,18,230,Limited Sample,62.70216149622678,,Bowler
+4265,T Natarajan,Sunrisers Hyderabad,49,29,431,Fully Eligible,21.300998507579745,46.0,Bowler
+6281,Abhishek Sharma,Sunrisers Hyderabad,43,22,219,Limited Sample,35.27283104648985,,Bowler
+2320,Trent Boult,Rajasthan Royals,70,33,394,Fully Eligible,37.95525257570777,34.0,Bowler
+4489,Prasidh Krishna,Gujarat Titans,52,34,417,Fully Eligible,54.35819199847208,25.0,Bowler
+820,Nathan Coulter Nile,Rajasthan Royals,1,1,19,Insufficient Evidence,46.02894567750846,,Bowler
+305,Ravichandran Ashwin,Rajasthan Royals,61,29,379,Fully Eligible,91.13390147237881,3.0,Bowler
+6423,Riyan Parag,Rajasthan Royals,24,11,118,Insufficient Evidence,61.87063262345672,,Bowler
+278,Tim Southee,New Zealand,36,18,218,Limited Sample,75.96771271749722,,Bowler
+3299,Andrew Tye,Lucknow Super Giants,3,2,19,Insufficient Evidence,67.19918131455238,,Bowler
+7250,Mukesh Choudhary,Chennai Super Kings,24,8,97,Insufficient Evidence,39.39416950669791,,Bowler
+2334,Dwaine Pretorius,South Africa,14,8,157,Limited Sample,74.85380156828879,,Bowler
+3628,Kagiso Rabada,Punjab Kings,69,36,409,Fully Eligible,21.40378047666891,45.0,Bowler
+4288,Navdeep Saini,Rajasthan Royals,5,2,18,Insufficient Evidence,52.627962134839315,,Bowler
+4373,Mustafizur Rahman,Bangladesh,71,32,406,Fully Eligible,51.8608296865135,27.0,Bowler
+2877,Vijay Shankar,Gujarat Titans,2,0,3,Insufficient Evidence,65.8116050930508,,Bowler
+3926,Rahul Tewatia,Gujarat Titans,7,3,21,Insufficient Evidence,58.65756440264204,,Bowler
+8746,Vaibhav Arora,Kolkata Knight Riders,42,18,223,Limited Sample,36.201966668198224,,Bowler
+7446,Abdul Samad,Sunrisers Hyderabad,3,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+6819,Yashasvi Jaiswal,India,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+7327,Rasikh Salam,Delhi Capitals,24,14,203,Limited Sample,56.0196846750867,,Bowler
+7897,Namboori Tilak Varma,India,10,3,23,Insufficient Evidence,70.16461560608046,,Bowler
+914,Krishnappa Gowtham,Lucknow Super Giants,11,1,14,Insufficient Evidence,69.63302391050988,,Bowler
+7270,Anrich Nortje,Delhi Capitals,39,24,320,Fully Eligible,3.4537143918108173,52.0,Bowler
+6489,Darshan Nalkande,Gujarat Titans,6,0,2,Insufficient Evidence,64.02124215344975,,Bowler
+7808,Marco Jansen,Punjab Kings,60,33,439,Fully Eligible,15.844094292639127,49.0,Bowler
+3605,Aiden Markram,South Africa,42,12,104,Insufficient Evidence,15.214803257302789,,Bowler
+1071,Jaydev Unadkat,Sunrisers Hyderabad,30,15,227,Limited Sample,35.61711375877677,,Bowler
+25213,Dewald Brevis,Mumbai Indians,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+7545,Kuldeep Sen,Rajasthan Royals,12,7,75,Insufficient Evidence,58.483597500156506,,Bowler
+3323,Jimmy Neesham,New Zealand,37,13,117,Insufficient Evidence,19.839679986615593,,Bowler
+7322,Yash Dayal,Royal Challengers Bengaluru,43,19,220,Limited Sample,40.229438617866776,,Bowler
+2756,Shashank Singh,Punjab Kings,8,5,44,Insufficient Evidence,62.05287301588193,,Bowler
+2852,Jagadeesha Suchith,Sunrisers Hyderabad,5,0,1,Insufficient Evidence,67.91578484003666,,Bowler
+20894,Aman Khan,Kolkata Knight Riders,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+3275,Alzarri Joseph,West Indies,53,26,328,Fully Eligible,18.23399878292698,47.0,Bowler
+4837,Obed McCoy,West Indies,32,18,184,Limited Sample,14.153005069449604,,Bowler
+7920,Nathan Ellis,Australia,43,25,329,Fully Eligible,52.75517809784761,26.0,Bowler
+5940,Riley Meredith,Mumbai Indians,14,7,81,Insufficient Evidence,77.18492096268203,,Bowler
+27959,Hrithik Shokeen,Mumbai Indians,13,1,16,Insufficient Evidence,73.29608373578982,,Bowler
+6460,Ayush Badoni,Lucknow Super Giants,8,3,19,Insufficient Evidence,72.16981409631296,,Bowler
+1617,Rishi Dhawan,Punjab Kings,11,4,32,Insufficient Evidence,53.60578817470749,,Bowler
+4106,Daryl Mitchell,Chennai Super Kings,10,4,47,Insufficient Evidence,41.93324964306636,,Bowler
+6772,Chetan Sakariya,Delhi Capitals,6,4,52,Insufficient Evidence,39.61402501848984,,Bowler
+29888,Harshit Rana,Kolkata Knight Riders,44,17,232,Limited Sample,65.41017063119364,,Bowler
+4246,Nitish Rana,Delhi Capitals,11,2,19,Insufficient Evidence,52.82948689516712,,Bowler
+3647,Shreyas Iyer,Kolkata Knight Riders,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+147,Pradeep Sangwan,Gujarat Titans,3,1,17,Insufficient Evidence,67.2538282386215,,Bowler
+7574,Kumar Kartikeya Singh,Mumbai Indians,16,6,86,Insufficient Evidence,37.76849458540566,,Bowler
+7533,Simarjeet Singh,Chennai Super Kings,14,4,52,Insufficient Evidence,37.811695844155,,Bowler
+6284,Anukul Roy,Kolkata Knight Riders,21,8,84,Insufficient Evidence,52.207584791709095,,Bowler
+1389,Sean Abbott,Australia,21,16,170,Limited Sample,31.462573236701942,,Bowler
+8530,Kartik Tyagi,Kolkata Knight Riders,19,11,147,Insufficient Evidence,24.81844649869675,,Bowler
+3469,Shreyas Gopal,Sunrisers Hyderabad,4,0,1,Insufficient Evidence,67.95779036877822,,Bowler
+818,Mitchell Marsh,Delhi Capitals,19,6,98,Insufficient Evidence,55.69569784615662,,Bowler
+7240,FazalHaq Farooqi,Afghanistan,50,28,313,Fully Eligible,37.7136390362347,35.0,Bowler
+4821,Mahipal Lomror,Royal Challengers Bengaluru,5,1,6,Insufficient Evidence,56.00332503919,,Bowler
+5577,Sai Kishore,Gujarat Titans,27,15,220,Limited Sample,66.54961046854417,,Bowler
+20006,Ramandeep Singh,India,7,2,37,Insufficient Evidence,62.85238712686605,,Bowler
+27956,Prashant Solanki,Chennai Super Kings,2,1,6,Insufficient Evidence,64.04602881580419,,Bowler
+8661,Matheesha Pathirana,Chennai Super Kings,54,33,529,Fully Eligible,94.400331433274,1.0,Bowler
+5665,Sanjay Yadav,Mumbai Indians,1,0,2,Insufficient Evidence,62.92966865019043,,Bowler
+6683,Mayank Markande,Sunrisers Hyderabad,22,12,191,Limited Sample,15.21176194912065,,Bowler
+2872,Siddarth Kaul,Royal Challengers Bengaluru,1,0,2,Insufficient Evidence,62.57525217138296,,Bowler
+1944,Keshav Maharaj,South Africa,30,15,213,Limited Sample,44.94110634040396,,Bowler
+295,Wayne Parnell,South Africa,18,10,102,Insufficient Evidence,45.490405193011604,,Bowler
+4237,Tabraiz Shamsi,South Africa,16,11,161,Limited Sample,52.66558823648029,,Bowler
+4641,Lungi Ngidi,South Africa,39,22,291,Limited Sample,64.28954580783417,,Bowler
+4895,Charith Asalanka,Sri Lanka,14,2,34,Insufficient Evidence,61.300347998947224,,Bowler
+2351,Danushka Gunathilaka,Sri Lanka,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+2681,Taskin Ahmed,Bangladesh,46,18,193,Limited Sample,87.36479184146908,,Bowler
+5837,Mahedi Hasan,Bangladesh,41,11,136,Insufficient Evidence,42.833696843335346,,Bowler
+499,Shakib Al Hasan,Bangladesh,17,5,66,Insufficient Evidence,30.752234840753317,,Bowler
+7344,Shoriful Islam,Bangladesh,39,15,175,Limited Sample,44.709007655759905,,Bowler
+3281,Mosaddek Hossain,Bangladesh,11,1,10,Insufficient Evidence,62.35278398034916,,Bowler
+4838,Keemo Paul,West Indies,6,3,49,Insufficient Evidence,67.67760736726541,,Bowler
+2416,Kyle Mayers,Lucknow Super Giants,17,1,32,Insufficient Evidence,69.93731766671446,,Bowler
+4658,Nasum Ahmed,Bangladesh,29,9,101,Insufficient Evidence,59.798614319418675,,Bowler
+5882,Afif Hossain,Bangladesh,5,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+507,Mohammad Mahmudullah,Bangladesh,5,1,12,Insufficient Evidence,56.90258981136971,,Bowler
+7227,Nijat Masood,Afghanistan,3,2,24,Insufficient Evidence,69.22689507346871,,Bowler
+1107,Mohammad Nabi,Afghanistan,44,13,174,Limited Sample,25.982319429599887,,Bowler
+6676,Azmatullah Omarzai,Afghanistan,65,24,295,Limited Sample,56.310109678088985,,Bowler
+5808,Karim Janat,Afghanistan,12,5,53,Insufficient Evidence,25.677440436243675,,Bowler
+1159,Tendai Chatara,Zimbabwe,10,3,40,Insufficient Evidence,62.73695467297016,,Bowler
+6523,Blessing Muzarabani,Zimbabwe,37,15,187,Limited Sample,61.8111032343656,,Bowler
+22134,Luke Jongwe,Zimbabwe,18,6,95,Insufficient Evidence,52.06494632916119,,Bowler
+7709,Ainsley Ndlovu,Zimbabwe,5,0,3,Insufficient Evidence,64.70330407235694,,Bowler
+2984,Sikandar Raza,Zimbabwe,52,16,220,Limited Sample,73.32471370254193,,Bowler
+2463,Ryan Burl,Zimbabwe,22,4,59,Insufficient Evidence,34.56315799587468,,Bowler
+3995,Donald Tiripano,Zimbabwe,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+4867,Wesley Madhevere,Zimbabwe,9,2,28,Insufficient Evidence,49.14674056944204,,Bowler
+3550,Sharafuddin Ashraf,Afghanistan,6,4,57,Insufficient Evidence,71.53464247598308,,Bowler
+7967,Noor Ahmad,Chennai Super Kings,70,34,554,Fully Eligible,76.59894862303554,10.0,Bowler
+4807,Joshua Little,Ireland,36,14,153,Limited Sample,75.03089493840788,,Bowler
+5379,Mark Adair,Ireland,40,20,246,Limited Sample,49.49517877358908,,Bowler
+3720,Craig Young,Ireland,23,7,105,Insufficient Evidence,66.83968209985505,,Bowler
+3595,Andy McBrine,Ireland,6,1,11,Insufficient Evidence,56.55505198508516,,Bowler
+17430,Conor Olphert,Ireland,2,1,15,Insufficient Evidence,46.34770236408642,,Bowler
+7741,Gareth Delany,Ireland,35,10,124,Insufficient Evidence,77.98720231457645,,Bowler
+4409,Sam Curran,England,73,41,525,Fully Eligible,14.36620754868596,50.0,Bowler
+6297,Matthew Parkinson,England,2,2,23,Insufficient Evidence,53.30080209500202,,Bowler
+5562,Richard Gleeson,England,9,6,78,Insufficient Evidence,36.91632986221449,,Bowler
+5441,Barry McCarthy,Ireland,29,16,171,Limited Sample,53.79492529990979,,Bowler
+1101,George Dockrell,Ireland,15,3,41,Insufficient Evidence,74.81611607025457,,Bowler
+7094,Curtis Campher,Ireland,29,8,85,Insufficient Evidence,28.38423449053376,,Bowler
+22920,Jacob Duffy,New Zealand,42,21,248,Limited Sample,75.96370691124787,,Bowler
+2526,Ish Sodhi,New Zealand,59,24,384,Fully Eligible,23.765283566464245,43.0,Bowler
+6512,Michael Bracewell,New Zealand,41,15,162,Limited Sample,15.625482529367352,,Bowler
+5892,Blair Tickner,New Zealand,11,6,63,Insufficient Evidence,38.91671030651041,,Bowler
+3627,Andile Phehlukwayo,South Africa,7,6,81,Insufficient Evidence,50.18011343754771,,Bowler
+20702,Tristan Stubbs,South Africa,7,4,24,Insufficient Evidence,25.020972634060968,,Bowler
+4874,Richard Ngarava,Zimbabwe,39,15,173,Limited Sample,80.53095323616677,,Bowler
+4639,Wellington Masakadza,Zimbabwe,27,6,53,Insufficient Evidence,34.505379505013536,,Bowler
+21786,Tanaka Chivanga,Zimbabwe,2,0,5,Insufficient Evidence,64.4393491027362,,Bowler
+1541,Sean Williams,Zimbabwe,14,3,24,Insufficient Evidence,71.06903021980729,,Bowler
+6643,Hasan Mahmud,Bangladesh,20,6,79,Insufficient Evidence,81.44864756889788,,Bowler
+21784,Brad Evans,Zimbabwe,21,13,152,Limited Sample,34.25248665557359,,Bowler
+8664,Victor Nyauchi,Zimbabwe,1,1,12,Insufficient Evidence,64.57480709246377,,Bowler
+28911,John Masara,Zimbabwe,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+5809,Naveen ul Haq,Lucknow Super Giants,37,19,215,Limited Sample,63.23838371174282,,Bowler
+6450,Mujeeb Ur Rahman,Afghanistan,38,16,163,Limited Sample,73.65748413361722,,Bowler
+7689,Dilshan Madushanka,Sri Lanka,19,10,113,Insufficient Evidence,40.26059625636248,,Bowler
+8049,Naseem Shah,Pakistan,27,14,155,Limited Sample,43.459798043133375,,Bowler
+19530,Shahnawaz Dhani,Pakistan,9,4,39,Insufficient Evidence,51.792922910967,,Bowler
+7364,Haris Rauf,Pakistan,48,28,380,Fully Eligible,83.32858310657576,5.0,Bowler
+4926,Shadab Khan,Pakistan,42,21,245,Limited Sample,51.39750570130165,,Bowler
+2490,Mohammad Nawaz,Pakistan,52,16,184,Limited Sample,96.52519895289885,,Bowler
+38855,Mohammad Saifuddin,Bangladesh,21,11,145,Insufficient Evidence,41.199313699018425,,Bowler
+7201,Haroon Arshad,Hong Kong,5,2,19,Insufficient Evidence,52.912854375868235,,Bowler
+19125,Ayush Shukla,Hong Kong,7,2,21,Insufficient Evidence,43.02803530046484,,Bowler
+5750,Ehsan Khan,Hong Kong,8,4,45,Insufficient Evidence,71.00392149499484,,Bowler
+3373,Aizaz Khan,Hong Kong,8,1,11,Insufficient Evidence,52.51078193679862,,Bowler
+2972,Yasim Murtaza,Hong Kong,8,0,2,Insufficient Evidence,64.12299061026376,,Bowler
+7935,Mohammad Ghazanfar,Hong Kong,5,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+47,Virat Kohli,India,1,1,6,Insufficient Evidence,64.30783687580069,,Bowler
+4901,Asitha Fernando,Sri Lanka,6,3,40,Insufficient Evidence,46.325091152346964,,Bowler
+5844,Ebadot Hossain,Bangladesh,3,3,46,Insufficient Evidence,57.02600031217049,,Bowler
+3282,Mehidy Hasan Miraz,Bangladesh,17,4,40,Insufficient Evidence,51.00628643183522,,Bowler
+3056,Iftikhar Ahmed,Pakistan,14,6,37,Insufficient Evidence,41.44546608461575,,Bowler
+6677,Mohammad Hasnain,Pakistan,10,6,50,Insufficient Evidence,25.234360437955473,,Bowler
+4201,Fareed Malik,Afghanistan,17,7,99,Insufficient Evidence,40.898679561850145,,Bowler
+143,Dinesh Karthik,India,1,1,6,Insufficient Evidence,54.27298860123629,,Bowler
+6932,Pramod Madushan,Sri Lanka,5,3,43,Insufficient Evidence,60.8056909485859,,Bowler
+2407,Dhananjaya de Silva,Sri Lanka,8,1,6,Insufficient Evidence,67.15213915829771,,Bowler
+3623,Hasan Ali,Pakistan,8,6,68,Insufficient Evidence,36.77271462130089,,Bowler
+3033,Usman Qadir,Pakistan,4,0,14,Insufficient Evidence,65.14979231315334,,Bowler
+7914,Clayton Floyd,Netherlands,2,0,1,Insufficient Evidence,63.24832225598954,,Bowler
+3772,Logan van Beek,Netherlands,6,1,6,Insufficient Evidence,74.25742354657991,,Bowler
+19902,Tim Pringle,Netherlands,7,1,27,Insufficient Evidence,78.8859838470368,,Bowler
+24381,Shariz Ahmad,Netherlands,3,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+6985,Bas de Leede,Netherlands,4,0,2,Insufficient Evidence,64.20082400608574,,Bowler
+22187,Ryan Klein,Netherlands,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+232,Tom Cooper,Netherlands,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+4856,Benjamin Sears,New Zealand,22,9,125,Insufficient Evidence,75.92879025131278,,Bowler
+17424,Graham Hume,Ireland,10,4,59,Insufficient Evidence,50.26749331201755,,Bowler
+22137,Fionn Hand,Ireland,10,3,23,Insufficient Evidence,51.193226476895404,,Bowler
+6188,Simi Singh,Ireland,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+3839,Amjad Mahboob,Singapore,3,1,10,Insufficient Evidence,56.74501654161999,,Bowler
+7929,Aryaman Sunil Uchil,Singapore,2,1,8,Insufficient Evidence,66.89731575869277,,Bowler
+7927,Janak Prakash,Singapore,3,0,5,Insufficient Evidence,64.0440195247819,,Bowler
+7928,Vinoth Baskaran,Singapore,3,0,5,Insufficient Evidence,64.54497138106505,,Bowler
+31835,Akshay Roopak Puri,Singapore,3,1,7,Insufficient Evidence,62.7583902878327,,Bowler
+19020,Ateeq Iqbal,Hong Kong,4,0,1,Insufficient Evidence,60.763746315877064,,Bowler
+3383,Kinchit Shah,Hong Kong,5,1,6,Insufficient Evidence,56.884502333959,,Bowler
+24346,Mohamed Shafeeq,Kuwait,3,1,14,Insufficient Evidence,57.906339132558536,,Bowler
+15280,Sayed Monib,Kuwait,3,1,15,Insufficient Evidence,67.22906613684778,,Bowler
+31107,Yasin Patel,Kuwait,3,1,13,Insufficient Evidence,64.71805919817224,,Bowler
+15269,Mohammed Aslam,Kuwait,3,0,5,Insufficient Evidence,56.97995733719764,,Bowler
+15279,Shiraz Khan,Kuwait,3,1,18,Insufficient Evidence,64.83876557368042,,Bowler
+25507,Edson Silva,Kuwait,2,1,8,Insufficient Evidence,63.29155554634253,,Bowler
+3253,Rohan Mustafa,United Arab Emirates,1,1,6,Insufficient Evidence,70.16190640778287,,Bowler
+3040,Kashif Daud,United Arab Emirates,1,0,5,Insufficient Evidence,58.940704446875294,,Bowler
+8009,Junaid Siddique,United Arab Emirates,15,8,105,Insufficient Evidence,84.47248936955928,,Bowler
+8638,Basil Hameed,United Arab Emirates,8,1,24,Insufficient Evidence,66.59488644319492,,Bowler
+3255,Ahmed Raza 1,United Arab Emirates,1,0,1,Insufficient Evidence,67.82748805397244,,Bowler
+6503,Zahoor Khan,United Arab Emirates,5,3,30,Insufficient Evidence,66.22619769635203,,Bowler
+33440,Adwitya Bhargava,Singapore,1,0,2,Insufficient Evidence,68.29619910849729,,Bowler
+16498,Sultan Ahmad,United Arab Emirates,2,0,3,Insufficient Evidence,68.84827884330045,,Bowler
+33443,Sabir Ali,United Arab Emirates,3,0,4,Insufficient Evidence,62.18881082687345,,Bowler
+8005,Zawar Farid,United Arab Emirates,4,1,10,Insufficient Evidence,65.13836799667764,,Bowler
+8639,Kartik Meiyappan,United Arab Emirates,4,1,10,Insufficient Evidence,65.22203553612486,,Bowler
+25502,Adnan Idrees,Kuwait,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+5939,Cameron Green,Australia,51,23,255,Limited Sample,30.20377804654677,,Bowler
+3660,Luke Wood,England,17,9,114,Insufficient Evidence,34.668939111696965,,Bowler
+2985,Mark Wood,England,13,8,103,Insufficient Evidence,85.91912237963173,,Bowler
+2321,Olly Stone,England,1,0,4,Insufficient Evidence,63.90117006039306,,Bowler
+7696,Mohammad Wasim,Pakistan,17,10,127,Insufficient Evidence,41.79852505320533,,Bowler
+1171,Chris Woakes,England,11,3,36,Insufficient Evidence,64.62895252174647,,Bowler
+19145,Aamer Jamal,Pakistan,4,3,35,Insufficient Evidence,40.3624971780601,,Bowler
+27464,Aayan Afzal Khan,United Arab Emirates,5,1,8,Insufficient Evidence,80.2238796284305,,Bowler
+8719,Aryan Lakra,United Arab Emirates,1,0,2,Insufficient Evidence,65.33929721277507,,Bowler
+2210,Sabbir Rahman,Bangladesh,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+3135,Yannic Cariah,West Indies,2,0,5,Insufficient Evidence,58.525989194416226,,Bowler
+4853,Glenn Phillips,New Zealand,13,5,30,Insufficient Evidence,39.26307324959601,,Bowler
+2213,Soumya Sarkar,Bangladesh,6,2,19,Insufficient Evidence,51.57688412675252,,Bowler
+4604,Mitchell Swepson,Australia,1,1,12,Insufficient Evidence,50.071508312908996,,Bowler
+1195,Ben Stokes,England,3,2,19,Insufficient Evidence,64.28998083661506,,Bowler
+4947,Kasun Rajitha,Sri Lanka,5,3,30,Insufficient Evidence,49.8599616754838,,Bowler
+4812,Harry Tector,Ireland,16,3,29,Insufficient Evidence,68.33138099893826,,Bowler
+24887,Innocent Kaia,Zimbabwe,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+4815,Benjamin White,Ireland,20,7,132,Insufficient Evidence,37.80305453116326,,Bowler
+3374,Mark Chapman,New Zealand,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+6515,Benjamin Lister,New Zealand,12,7,68,Insufficient Evidence,65.17754162689006,,Bowler
+4636,Bjorn Fortuin,South Africa,13,6,75,Insufficient Evidence,39.40419750974858,,Bowler
+4235,Sisanda Magala,South Africa,4,2,32,Insufficient Evidence,35.068208655051734,,Bowler
+2650,Raymon Reifer,West Indies,2,2,22,Insufficient Evidence,46.892200209031394,,Bowler
+3298,Jofra Archer,Rajasthan Royals,56,32,411,Fully Eligible,55.37666104590154,21.0,Bowler
+3280,Nazmul Hossain Shanto,Bangladesh,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+24475,Rehan Ahmed,England,11,4,40,Insufficient Evidence,35.908549525047505,,Bowler
+6389,Tanvir Islam,Bangladesh,6,2,31,Insufficient Evidence,70.6318743184539,,Bowler
+19998,Rajvardhan Hangargekar,Chennai Super Kings,2,1,17,Insufficient Evidence,60.48416883094394,,Bowler
+5041,Mukesh Kumar,Delhi Capitals,59,30,425,Fully Eligible,23.92410638330254,42.0,Bowler
+6591,KM Asif,Rajasthan Royals,4,2,24,Insufficient Evidence,58.85103774132807,,Bowler
+395,Karn Sharma,Royal Challengers Bengaluru,21,8,84,Insufficient Evidence,53.26656217848505,,Bowler
+2054,Jason Behrendorff,Australia,20,11,102,Insufficient Evidence,42.350843703632826,,Bowler
+20005,Arshad Khan,Gujarat Titans,25,7,75,Insufficient Evidence,35.43930769452435,,Bowler
+23,Piyush Chawla,Mumbai Indians,27,12,145,Insufficient Evidence,34.14702201107909,,Bowler
+6287,Yash Thakur,Lucknow Super Giants,25,15,210,Limited Sample,37.55798745418934,,Bowler
+36982,Suyash Sharma,Royal Challengers Bengaluru,39,20,329,Fully Eligible,23.263241670108304,44.0,Bowler
+158,Amit Mishra,Lucknow Super Giants,8,1,18,Insufficient Evidence,65.33242619123165,,Bowler
+36983,Mohit Rathee,Punjab Kings,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+7896,Akash Singh,Lucknow Super Giants,11,5,62,Insufficient Evidence,53.66375339053282,,Bowler
+2878,Mohit Sharma,Gujarat Titans,33,19,298,Limited Sample,56.12085849452395,,Bowler
+3727,Matthew Short,Australia,15,5,39,Insufficient Evidence,44.000563307256805,,Bowler
+4487,Vyshak Kumar,Punjab Kings,25,18,270,Limited Sample,10.396025673708403,,Bowler
+8580,Yudhvir Singh,Lucknow Super Giants,9,4,35,Insufficient Evidence,51.367168613641326,,Bowler
+7060,Arjun Tendulkar,Mumbai Indians,6,2,27,Insufficient Evidence,60.94268699747404,,Bowler
+8763,Duan Jansen,Mumbai Indians,1,1,7,Insufficient Evidence,63.79229985508441,,Bowler
+28,Ishant Sharma,Delhi Capitals,24,9,87,Insufficient Evidence,53.90712969494097,,Bowler
+6162,Kulwant Khejroliya,Kolkata Knight Riders,4,2,21,Insufficient Evidence,50.39072545817026,,Bowler
+4716,Mayank Dagar,Sunrisers Hyderabad,8,2,20,Insufficient Evidence,63.334890671863405,,Bowler
+3320,Jayant Yadav,Gujarat Titans,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+1045,David Wiese,Kolkata Knight Riders,1,0,3,Insufficient Evidence,63.48140365150686,,Bowler
+20693,Kuldip Yadav,Rajasthan Royals,2,2,24,Insufficient Evidence,59.674787100554006,,Bowler
+27970,Gurnoor Brar,Punjab Kings,1,1,8,Insufficient Evidence,49.61007468453536,,Bowler
+8177,Akash Madhwal,Mumbai Indians,17,11,153,Limited Sample,31.151984941622825,,Bowler
+36984,Raghav Goyal,Mumbai Indians,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+1701,Swapnil Singh,Royal Challengers Bengaluru,9,4,47,Insufficient Evidence,73.7613590888288,,Bowler
+20989,Vivrant Sharma,Sunrisers Hyderabad,2,2,18,Insufficient Evidence,55.76826167216255,,Bowler
+2531,Joe Root,Rajasthan Royals,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+2790,Praveen Dubey,Punjab Kings,2,1,12,Insufficient Evidence,62.07911591352254,,Bowler
+8221,Nitish Reddy,Sunrisers Hyderabad,39,25,288,Limited Sample,36.471657317995664,,Bowler
+36981,Himanshu Sharma,Royal Challengers Bengaluru,2,1,9,Insufficient Evidence,54.21982216204794,,Bowler
+25030,Zaman Khan,Pakistan,10,4,49,Insufficient Evidence,57.61713677351701,,Bowler
+27516,Ihsanullah Ihsanullah,Pakistan,4,3,30,Insufficient Evidence,52.73902344014272,,Bowler
+3578,Imad Wasim,Pakistan,14,7,90,Insufficient Evidence,88.55426158792743,,Bowler
+22471,Matthew Humphreys,Ireland,14,6,83,Insufficient Evidence,94.30570811340185,,Bowler
+8380,Mohammad Rishad Hossain,Bangladesh,49,16,203,Limited Sample,73.54397815418766,,Bowler
+6025,Henry Shipley,New Zealand,4,3,27,Insufficient Evidence,42.045481838268785,,Bowler
+4854,Rachin Ravindra,New Zealand,12,4,50,Insufficient Evidence,60.38701585093933,,Bowler
+3174,Matt Henry,New Zealand,30,16,186,Limited Sample,41.88962169608036,,Bowler
+6355,Shaheen Afridi,Pakistan,47,27,303,Fully Eligible,45.8249536074973,31.0,Bowler
+5189,Faheem Ashraf,Pakistan,32,14,124,Insufficient Evidence,50.35627299616505,,Bowler
+4662,Cole McConchie,New Zealand,8,2,16,Insufficient Evidence,61.26543137763423,,Bowler
+6449,Wafadar Momand,Afghanistan,2,0,1,Insufficient Evidence,61.14694145129255,,Bowler
+27460,Ali Naseer,United Arab Emirates,2,1,6,Insufficient Evidence,59.98740456912116,,Bowler
+8723,Mohammed Faraazuddin,United Arab Emirates,3,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+3697,Kyle Jamieson,New Zealand,30,11,157,Limited Sample,38.18333813435749,,Bowler
+42548,Muhammad Jawadullah,United Arab Emirates,9,6,68,Insufficient Evidence,77.89043262754085,,Bowler
+8611,Adithya Ashok,New Zealand,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+6628,Gerald Coetzee,South Africa,29,16,222,Limited Sample,62.78393302513805,,Bowler
+2483,Lizaad Williams,South Africa,14,8,110,Insufficient Evidence,49.20119729270303,,Bowler
+6354,Spencer Johnson,Australia,23,11,119,Insufficient Evidence,70.24943897251696,,Bowler
+8424,Tanveer Sangha,Australia,7,4,80,Insufficient Evidence,60.825907782230296,,Bowler
+6398,Aaron Hardie,Australia,15,6,76,Insufficient Evidence,49.982785428436635,,Bowler
+6097,Brydon Carse,England,13,7,108,Insufficient Evidence,54.74290929848847,,Bowler
+7008,Gus Atkinson,England,4,1,19,Insufficient Evidence,76.24181351181947,,Bowler
+6272,William Jacks,England,35,12,104,Insufficient Evidence,58.5807057130255,,Bowler
+3641,Ben Dwarshuis,Australia,14,10,101,Insufficient Evidence,66.21637613640094,,Bowler
+4221,Chris Green,Australia,1,0,2,Insufficient Evidence,64.22952631410071,,Bowler
+7312,Nandre Burger,Rajasthan Royals,22,10,109,Insufficient Evidence,58.10971774858037,,Bowler
+28915,Trevor Gwandu,Zimbabwe,8,0,5,Insufficient Evidence,67.42476259762324,,Bowler
+19892,Theo van Woerkom,Ireland,1,0,0,Insufficient Evidence,62.7990716180714,,Bowler
+24017,Brian Bennett,Zimbabwe,16,2,32,Insufficient Evidence,54.372090257313545,,Bowler
+4871,Brandon Mavuta,Zimbabwe,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+3276,Gudakesh Motie,West Indies,38,18,278,Limited Sample,41.11549625906887,,Bowler
+8295,Matthew Forde,West Indies,21,7,77,Insufficient Evidence,50.944947368195784,,Bowler
+6725,Sherfane Rutherford,West Indies,2,2,18,Insufficient Evidence,47.10750705928836,,Bowler
+5231,Oshane Thomas,West Indies,1,0,1,Insufficient Evidence,63.206860843406275,,Bowler
+7905,Tanzim Sakib,Bangladesh,31,15,172,Limited Sample,29.82230074702751,,Bowler
+332,Angelo Mathews,Sri Lanka,9,0,9,Insufficient Evidence,53.89667958006923,,Bowler
+2214,Gulbadin Naib,Afghanistan,7,3,35,Insufficient Evidence,64.46844424792698,,Bowler
+6436,Qais Ahmad,Afghanistan,3,2,21,Insufficient Evidence,63.61092481663879,,Bowler
+17919,Mohammad Saleem Safi,Afghanistan,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+7699,Abbas Afridi,Pakistan,22,13,189,Limited Sample,71.90737906346922,,Bowler
+3077,Usama Mir,Pakistan,5,4,69,Insufficient Evidence,36.17150749923063,,Bowler
+5738,Xavier Bartlett,Punjab Kings,31,12,183,Limited Sample,22.84065305793631,,Bowler
+2439,Akila Dananjaya,Sri Lanka,2,1,23,Insufficient Evidence,64.68878048054364,,Bowler
+4686,Joshua Clarkson,New Zealand,4,1,15,Insufficient Evidence,61.459567498386455,,Bowler
+8266,Sumit Kumar 1,Delhi Capitals,2,1,12,Insufficient Evidence,59.45422798685303,,Bowler
+6697,Shams Mulani,Mumbai Indians,2,1,12,Insufficient Evidence,50.017758185916506,,Bowler
+37052,Naman Dhir,India,11,4,45,Insufficient Evidence,42.05383481678382,,Bowler
+26663,Kwena Maphaka,South Africa,16,11,134,Insufficient Evidence,26.442243251540575,,Bowler
+6237,Manimaran Siddharth,Lucknow Super Giants,9,3,45,Insufficient Evidence,44.4465577458782,,Bowler
+27960,Mayank Yadav,India,22,12,160,Limited Sample,73.49515750661752,,Bowler
+17911,Nangeyalia Kharote,Afghanistan,3,0,5,Insufficient Evidence,67.49257538887412,,Bowler
+47050,Shamar Joseph,West Indies,24,12,146,Insufficient Evidence,49.27602395432737,,Bowler
+2863,Sandeep Warrier,Gujarat Titans,5,1,9,Insufficient Evidence,57.41148859718346,,Bowler
+3782,M Shahrukh Khan,Gujarat Titans,3,0,3,Insufficient Evidence,65.10284489197589,,Bowler
+34969,Manav Suthar,Gujarat Titans,4,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+27964,Anshul Kamboj,Chennai Super Kings,25,9,135,Insufficient Evidence,76.91652325027476,,Bowler
+19315,Vijayakanth Viyaskanth,Sunrisers Hyderabad,5,2,27,Insufficient Evidence,71.38343853609744,,Bowler
+31227,Vidhwath Kaverappa,Punjab Kings,1,0,5,Insufficient Evidence,59.49656103666558,,Bowler
+7059,Nehal Wadhera,Mumbai Indians,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+6466,Atharwa Taide,Punjab Kings,1,0,1,Insufficient Evidence,61.43683507131013,,Bowler
+2367,Travis Head,Sunrisers Hyderabad,2,1,6,Insufficient Evidence,68.64824867862347,,Bowler
+470,Mohammad Amir,Pakistan,7,5,53,Insufficient Evidence,59.17419196493764,,Bowler
+5979,Abrar Ahmed,Pakistan,35,15,214,Limited Sample,84.10712030122203,,Bowler
+29066,Zakary Foulkes,New Zealand,18,9,85,Insufficient Evidence,47.71470121648646,,Bowler
+8614,William ORourke,Lucknow Super Giants,8,4,64,Insufficient Evidence,69.70154622451477,,Bowler
+7690,Saim Ayub,Pakistan,32,12,154,Limited Sample,68.75594976925643,,Bowler
+19147,Faraz Akram,Zimbabwe,6,1,9,Insufficient Evidence,54.74736911326046,,Bowler
+8805,Ottneil Baartman,South Africa,16,8,121,Insufficient Evidence,74.90708092008953,,Bowler
+4779,Pieter Willem Mulder,South Africa,10,4,41,Insufficient Evidence,56.052516505367244,,Bowler
+768,Reeza Hendricks,South Africa,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+25128,Nqabayomzi Peter,South Africa,9,7,87,Insufficient Evidence,45.34468035984632,,Bowler
+5866,Patrick Kruger,South Africa,7,4,61,Insufficient Evidence,65.05067341215278,,Bowler
+30925,Bradley Currie,Scotland,5,1,11,Insufficient Evidence,61.56579760715226,,Bowler
+3686,CB Sole,Scotland,5,1,7,Insufficient Evidence,73.662967985453,,Bowler
+3683,Gavin Main,Scotland,2,0,4,Insufficient Evidence,68.46713950138582,,Bowler
+3689,Mark Watt,Scotland,6,1,21,Insufficient Evidence,55.56043243557936,,Bowler
+24812,Chris Greaves,Scotland,4,0,1,Insufficient Evidence,60.316057026809176,,Bowler
+3361,Michael Leask,Scotland,3,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+22188,Aryan Dutt,Netherlands,7,2,24,Insufficient Evidence,71.084470181791,,Bowler
+3771,Vivian Kingma,Netherlands,5,1,10,Insufficient Evidence,68.51051369078553,,Bowler
+27743,DT Doram,Netherlands,9,3,38,Insufficient Evidence,56.02483007713109,,Bowler
+2997,Paul van Meekeren,Netherlands,10,2,21,Insufficient Evidence,53.293859834956,,Bowler
+7912,Vikramjit Singh,Netherlands,4,1,18,Insufficient Evidence,77.38974796890328,,Bowler
+46378,Kyle Klein,Netherlands,8,1,11,Insufficient Evidence,67.17939930771473,,Bowler
+2296,Safyaan Sharif,Scotland,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+6664,Dion Myers,Zimbabwe,2,0,3,Insufficient Evidence,56.12013281199153,,Bowler
+4904,Kamindu Mendis,Sri Lanka,14,4,38,Insufficient Evidence,41.227149302813906,,Bowler
+7702,Chamindu Wickramasinghe,Sri Lanka,3,0,1,Insufficient Evidence,64.32477912445299,,Bowler
+3673,Ramesh Mendis,Sri Lanka,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+4708,Rinku Singh,India,2,0,4,Insufficient Evidence,65.59364206518137,,Bowler
+1699,Suryakumar Yadav,India,1,0,5,Insufficient Evidence,70.85943389109237,,Bowler
+45457,Zach Lion Cachet,Netherlands,4,1,10,Insufficient Evidence,75.31281629394351,,Bowler
+6984,Saqib Zulfiqar,Netherlands,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+7756,Kaleem Sana,Canada,3,1,8,Insufficient Evidence,72.23789688647263,,Bowler
+3337,Jeremy Gordon,Canada,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+7001,Dilon Heyliger,Canada,3,1,7,Insufficient Evidence,54.54148213495612,,Bowler
+7755,Harsh Thaker,Canada,3,1,13,Insufficient Evidence,55.128610390837615,,Bowler
+6995,Saad Zafar,Canada,3,1,6,Insufficient Evidence,63.23755252219292,,Bowler
+7002,Nicholas Kirton,Canada,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+25809,Juanoy Drysdale,United States Of America,3,1,20,Insufficient Evidence,66.47696978808503,,Bowler
+5547,Nosthush Kenjige,United States Of America,4,1,17,Insufficient Evidence,53.98826075599591,,Bowler
+4438,Jasdeep Singh,United States Of America,4,2,31,Insufficient Evidence,49.70258921072212,,Bowler
+773,Shadley Van Schalkwyk,United States Of America,4,2,38,Insufficient Evidence,68.27324374584552,,Bowler
+26916,Yasir Mohammad,United States Of America,3,1,19,Insufficient Evidence,50.490990129145516,,Bowler
+2887,Harmeet Singh,United States Of America,4,2,32,Insufficient Evidence,70.08053322682605,,Bowler
+7710,Brandon Glover,Netherlands,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+32401,Akhil Kumar,Canada,2,1,6,Insufficient Evidence,60.142866070477695,,Bowler
+39991,Parveen Kumar,Canada,2,1,16,Insufficient Evidence,67.78860050322673,,Bowler
+7634,Aaron Jones,United States Of America,2,1,6,Insufficient Evidence,69.60157836247578,,Bowler
+4412,Max ODowd,Netherlands,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+6926,Matty Potts,England,1,1,12,Insufficient Evidence,57.8641788098482,,Bowler
+23311,Jacob Bethell,England,5,4,54,Insufficient Evidence,62.372480358430025,,Bowler
+2382,Jamie Overton,Chennai Super Kings,30,13,176,Limited Sample,55.49647162295004,,Bowler
+3629,Corbin Bosch,South Africa,19,9,136,Insufficient Evidence,87.31208559452173,,Bowler
+34522,Brandon McMullen,Scotland,3,0,4,Insufficient Evidence,64.33475571797014,,Bowler
+5561,Brad Wheal,Scotland,2,1,18,Insufficient Evidence,56.383957340717096,,Bowler
+57747,Charlie Cassell,Scotland,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+24978,Jack Jarvis,Scotland,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+34527,Jasper John Davidson,Scotland,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+8654,Cooper Connolly,Australia,7,5,41,Insufficient Evidence,46.17192617063748,,Bowler
+8311,Dan Mousley,England,4,1,11,Insufficient Evidence,54.45981801580642,,Bowler
+6795,Terrance Hinds,West Indies,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+33009,John Turner,England,2,0,1,Insufficient Evidence,61.34167094558599,,Bowler
+34485,Sufiyan Muqeem,Pakistan,17,7,106,Insufficient Evidence,74.84094293702834,,Bowler
+47724,Jahandad Khan,Pakistan,8,2,16,Insufficient Evidence,54.3103560833129,,Bowler
+4842,Shamar Springer,West Indies,11,7,111,Insufficient Evidence,40.81238410921785,,Bowler
+7052,Dunith Wellalage,Sri Lanka,12,3,33,Insufficient Evidence,44.8257423610623,,Bowler
+3489,Salman Agha,Pakistan,13,6,39,Insufficient Evidence,48.41243790369627,,Bowler
+33969,Tinotenda Maposa,Zimbabwe,12,4,39,Insufficient Evidence,39.2963593673311,,Bowler
+34466,Arafat Minhas,Pakistan,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+25216,Andile Simelane,South Africa,6,4,45,Insufficient Evidence,43.60628837194124,,Bowler
+4790,Lutho Sipamla,South Africa,5,3,46,Insufficient Evidence,35.70533679934504,,Bowler
+4229,George Linde,South Africa,17,6,97,Insufficient Evidence,78.98863731453562,,Bowler
+3637,Dayyaan Galiem,South Africa,1,1,8,Insufficient Evidence,74.0045879780746,,Bowler
+8182,Donovan Ferreira,South Africa,9,3,35,Insufficient Evidence,33.27908842597262,,Bowler
+8326,Jayden Seales,West Indies,9,5,55,Insufficient Evidence,49.229807920845815,,Bowler
+20229,Mohammad Ali,Pakistan,3,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+4111,Khushdil Shah,Pakistan,6,2,27,Insufficient Evidence,63.28108858925914,,Bowler
+45381,PV Satyanarayan Raju,Mumbai Indians,2,1,18,Insufficient Evidence,55.198666539270526,,Bowler
+48557,Vignesh Puthur,Mumbai Indians,5,2,23,Insufficient Evidence,63.84665777535174,,Bowler
+46066,Vipraj Nigam,Delhi Capitals,18,7,100,Insufficient Evidence,39.10465606104003,,Bowler
+58134,Digvesh Rathi,Lucknow Super Giants,23,10,150,Limited Sample,68.07438320318572,,Bowler
+58246,Prince Yadav,India,32,17,224,Limited Sample,12.11604946683657,,Bowler
+4117,Ishan Kishan,Sunrisers Hyderabad,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+4824,Zeeshan Ansari,Sunrisers Hyderabad,10,3,60,Insufficient Evidence,42.28181976678763,,Bowler
+8634,Ashwani Kumar,Mumbai Indians,10,6,77,Insufficient Evidence,56.892326145917735,,Bowler
+39657,Eshan Malinga,Sunrisers Hyderabad,39,18,288,Limited Sample,91.66838341273353,,Bowler
+7625,Suryansh Shedge,India,4,3,30,Insufficient Evidence,37.60853374333068,,Bowler
+56830,Madhav Tiwari,Delhi Capitals,4,4,53,Insufficient Evidence,66.39683614261732,,Bowler
+25138,Harsh Dubey,Sunrisers Hyderabad,11,7,99,Insufficient Evidence,44.63835165000795,,Bowler
+37731,Musheer Khan,Punjab Kings,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+25011,Liam Mccarthy,Ireland,3,3,34,Insufficient Evidence,38.242730406823945,,Bowler
+19781,Mitchell Owen,Australia,4,2,23,Insufficient Evidence,61.444093315866034,,Bowler
+6350,Matthew Kuhnemann,Australia,6,2,20,Insufficient Evidence,59.92515022870031,,Bowler
+36553,Jediah Blades,West Indies,6,1,12,Insufficient Evidence,58.39283735384664,,Bowler
+7140,Senuran Muthusamy,South Africa,2,1,17,Insufficient Evidence,53.7811371161615,,Bowler
+7903,Shamim Hossain,Bangladesh,9,4,42,Insufficient Evidence,44.428555709520865,,Bowler
+6356,Khaled Ahmed,Bangladesh,1,0,5,Insufficient Evidence,64.75475537174518,,Bowler
+6651,Towhid Hridoy,Bangladesh,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+27466,Dhruv Parashar,United Arab Emirates,10,1,30,Insufficient Evidence,53.29527945208143,,Bowler
+27390,Matiullah Khan,United Arab Emirates,3,2,20,Insufficient Evidence,50.49749953362236,,Bowler
+28756,Haider Ali,United Arab Emirates,12,3,27,Insufficient Evidence,58.4218914831554,,Bowler
+8727,Sanchit Sharma,United Arab Emirates,1,0,4,Insufficient Evidence,55.072302137312434,,Bowler
+47371,Zuhaid Zubair,United Arab Emirates,1,1,10,Insufficient Evidence,63.75710064391185,,Bowler
+29080,Muhammad Khan,United Arab Emirates,4,3,39,Insufficient Evidence,63.86986370617122,,Bowler
+22565,Muhammad Waseem,United Arab Emirates,2,1,6,Insufficient Evidence,57.19786899370435,,Bowler
+37939,Nahid Rana,Bangladesh,5,3,38,Insufficient Evidence,74.53528957667915,,Bowler
+19754,Raja Khan,United Arab Emirates,1,0,5,Insufficient Evidence,65.08676901793129,,Bowler
+8726,Alishan Sharafu,United Arab Emirates,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+20704,Salman Mirza,Pakistan,15,5,56,Insufficient Evidence,49.45938665737833,,Bowler
+20310,Ahmed Daniyal,Pakistan,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+3038,Hussain Talat,Pakistan,2,1,6,Insufficient Evidence,51.957458170532455,,Bowler
+6196,Josh Tongue,England,5,4,62,Insufficient Evidence,66.39308773508155,,Bowler
+24473,Sonny Baker,England,4,1,33,Insufficient Evidence,84.31767234344622,,Bowler
+19307,Tharindu Rathnayake,Sri Lanka,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+32862,Allah Ghazanfar,Mumbai Indians,15,6,92,Insufficient Evidence,44.44806830657837,,Bowler
+28655,Muhammad Rohid,United Arab Emirates,6,1,17,Insufficient Evidence,51.04565592279925,,Bowler
+27364,Simranjeet Kang,United Arab Emirates,3,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+35122,Shah Faisal,Oman,3,1,10,Insufficient Evidence,64.89211277116969,,Bowler
+3613,Shakeel Ahmed,Oman,3,0,3,Insufficient Evidence,66.2585419438403,,Bowler
+4974,Mohammad Nadeem,Oman,2,0,1,Insufficient Evidence,64.31942427304438,,Bowler
+3871,Aamir Kaleem,Oman,3,1,11,Insufficient Evidence,58.6485906965762,,Bowler
+25231,Samay Shrivastava,Oman,3,2,15,Insufficient Evidence,54.3697473324908,,Bowler
+27004,Hassnain Shah,Oman,2,1,7,Insufficient Evidence,67.46081681721566,,Bowler
+3876,Sufyan Mehmood,Oman,1,0,4,Insufficient Evidence,63.1607204944814,,Bowler
+26988,Jitenkumar Ramanandi,Oman,2,2,26,Insufficient Evidence,73.1190034421552,,Bowler
+27380,Harshit Kaushik,United Arab Emirates,5,1,7,Insufficient Evidence,62.17198168463292,,Bowler
+4780,Mohammad Saif Hassan,Bangladesh,11,1,18,Insufficient Evidence,72.63672834236188,,Bowler
+35102,Zikria Islam,Oman,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+31513,Ethan Dsouza,United Arab Emirates,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+27373,Muhammad Farooq,United Arab Emirates,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+56685,Abdullah Ahmadzai,Afghanistan,10,4,85,Insufficient Evidence,50.1823008929669,,Bowler
+27504,Dushan Hemantha,Sri Lanka,3,2,27,Insufficient Evidence,64.34112850217771,,Bowler
+8298,Ramon Simmonds,West Indies,4,2,24,Insufficient Evidence,67.10584541191275,,Bowler
+60609,Navin Bidaisee,West Indies,3,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+4881,Dipendra Airee,Nepal,2,1,7,Insufficient Evidence,68.88955723339762,,Bowler
+4417,Karan KC,Nepal,3,1,6,Insufficient Evidence,71.75755025903932,,Bowler
+20175,Nandan Yadav,Nepal,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+3775,Sompal Kami,Nepal,3,1,12,Insufficient Evidence,49.33735840494983,,Bowler
+7403,Lalit Rajbanshi,Nepal,2,1,18,Insufficient Evidence,72.95946201663301,,Bowler
+7120,Rohit Paudel,Nepal,3,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+4882,Kushal Bhurtel,Nepal,3,2,19,Insufficient Evidence,77.71098306910804,,Bowler
+36551,Zishan Motara,West Indies,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+29075,Aadil Ansari,Nepal,2,1,15,Insufficient Evidence,77.5525152555405,,Bowler
+7916,Karima Gore,West Indies,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+20316,Shahab Alam,Nepal,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+52338,Usman Tariq,Pakistan,3,1,12,Insufficient Evidence,78.18439783193402,,Bowler
+29833,Bashir Ahmad,Afghanistan,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+5977,Khary Pierre,West Indies,6,2,25,Insufficient Evidence,58.03886600014588,,Bowler
+3543,Shahidullah Kamal,Afghanistan,4,2,12,Insufficient Evidence,59.04045491703715,,Bowler
+6574,Alick Athanaze,West Indies,1,0,3,Insufficient Evidence,59.246726498078914,,Bowler
+988,Graeme Cremer,Zimbabwe,2,1,12,Insufficient Evidence,76.04518564581436,,Bowler
+7049,Kamil Mishara,Sri Lanka,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+7704,Pavan Rathnayake,Sri Lanka,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+29558,Muhammad Arfan,United Arab Emirates,2,1,7,Insufficient Evidence,68.15011028134712,,Bowler
+8623,Kristian Clarke,New Zealand,1,1,12,Insufficient Evidence,61.675904058965145,,Bowler
+7241,Ziaur Rahman,Afghanistan,2,1,12,Insufficient Evidence,71.69446129854428,,Bowler
+2418,Justin Greaves,West Indies,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+26519,Janith Liyanage,Sri Lanka,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+6166,Jack Edwards,Australia,1,1,6,Insufficient Evidence,58.997234446510745,,Bowler
+38044,Mahli Beardman,Australia,1,1,9,Insufficient Evidence,64.50256321468964,,Bowler
+50062,Nqobani Mokoena,South Africa,3,0,2,Insufficient Evidence,65.27611814462736,,Bowler
+46929,Dian Forrester,South Africa,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+2359,Prenelan Subrayen,South Africa,2,1,14,Insufficient Evidence,64.12730622769809,,Bowler
+58727,Abhinandan Singh,Royal Challengers Bengaluru,3,2,27,Insufficient Evidence,71.83463975492388,,Bowler
+1556,David Payne,Sunrisers Hyderabad,2,1,9,Insufficient Evidence,54.23661796729533,,Bowler
+67036,Brijesh Sharma,Rajasthan Royals,13,11,145,Insufficient Evidence,48.6629326650413,,Bowler
+28018,Ashok Sharma,Gujarat Titans,8,4,47,Insufficient Evidence,68.25451959564566,,Bowler
+56817,Shivang Kumar,Sunrisers Hyderabad,13,8,113,Insufficient Evidence,21.661036246909365,,Bowler
+6396,Tim David,Royal Challengers Bengaluru,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+8141,Auqib Nabi,Delhi Capitals,5,3,36,Insufficient Evidence,54.60069484315798,,Bowler
+23467,Gurjapneet Singh,Chennai Super Kings,8,4,57,Insufficient Evidence,75.45298278563534,,Bowler
+24767,Ripon Mondol,Bangladesh,2,1,19,Insufficient Evidence,56.254317988257185,,Bowler
+4857,Nathan Smith,New Zealand,6,4,52,Insufficient Evidence,34.84449456941324,,Bowler
+6566,Matthew John Fisher,New Zealand,3,2,26,Insufficient Evidence,55.442973882643166,,Bowler
+4793,Dean Foxcroft,New Zealand,1,0,1,Insufficient Evidence,64.3697461785585,,Bowler
+8389,Jayden Lennox,New Zealand,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+59045,Jai Moondra,Ireland,2,2,20,Insufficient Evidence,55.4258900633086,,Bowler
+67864,Matt Hollard,Ireland,2,1,6,Insufficient Evidence,67.9319449610293,,Bowler
+25132,Praful Hinge,Sunrisers Hyderabad,7,6,90,Insufficient Evidence,51.814771497296455,,Bowler
+35318,Sakib Hussain,Sunrisers Hyderabad,11,9,148,Insufficient Evidence,68.12066190946508,,Bowler
+41503,Yash Punja,Rajasthan Royals,8,7,116,Insufficient Evidence,51.608106730526536,,Bowler
+43917,Krish Bhagat,Mumbai Indians,3,1,12,Insufficient Evidence,53.25234370919135,,Bowler
+45966,Prashant Veer,Chennai Super Kings,1,0,3,Insufficient Evidence,65.60236384081482,,Bowler
+35072,Ramakrishna Ghosh,Chennai Super Kings,1,0,5,Insufficient Evidence,67.02104998942842,,Bowler
+6359,Raghu Sharma,Mumbai Indians,5,1,20,Insufficient Evidence,60.818066537274596,,Bowler
+26834,Raj Bawa,Mumbai Indians,2,1,6,Insufficient Evidence,62.6019390865409,,Bowler
+28021,Saurabh Dubey,Kolkata Knight Riders,4,2,22,Insufficient Evidence,71.23610362800952,,Bowler
+32244,Tripurana Vijay,Delhi Capitals,1,1,6,Insufficient Evidence,59.19267531097745,,Bowler
+7269,Sushant Mishra,Rajasthan Royals,2,2,32,Insufficient Evidence,63.594683357775835,,Bowler
+47403,Newman Nyamhuri,Zimbabwe,5,1,23,Insufficient Evidence,64.36583443210259,,Bowler
+3986,Matthew Renshaw,Australia,3,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+26795,Joel Davies,Australia,3,1,16,Insufficient Evidence,65.13190435263373,,Bowler
+8093,Nikhil Chaudhary,Australia,3,1,7,Insufficient Evidence,63.73128825022383,,Bowler
+48616,Abdul Saqlain,Bangladesh,3,1,9,Insufficient Evidence,59.143062549069,,Bowler
+4876,Milton Shumba,Zimbabwe,2,1,6,Insufficient Evidence,60.29612996271988,,Bowler
+47542,Charles Hinze,Japan,1,0,3,Insufficient Evidence,68.63444405017066,,Bowler
+29699,Ibrahim Takahashi,Japan,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+54404,Benjamin Ito,Japan,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+6506,Mohammad Imran Randhawa,Pakistan,3,1,13,Insufficient Evidence,74.59025507300345,,Bowler
+71727,Razaullah Razaullah,Pakistan,2,0,2,Insufficient Evidence,65.44335574028567,,Bowler
+21780,Ernest Masuku,Zimbabwe,3,1,9,Insufficient Evidence,54.07311885925257,,Bowler
+4870,Kundai Matigimu,Zimbabwe,1,1,9,Insufficient Evidence,47.55907190315504,,Bowler
+28908,Vincent Masekesa,Zimbabwe,2,0,0,Insufficient Evidence,63.29743124741562,,Bowler
+24779,Ijaz Ahmadzai,Afghanistan,1,1,6,Insufficient Evidence,55.49115796618918,,Bowler
+17918,Abdullah Tarakhail,Afghanistan,1,0,0,Insufficient Evidence,63.29743124741562,,Bowler

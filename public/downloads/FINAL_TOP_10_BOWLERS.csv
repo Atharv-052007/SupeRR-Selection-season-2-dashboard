@@ -1,0 +1,11 @@
+rank,player_name,player_id,primary_team,matches,pressure_innings,pressure_balls,pressure_wickets,pressure_runs,pressure_economy,pressure_average,pressure_strike_rate,pressure_dot_pct,pressure_boundary_pct,pressure_runs_saved_per_ball,normal_economy,normal_wicket_rate,economy_lift,wicket_rate_lift,positive_innings_rate,consistency_score,reliability_score,eligibility,formats,seasons
+1,Matheesha Pathirana,8661,Chennai Super Kings,54,33,529,48,770.0,8.73,16.04,11.02,38.0,17.2,0.04,8.22,0.08,-0.51,0.01,0.58,0.57,94.4,Fully Eligible,T20; T20I,2022; 2023; 2024; 2024/25; 2025; 2026
+2,Sunil Narine,781,Kolkata Knight Riders,67,34,466,24,578.0,7.44,24.08,19.42,37.98,12.23,0.28,6.35,0.04,-1.09,0.02,0.74,0.7,92.58,Fully Eligible,T20,2022; 2023; 2024; 2025; 2026
+3,Ravichandran Ashwin,305,Rajasthan Royals,61,29,379,24,490.0,7.76,20.42,15.79,32.45,11.87,0.2,7.43,0.03,-0.32,0.03,0.62,0.59,91.13,Fully Eligible,T20; T20I,2022; 2022/23; 2023; 2024; 2025
+4,Rashid Khan,4722,Gujarat Titans,122,57,819,62,1185.0,8.68,19.11,13.21,32.84,17.09,0.02,7.18,0.05,-1.5,0.03,0.63,0.6,84.9,Fully Eligible,T20; T20I,2022; 2023; 2024; 2025; 2026
+5,Haris Rauf,7364,Pakistan,48,28,380,36,577.0,9.11,16.03,10.56,40.26,18.95,-0.13,8.51,0.05,-0.6,0.04,0.46,0.46,83.33,Fully Eligible,T20I,2022; 2022/23; 2023; 2024; 2025
+6,Jasprit Bumrah,2933,Mumbai Indians,75,37,504,27,672.0,8.0,24.89,18.67,34.33,15.48,0.15,6.83,0.04,-1.17,0.01,0.65,0.65,82.22,Fully Eligible,T20; T20I,2022; 2023; 2024; 2025; 2026
+7,Mohammed Siraj,5944,Royal Challengers Bengaluru,83,43,451,36,729.0,9.7,20.25,12.53,39.02,23.5,-0.11,8.57,0.03,-1.13,0.04,0.47,0.44,79.66,Fully Eligible,T20; T20I,2022; 2022/23; 2023; 2024; 2025; 2026
+8,Yuzvendra Chahal,1612,Rajasthan Royals,98,53,804,55,1202.0,8.97,21.85,14.62,28.73,16.29,-0.0,8.66,0.05,-0.31,0.02,0.53,0.52,79.43,Fully Eligible,T20; T20I,2022; 2022/23; 2023; 2024; 2025; 2026
+9,Josh Hazlewood,830,Royal Challengers Bengaluru,65,36,443,34,675.0,9.14,19.85,13.03,40.63,22.57,-0.06,7.97,0.07,-1.17,0.01,0.5,0.48,76.65,Fully Eligible,T20; T20I,2022; 2023; 2024; 2025; 2026
+10,Noor Ahmad,7967,Chennai Super Kings,70,34,554,38,807.0,8.74,21.24,14.58,34.48,16.61,0.03,6.75,0.05,-1.99,0.02,0.5,0.5,76.6,Fully Eligible,T20; T20I,2022; 2023; 2024; 2025; 2026

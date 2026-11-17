@@ -1,0 +1,4893 @@
+{
+  "generated_at": "2026-11-17T22:55:05",
+  "seed": 20261117,
+  "batters": [
+    {
+      "player_id": 6396,
+      "player_name": "Tim David",
+      "team": "Mumbai Indians",
+      "teams": "Australia; Mumbai Indians; Royal Challengers Bengaluru",
+      "formats": "T20; T20I",
+      "seasons": "2022; 2023; 2024; 2025; 2026",
+      "matches": 98,
+      "kind": "bat",
+      "rank": 1,
+      "score": 97.1,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "runs": 796,
+        "balls": 445,
+        "innings": 33,
+        "SR": 178.88,
+        "average": 34.61,
+        "dismissals": 23,
+        "boundary_pct": 24.27,
+        "dot_pct": 29.66,
+        "runs_added_per_ball": 0.35
+      },
+      "normal": {
+        "runs": 777,
+        "balls": 431,
+        "SR": 180.28,
+        "average": 29.88,
+        "dismissals": 26,
+        "boundary_pct": 26.91,
+        "dot_pct": 31.09
+      },
+      "lift": {
+        "SR": -1.4,
+        "average": 4.72,
+        "boundary_pct": -2.64
+      },
+      "components": [
+        {
+          "key": "sr",
+          "label": "Strike rate",
+          "z": 3.0,
+          "weight": 0.3,
+          "weighted_z": 0.9
+        },
+        {
+          "key": "avg",
+          "label": "Average",
+          "z": 2.07,
+          "weight": 0.22,
+          "weighted_z": 0.46
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary rate",
+          "z": 2.9,
+          "weight": 0.08,
+          "weighted_z": 0.23
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": -1.07,
+          "weight": 0.2,
+          "weighted_z": -0.21
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 2.49,
+          "weight": 0.15,
+          "weighted_z": 0.37
+        },
+        {
+          "key": "chase",
+          "label": "Chase record",
+          "z": 3.0,
+          "weight": 0.05,
+          "weighted_z": 0.15
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 65.98,
+        "score_median": 94.09,
+        "score_ci_high": 99.37,
+        "rank_ci_low": 1.0,
+        "rank_median": 6.0,
+        "rank_ci_high": 29.0,
+        "top10_probability": 0.74
+      },
+      "context": {
+        "categories": {
+          "High": 288,
+          "Extreme": 157
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 0,
+            "runs": 0,
+            "dismissals": 0,
+            "SR": null
+          },
+          {
+            "phase": "Middle",
+            "balls": 162,
+            "runs": 238,
+            "dismissals": 6,
+            "SR": 146.91
+          },
+          {
+            "phase": "Death",
+            "balls": 283,
+            "runs": 558,
+            "dismissals": 17,
+            "SR": 197.17
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 324,
+            "runs": 553,
+            "dismissals": 18,
+            "SR": 170.68
+          },
+          {
+            "format": "T20I",
+            "balls": 121,
+            "runs": 243,
+            "dismissals": 5,
+            "SR": 200.83
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 88,
+            "runs": 175,
+            "dismissals": 5,
+            "SR": 198.86
+          },
+          {
+            "season": "2023",
+            "balls": 107,
+            "runs": 166,
+            "dismissals": 8,
+            "SR": 155.14
+          },
+          {
+            "season": "2024",
+            "balls": 142,
+            "runs": 244,
+            "dismissals": 6,
+            "SR": 171.83
+          },
+          {
+            "season": "2025",
+            "balls": 92,
+            "runs": 183,
+            "dismissals": 3,
+            "SR": 198.91
+          },
+          {
+            "season": "2026",
+            "balls": 16,
+            "runs": 28,
+            "dismissals": 1,
+            "SR": 175.0
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 40727,
+            "date": "2025-04-18",
+            "opponent": "Punjab Kings",
+            "season": "2025",
+            "format": "T20",
+            "runs": 50,
+            "balls": 26,
+            "SR": 192.31,
+            "dismissed": 0,
+            "pressure": 72.8,
+            "won": 0
+          },
+          {
+            "match_id": 14159,
+            "date": "2022-05-17",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2022",
+            "format": "T20",
+            "runs": 46,
+            "balls": 18,
+            "SR": 255.56,
+            "dismissed": 1,
+            "pressure": 69.9,
+            "won": 0
+          },
+          {
+            "match_id": 14145,
+            "date": "2022-05-06",
+            "opponent": "Gujarat Titans",
+            "season": "2022",
+            "format": "T20",
+            "runs": 44,
+            "balls": 21,
+            "SR": 209.52,
+            "dismissed": 0,
+            "pressure": 61.0,
+            "won": 1
+          },
+          {
+            "match_id": 30063,
+            "date": "2024-03-27",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2024",
+            "format": "T20",
+            "runs": 42,
+            "balls": 22,
+            "SR": 190.91,
+            "dismissed": 0,
+            "pressure": 70.7,
+            "won": 0
+          },
+          {
+            "match_id": 29817,
+            "date": "2024-02-13",
+            "opponent": "West Indies",
+            "season": "2024",
+            "format": "T20I",
+            "runs": 41,
+            "balls": 19,
+            "SR": 215.79,
+            "dismissed": 0,
+            "pressure": 69.4,
+            "won": 0
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 3374,
+      "player_name": "Mark Chapman",
+      "team": "New Zealand",
+      "teams": "New Zealand",
+      "formats": "T20I",
+      "seasons": "2022/23; 2023; 2024; 2024/25; 2025; 2026",
+      "matches": 53,
+      "kind": "bat",
+      "rank": 2,
+      "score": 96.59,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "runs": 475,
+        "balls": 295,
+        "innings": 21,
+        "SR": 161.02,
+        "average": 36.54,
+        "dismissals": 13,
+        "boundary_pct": 21.02,
+        "dot_pct": 26.44,
+        "runs_added_per_ball": 0.27
+      },
+      "normal": {
+        "runs": 322,
+        "balls": 227,
+        "SR": 141.85,
+        "average": 23.0,
+        "dismissals": 14,
+        "boundary_pct": 18.5,
+        "dot_pct": 36.12
+      },
+      "lift": {
+        "SR": 19.17,
+        "average": 13.54,
+        "boundary_pct": 2.51
+      },
+      "components": [
+        {
+          "key": "sr",
+          "label": "Strike rate",
+          "z": 1.96,
+          "weight": 0.3,
+          "weighted_z": 0.59
+        },
+        {
+          "key": "avg",
+          "label": "Average",
+          "z": 2.36,
+          "weight": 0.22,
+          "weighted_z": 0.52
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary rate",
+          "z": 2.02,
+          "weight": 0.08,
+          "weighted_z": 0.16
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": 0.98,
+          "weight": 0.2,
+          "weighted_z": 0.2
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 1.65,
+          "weight": 0.15,
+          "weighted_z": 0.25
+        },
+        {
+          "key": "chase",
+          "label": "Chase record",
+          "z": 3.0,
+          "weight": 0.05,
+          "weighted_z": 0.15
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 65.63,
+        "score_median": 93.67,
+        "score_ci_high": 99.44,
+        "rank_ci_low": 1.0,
+        "rank_median": 6.0,
+        "rank_ci_high": 31.0,
+        "top10_probability": 0.7
+      },
+      "context": {
+        "categories": {
+          "High": 280,
+          "Extreme": 15
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 13,
+            "runs": 19,
+            "dismissals": 0,
+            "SR": 146.15
+          },
+          {
+            "phase": "Middle",
+            "balls": 216,
+            "runs": 336,
+            "dismissals": 11,
+            "SR": 155.56
+          },
+          {
+            "phase": "Death",
+            "balls": 66,
+            "runs": 120,
+            "dismissals": 2,
+            "SR": 181.82
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20I",
+            "balls": 295,
+            "runs": 475,
+            "dismissals": 13,
+            "SR": 161.02
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022/23",
+            "balls": 14,
+            "runs": 24,
+            "dismissals": 1,
+            "SR": 171.43
+          },
+          {
+            "season": "2023",
+            "balls": 213,
+            "runs": 350,
+            "dismissals": 8,
+            "SR": 164.32
+          },
+          {
+            "season": "2024",
+            "balls": 10,
+            "runs": 13,
+            "dismissals": 1,
+            "SR": 130.0
+          },
+          {
+            "season": "2024/25",
+            "balls": 3,
+            "runs": 6,
+            "dismissals": 1,
+            "SR": 200.0
+          },
+          {
+            "season": "2025",
+            "balls": 16,
+            "runs": 17,
+            "dismissals": 1,
+            "SR": 106.25
+          },
+          {
+            "season": "2026",
+            "balls": 39,
+            "runs": 65,
+            "dismissals": 1,
+            "SR": 166.67
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 21407,
+            "date": "2023-04-24",
+            "opponent": "Pakistan",
+            "season": "2023",
+            "format": "T20I",
+            "runs": 80,
+            "balls": 37,
+            "SR": 216.22,
+            "dismissed": 0,
+            "pressure": 61.8,
+            "won": 1
+          },
+          {
+            "match_id": 24793,
+            "date": "2023-08-19",
+            "opponent": "United Arab Emirates",
+            "season": "2023",
+            "format": "T20I",
+            "runs": 59,
+            "balls": 41,
+            "SR": 143.9,
+            "dismissed": 1,
+            "pressure": 65.8,
+            "won": 0
+          },
+          {
+            "match_id": 21404,
+            "date": "2023-04-15",
+            "opponent": "Pakistan",
+            "season": "2023",
+            "format": "T20I",
+            "runs": 45,
+            "balls": 26,
+            "SR": 173.08,
+            "dismissed": 0,
+            "pressure": 67.8,
+            "won": 0
+          },
+          {
+            "match_id": 48591,
+            "date": "2026-01-21",
+            "opponent": "India",
+            "season": "2026",
+            "format": "T20I",
+            "runs": 39,
+            "balls": 24,
+            "SR": 162.5,
+            "dismissed": 1,
+            "pressure": 63.7,
+            "won": 0
+          },
+          {
+            "match_id": 21176,
+            "date": "2023-04-02",
+            "opponent": "Sri Lanka",
+            "season": "2023",
+            "format": "T20I",
+            "runs": 26,
+            "balls": 15,
+            "SR": 173.33,
+            "dismissed": 1,
+            "pressure": 59.1,
+            "won": 0
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 1699,
+      "player_name": "Suryakumar Yadav",
+      "team": "Mumbai Indians",
+      "teams": "India; Mumbai Indians",
+      "formats": "T20; T20I",
+      "seasons": "2022; 2022/23; 2023; 2024; 2025; 2026",
+      "matches": 139,
+      "kind": "bat",
+      "rank": 3,
+      "score": 96.35,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "runs": 876,
+        "balls": 504,
+        "innings": 30,
+        "SR": 173.81,
+        "average": 38.09,
+        "dismissals": 23,
+        "boundary_pct": 25.2,
+        "dot_pct": 27.38,
+        "runs_added_per_ball": 0.31
+      },
+      "normal": {
+        "runs": 2006,
+        "balls": 1150,
+        "SR": 174.43,
+        "average": 35.82,
+        "dismissals": 56,
+        "boundary_pct": 26.52,
+        "dot_pct": 32.35
+      },
+      "lift": {
+        "SR": -0.63,
+        "average": 2.27,
+        "boundary_pct": -1.32
+      },
+      "components": [
+        {
+          "key": "sr",
+          "label": "Strike rate",
+          "z": 2.75,
+          "weight": 0.3,
+          "weighted_z": 0.82
+        },
+        {
+          "key": "avg",
+          "label": "Average",
+          "z": 2.73,
+          "weight": 0.22,
+          "weighted_z": 0.6
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary rate",
+          "z": 3.0,
+          "weight": 0.08,
+          "weighted_z": 0.24
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": -1.36,
+          "weight": 0.2,
+          "weighted_z": -0.27
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 1.68,
+          "weight": 0.15,
+          "weighted_z": 0.25
+        },
+        {
+          "key": "chase",
+          "label": "Chase record",
+          "z": 3.0,
+          "weight": 0.05,
+          "weighted_z": 0.15
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 66.53,
+        "score_median": 92.96,
+        "score_ci_high": 99.14,
+        "rank_ci_low": 1.0,
+        "rank_median": 7.0,
+        "rank_ci_high": 29.0,
+        "top10_probability": 0.69
+      },
+      "context": {
+        "categories": {
+          "High": 470,
+          "Extreme": 34
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 22,
+            "runs": 32,
+            "dismissals": 1,
+            "SR": 145.45
+          },
+          {
+            "phase": "Middle",
+            "balls": 355,
+            "runs": 594,
+            "dismissals": 9,
+            "SR": 167.32
+          },
+          {
+            "phase": "Death",
+            "balls": 127,
+            "runs": 250,
+            "dismissals": 13,
+            "SR": 196.85
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 351,
+            "runs": 573,
+            "dismissals": 18,
+            "SR": 163.25
+          },
+          {
+            "format": "T20I",
+            "balls": 153,
+            "runs": 303,
+            "dismissals": 5,
+            "SR": 198.04
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 171,
+            "runs": 320,
+            "dismissals": 5,
+            "SR": 187.13
+          },
+          {
+            "season": "2022/23",
+            "balls": 11,
+            "runs": 22,
+            "dismissals": 1,
+            "SR": 200.0
+          },
+          {
+            "season": "2023",
+            "balls": 176,
+            "runs": 312,
+            "dismissals": 8,
+            "SR": 177.27
+          },
+          {
+            "season": "2024",
+            "balls": 20,
+            "runs": 32,
+            "dismissals": 2,
+            "SR": 160.0
+          },
+          {
+            "season": "2025",
+            "balls": 56,
+            "runs": 100,
+            "dismissals": 3,
+            "SR": 178.57
+          },
+          {
+            "season": "2026",
+            "balls": 70,
+            "runs": 90,
+            "dismissals": 4,
+            "SR": 128.57
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 16042,
+            "date": "2022-07-10",
+            "opponent": "England",
+            "season": "2022",
+            "format": "T20I",
+            "runs": 109,
+            "balls": 43,
+            "SR": 253.49,
+            "dismissed": 1,
+            "pressure": 65.3,
+            "won": 0
+          },
+          {
+            "match_id": 14111,
+            "date": "2022-04-09",
+            "opponent": "Royal Challengers Bengaluru",
+            "season": "2022",
+            "format": "T20",
+            "runs": 68,
+            "balls": 37,
+            "SR": 183.78,
+            "dismissed": 0,
+            "pressure": 67.9,
+            "won": 0
+          },
+          {
+            "match_id": 20211,
+            "date": "2023-04-22",
+            "opponent": "Punjab Kings",
+            "season": "2023",
+            "format": "T20",
+            "runs": 55,
+            "balls": 23,
+            "SR": 239.13,
+            "dismissed": 1,
+            "pressure": 62.8,
+            "won": 0
+          },
+          {
+            "match_id": 14107,
+            "date": "2022-04-06",
+            "opponent": "Kolkata Knight Riders",
+            "season": "2022",
+            "format": "T20",
+            "runs": 52,
+            "balls": 36,
+            "SR": 144.44,
+            "dismissed": 1,
+            "pressure": 63.1,
+            "won": 0
+          },
+          {
+            "match_id": 40759,
+            "date": "2025-05-21",
+            "opponent": "Delhi Capitals",
+            "season": "2025",
+            "format": "T20",
+            "runs": 50,
+            "balls": 24,
+            "SR": 208.33,
+            "dismissed": 0,
+            "pressure": 62.4,
+            "won": 1
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 8101,
+      "player_name": "Ashutosh Sharma",
+      "team": "Delhi Capitals",
+      "teams": "Delhi Capitals; Punjab Kings",
+      "formats": "T20",
+      "seasons": "2024; 2025; 2026",
+      "matches": 26,
+      "kind": "bat",
+      "rank": 4,
+      "score": 96.19,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "runs": 450,
+        "balls": 248,
+        "innings": 20,
+        "SR": 181.45,
+        "average": 32.14,
+        "dismissals": 14,
+        "boundary_pct": 26.21,
+        "dot_pct": 31.05,
+        "runs_added_per_ball": 0.35
+      },
+      "normal": {
+        "runs": 30,
+        "balls": 23,
+        "SR": 130.43,
+        "average": 7.5,
+        "dismissals": 4,
+        "boundary_pct": 13.04,
+        "dot_pct": 30.43
+      },
+      "lift": {
+        "SR": 51.02,
+        "average": 24.64,
+        "boundary_pct": 13.17
+      },
+      "components": [
+        {
+          "key": "sr",
+          "label": "Strike rate",
+          "z": 2.33,
+          "weight": 0.3,
+          "weighted_z": 0.7
+        },
+        {
+          "key": "avg",
+          "label": "Average",
+          "z": 1.2,
+          "weight": 0.22,
+          "weighted_z": 0.26
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary rate",
+          "z": 2.77,
+          "weight": 0.08,
+          "weighted_z": 0.22
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": 1.12,
+          "weight": 0.2,
+          "weighted_z": 0.23
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 1.83,
+          "weight": 0.15,
+          "weighted_z": 0.27
+        },
+        {
+          "key": "chase",
+          "label": "Chase record",
+          "z": 3.0,
+          "weight": 0.05,
+          "weighted_z": 0.15
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 69.86,
+        "score_median": 93.11,
+        "score_ci_high": 99.2,
+        "rank_ci_low": 1.0,
+        "rank_median": 6.0,
+        "rank_ci_high": 25.0,
+        "top10_probability": 0.68
+      },
+      "context": {
+        "categories": {
+          "High": 161,
+          "Extreme": 87
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 0,
+            "runs": 0,
+            "dismissals": 0,
+            "SR": null
+          },
+          {
+            "phase": "Middle",
+            "balls": 92,
+            "runs": 123,
+            "dismissals": 5,
+            "SR": 133.7
+          },
+          {
+            "phase": "Death",
+            "balls": 156,
+            "runs": 327,
+            "dismissals": 9,
+            "SR": 209.62
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 248,
+            "runs": 450,
+            "dismissals": 14,
+            "SR": 181.45
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2024",
+            "balls": 76,
+            "runs": 149,
+            "dismissals": 5,
+            "SR": 196.05
+          },
+          {
+            "season": "2025",
+            "balls": 97,
+            "runs": 161,
+            "dismissals": 5,
+            "SR": 165.98
+          },
+          {
+            "season": "2026",
+            "balls": 75,
+            "runs": 140,
+            "dismissals": 4,
+            "SR": 186.67
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 40697,
+            "date": "2025-03-24",
+            "opponent": "Lucknow Super Giants",
+            "season": "2025",
+            "format": "T20",
+            "runs": 66,
+            "balls": 31,
+            "SR": 212.9,
+            "dismissed": 0,
+            "pressure": 67.0,
+            "won": 1
+          },
+          {
+            "match_id": 31251,
+            "date": "2024-04-18",
+            "opponent": "Mumbai Indians",
+            "season": "2024",
+            "format": "T20",
+            "runs": 43,
+            "balls": 16,
+            "SR": 268.75,
+            "dismissed": 0,
+            "pressure": 60.9,
+            "won": 0
+          },
+          {
+            "match_id": 40748,
+            "date": "2025-05-05",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2025",
+            "format": "T20",
+            "runs": 41,
+            "balls": 26,
+            "SR": 157.69,
+            "dismissed": 1,
+            "pressure": 69.7,
+            "won": 0
+          },
+          {
+            "match_id": 50372,
+            "date": "2026-05-08",
+            "opponent": "Kolkata Knight Riders",
+            "season": "2026",
+            "format": "T20",
+            "runs": 39,
+            "balls": 28,
+            "SR": 139.29,
+            "dismissed": 1,
+            "pressure": 66.8,
+            "won": 0
+          },
+          {
+            "match_id": 31241,
+            "date": "2024-04-09",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2024",
+            "format": "T20",
+            "runs": 33,
+            "balls": 15,
+            "SR": 220.0,
+            "dismissed": 0,
+            "pressure": 75.5,
+            "won": 0
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 4986,
+      "player_name": "Rovman Powell",
+      "team": "West Indies",
+      "teams": "Delhi Capitals; Kolkata Knight Riders; Rajasthan Royals; West Indies",
+      "formats": "T20; T20I",
+      "seasons": "2022; 2023; 2024; 2025; 2026",
+      "matches": 100,
+      "kind": "bat",
+      "rank": 5,
+      "score": 94.12,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "runs": 1115,
+        "balls": 726,
+        "innings": 48,
+        "SR": 153.58,
+        "average": 29.34,
+        "dismissals": 38,
+        "boundary_pct": 19.97,
+        "dot_pct": 35.26,
+        "runs_added_per_ball": 0.16
+      },
+      "normal": {
+        "runs": 540,
+        "balls": 374,
+        "SR": 144.39,
+        "average": 21.6,
+        "dismissals": 25,
+        "boundary_pct": 18.98,
+        "dot_pct": 38.5
+      },
+      "lift": {
+        "SR": 9.2,
+        "average": 7.74,
+        "boundary_pct": 0.99
+      },
+      "components": [
+        {
+          "key": "sr",
+          "label": "Strike rate",
+          "z": 1.62,
+          "weight": 0.3,
+          "weighted_z": 0.48
+        },
+        {
+          "key": "avg",
+          "label": "Average",
+          "z": 1.64,
+          "weight": 0.22,
+          "weighted_z": 0.36
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary rate",
+          "z": 1.59,
+          "weight": 0.08,
+          "weighted_z": 0.13
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": 1.25,
+          "weight": 0.2,
+          "weighted_z": 0.25
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 1.29,
+          "weight": 0.15,
+          "weighted_z": 0.19
+        },
+        {
+          "key": "chase",
+          "label": "Chase record",
+          "z": 3.0,
+          "weight": 0.05,
+          "weighted_z": 0.15
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 54.51,
+        "score_median": 88.7,
+        "score_ci_high": 98.85,
+        "rank_ci_low": 1.0,
+        "rank_median": 10.0,
+        "rank_ci_high": 40.0,
+        "top10_probability": 0.51
+      },
+      "context": {
+        "categories": {
+          "High": 587,
+          "Extreme": 139
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 12,
+            "runs": 12,
+            "dismissals": 0,
+            "SR": 100.0
+          },
+          {
+            "phase": "Middle",
+            "balls": 423,
+            "runs": 526,
+            "dismissals": 17,
+            "SR": 124.35
+          },
+          {
+            "phase": "Death",
+            "balls": 291,
+            "runs": 577,
+            "dismissals": 21,
+            "SR": 198.28
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 188,
+            "runs": 272,
+            "dismissals": 14,
+            "SR": 144.68
+          },
+          {
+            "format": "T20I",
+            "balls": 538,
+            "runs": 843,
+            "dismissals": 24,
+            "SR": 156.69
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 196,
+            "runs": 276,
+            "dismissals": 14,
+            "SR": 140.82
+          },
+          {
+            "season": "2023",
+            "balls": 79,
+            "runs": 143,
+            "dismissals": 4,
+            "SR": 181.01
+          },
+          {
+            "season": "2024",
+            "balls": 232,
+            "runs": 331,
+            "dismissals": 13,
+            "SR": 142.67
+          },
+          {
+            "season": "2025",
+            "balls": 129,
+            "runs": 233,
+            "dismissals": 4,
+            "SR": 180.62
+          },
+          {
+            "season": "2026",
+            "balls": 90,
+            "runs": 132,
+            "dismissals": 3,
+            "SR": 146.67
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 36201,
+            "date": "2025-06-10",
+            "opponent": "England",
+            "season": "2025",
+            "format": "T20I",
+            "runs": 78,
+            "balls": 44,
+            "SR": 177.27,
+            "dismissed": 0,
+            "pressure": 70.1,
+            "won": 0
+          },
+          {
+            "match_id": 13523,
+            "date": "2022-02-18",
+            "opponent": "India",
+            "season": "2022",
+            "format": "T20I",
+            "runs": 62,
+            "balls": 30,
+            "SR": 206.67,
+            "dismissed": 0,
+            "pressure": 65.6,
+            "won": 0
+          },
+          {
+            "match_id": 29816,
+            "date": "2024-02-11",
+            "opponent": "Australia",
+            "season": "2024",
+            "format": "T20I",
+            "runs": 59,
+            "balls": 32,
+            "SR": 184.38,
+            "dismissed": 1,
+            "pressure": 69.5,
+            "won": 0
+          },
+          {
+            "match_id": 28064,
+            "date": "2023-12-14",
+            "opponent": "England",
+            "season": "2023",
+            "format": "T20I",
+            "runs": 50,
+            "balls": 27,
+            "SR": 185.19,
+            "dismissed": 0,
+            "pressure": 62.6,
+            "won": 1
+          },
+          {
+            "match_id": 47966,
+            "date": "2025-11-06",
+            "opponent": "New Zealand",
+            "season": "2025",
+            "format": "T20I",
+            "runs": 45,
+            "balls": 16,
+            "SR": 281.25,
+            "dismissed": 1,
+            "pressure": 73.5,
+            "won": 0
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 1077,
+      "player_name": "David Miller",
+      "team": "Gujarat Titans",
+      "teams": "Delhi Capitals; Gujarat Titans; Lucknow Super Giants; South Africa",
+      "formats": "T20; T20I",
+      "seasons": "2022; 2022/23; 2023; 2024; 2025; 2026",
+      "matches": 81,
+      "kind": "bat",
+      "rank": 6,
+      "score": 93.74,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "runs": 1045,
+        "balls": 660,
+        "innings": 46,
+        "SR": 158.33,
+        "average": 33.71,
+        "dismissals": 31,
+        "boundary_pct": 20.3,
+        "dot_pct": 28.33,
+        "runs_added_per_ball": 0.15
+      },
+      "normal": {
+        "runs": 382,
+        "balls": 264,
+        "SR": 144.7,
+        "average": 31.83,
+        "dismissals": 12,
+        "boundary_pct": 18.56,
+        "dot_pct": 30.3
+      },
+      "lift": {
+        "SR": 13.64,
+        "average": 1.88,
+        "boundary_pct": 1.74
+      },
+      "components": [
+        {
+          "key": "sr",
+          "label": "Strike rate",
+          "z": 1.53,
+          "weight": 0.3,
+          "weighted_z": 0.46
+        },
+        {
+          "key": "avg",
+          "label": "Average",
+          "z": 2.06,
+          "weight": 0.22,
+          "weighted_z": 0.45
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary rate",
+          "z": 1.07,
+          "weight": 0.08,
+          "weighted_z": 0.09
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": 1.01,
+          "weight": 0.2,
+          "weighted_z": 0.2
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 1.23,
+          "weight": 0.15,
+          "weighted_z": 0.18
+        },
+        {
+          "key": "chase",
+          "label": "Chase record",
+          "z": 3.0,
+          "weight": 0.05,
+          "weighted_z": 0.15
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 47.82,
+        "score_median": 88.7,
+        "score_ci_high": 99.22,
+        "rank_ci_low": 1.0,
+        "rank_median": 10.0,
+        "rank_ci_high": 45.0,
+        "top10_probability": 0.51
+      },
+      "context": {
+        "categories": {
+          "High": 577,
+          "Extreme": 83
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 21,
+            "runs": 13,
+            "dismissals": 0,
+            "SR": 61.9
+          },
+          {
+            "phase": "Middle",
+            "balls": 405,
+            "runs": 598,
+            "dismissals": 16,
+            "SR": 147.65
+          },
+          {
+            "phase": "Death",
+            "balls": 234,
+            "runs": 434,
+            "dismissals": 15,
+            "SR": 185.47
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 447,
+            "runs": 708,
+            "dismissals": 23,
+            "SR": 158.39
+          },
+          {
+            "format": "T20I",
+            "balls": 213,
+            "runs": 337,
+            "dismissals": 8,
+            "SR": 158.22
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 229,
+            "runs": 361,
+            "dismissals": 9,
+            "SR": 157.64
+          },
+          {
+            "season": "2022/23",
+            "balls": 47,
+            "runs": 106,
+            "dismissals": 0,
+            "SR": 225.53
+          },
+          {
+            "season": "2023",
+            "balls": 103,
+            "runs": 161,
+            "dismissals": 5,
+            "SR": 156.31
+          },
+          {
+            "season": "2024",
+            "balls": 121,
+            "runs": 178,
+            "dismissals": 7,
+            "SR": 147.11
+          },
+          {
+            "season": "2025",
+            "balls": 77,
+            "runs": 91,
+            "dismissals": 4,
+            "SR": 118.18
+          },
+          {
+            "season": "2026",
+            "balls": 83,
+            "runs": 148,
+            "dismissals": 6,
+            "SR": 178.31
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 17626,
+            "date": "2022-10-02",
+            "opponent": "India",
+            "season": "2022/23",
+            "format": "T20I",
+            "runs": 106,
+            "balls": 47,
+            "SR": 225.53,
+            "dismissed": 0,
+            "pressure": 66.1,
+            "won": 0
+          },
+          {
+            "match_id": 15406,
+            "date": "2022-06-09",
+            "opponent": "India",
+            "season": "2022",
+            "format": "T20I",
+            "runs": 63,
+            "balls": 28,
+            "SR": 225.0,
+            "dismissed": 0,
+            "pressure": 63.4,
+            "won": 1
+          },
+          {
+            "match_id": 31258,
+            "date": "2024-04-24",
+            "opponent": "Delhi Capitals",
+            "season": "2024",
+            "format": "T20",
+            "runs": 55,
+            "balls": 23,
+            "SR": 239.13,
+            "dismissed": 1,
+            "pressure": 69.0,
+            "won": 0
+          },
+          {
+            "match_id": 50376,
+            "date": "2026-05-11",
+            "opponent": "Punjab Kings",
+            "season": "2026",
+            "format": "T20",
+            "runs": 51,
+            "balls": 27,
+            "SR": 188.89,
+            "dismissed": 1,
+            "pressure": 63.9,
+            "won": 1
+          },
+          {
+            "match_id": 14122,
+            "date": "2022-04-17",
+            "opponent": "Chennai Super Kings",
+            "season": "2022",
+            "format": "T20",
+            "runs": 42,
+            "balls": 22,
+            "SR": 190.91,
+            "dismissed": 0,
+            "pressure": 69.9,
+            "won": 1
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 143,
+      "player_name": "Dinesh Karthik",
+      "team": "Royal Challengers Bengaluru",
+      "teams": "India; Royal Challengers Bengaluru",
+      "formats": "T20; T20I",
+      "seasons": "2022; 2022/23; 2023; 2024",
+      "matches": 61,
+      "kind": "bat",
+      "rank": 7,
+      "score": 93.13,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "runs": 606,
+        "balls": 358,
+        "innings": 30,
+        "SR": 169.27,
+        "average": 30.3,
+        "dismissals": 20,
+        "boundary_pct": 23.46,
+        "dot_pct": 29.05,
+        "runs_added_per_ball": 0.26
+      },
+      "normal": {
+        "runs": 159,
+        "balls": 100,
+        "SR": 159.0,
+        "average": 15.9,
+        "dismissals": 10,
+        "boundary_pct": 24.0,
+        "dot_pct": 35.0
+      },
+      "lift": {
+        "SR": 10.27,
+        "average": 14.4,
+        "boundary_pct": -0.54
+      },
+      "components": [
+        {
+          "key": "sr",
+          "label": "Strike rate",
+          "z": 2.04,
+          "weight": 0.3,
+          "weighted_z": 0.61
+        },
+        {
+          "key": "avg",
+          "label": "Average",
+          "z": 1.19,
+          "weight": 0.22,
+          "weighted_z": 0.26
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary rate",
+          "z": 2.3,
+          "weight": 0.08,
+          "weighted_z": 0.18
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": 0.41,
+          "weight": 0.2,
+          "weighted_z": 0.08
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 1.39,
+          "weight": 0.15,
+          "weighted_z": 0.21
+        },
+        {
+          "key": "chase",
+          "label": "Chase record",
+          "z": 3.0,
+          "weight": 0.05,
+          "weighted_z": 0.15
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 47.57,
+        "score_median": 88.45,
+        "score_ci_high": 99.08,
+        "rank_ci_low": 1.0,
+        "rank_median": 11.0,
+        "rank_ci_high": 46.0,
+        "top10_probability": 0.49
+      },
+      "context": {
+        "categories": {
+          "High": 290,
+          "Extreme": 68
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 0,
+            "runs": 0,
+            "dismissals": 0,
+            "SR": null
+          },
+          {
+            "phase": "Middle",
+            "balls": 121,
+            "runs": 150,
+            "dismissals": 5,
+            "SR": 123.97
+          },
+          {
+            "phase": "Death",
+            "balls": 237,
+            "runs": 456,
+            "dismissals": 15,
+            "SR": 192.41
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 268,
+            "runs": 471,
+            "dismissals": 17,
+            "SR": 175.75
+          },
+          {
+            "format": "T20I",
+            "balls": 90,
+            "runs": 135,
+            "dismissals": 3,
+            "SR": 150.0
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 181,
+            "runs": 287,
+            "dismissals": 8,
+            "SR": 158.56
+          },
+          {
+            "season": "2022/23",
+            "balls": 5,
+            "runs": 13,
+            "dismissals": 1,
+            "SR": 260.0
+          },
+          {
+            "season": "2023",
+            "balls": 59,
+            "runs": 89,
+            "dismissals": 6,
+            "SR": 150.85
+          },
+          {
+            "season": "2024",
+            "balls": 113,
+            "runs": 217,
+            "dismissals": 5,
+            "SR": 192.04
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 31248,
+            "date": "2024-04-15",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2024",
+            "format": "T20",
+            "runs": 83,
+            "balls": 35,
+            "SR": 237.14,
+            "dismissed": 1,
+            "pressure": 70.7,
+            "won": 0
+          },
+          {
+            "match_id": 14120,
+            "date": "2022-04-16",
+            "opponent": "Delhi Capitals",
+            "season": "2022",
+            "format": "T20",
+            "runs": 59,
+            "balls": 29,
+            "SR": 203.45,
+            "dismissed": 0,
+            "pressure": 63.1,
+            "won": 1
+          },
+          {
+            "match_id": 15409,
+            "date": "2022-06-17",
+            "opponent": "South Africa",
+            "season": "2022",
+            "format": "T20I",
+            "runs": 55,
+            "balls": 26,
+            "SR": 211.54,
+            "dismissed": 0,
+            "pressure": 62.7,
+            "won": 1
+          },
+          {
+            "match_id": 30056,
+            "date": "2024-03-22",
+            "opponent": "Chennai Super Kings",
+            "season": "2024",
+            "format": "T20",
+            "runs": 38,
+            "balls": 26,
+            "SR": 146.15,
+            "dismissed": 1,
+            "pressure": 64.2,
+            "won": 0
+          },
+          {
+            "match_id": 14115,
+            "date": "2022-04-12",
+            "opponent": "Chennai Super Kings",
+            "season": "2022",
+            "format": "T20",
+            "runs": 34,
+            "balls": 14,
+            "SR": 242.86,
+            "dismissed": 1,
+            "pressure": 73.3,
+            "won": 0
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 6460,
+      "player_name": "Ayush Badoni",
+      "team": "Lucknow Super Giants",
+      "teams": "Lucknow Super Giants",
+      "formats": "T20",
+      "seasons": "2022; 2023; 2024; 2025; 2026",
+      "matches": 56,
+      "kind": "bat",
+      "rank": 8,
+      "score": 90.29,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "runs": 712,
+        "balls": 465,
+        "innings": 29,
+        "SR": 153.12,
+        "average": 32.36,
+        "dismissals": 22,
+        "boundary_pct": 19.14,
+        "dot_pct": 29.25,
+        "runs_added_per_ball": 0.06
+      },
+      "normal": {
+        "runs": 175,
+        "balls": 143,
+        "SR": 122.38,
+        "average": 14.58,
+        "dismissals": 12,
+        "boundary_pct": 13.99,
+        "dot_pct": 37.76
+      },
+      "lift": {
+        "SR": 30.74,
+        "average": 17.78,
+        "boundary_pct": 5.15
+      },
+      "components": [
+        {
+          "key": "sr",
+          "label": "Strike rate",
+          "z": 0.6,
+          "weight": 0.3,
+          "weighted_z": 0.18
+        },
+        {
+          "key": "avg",
+          "label": "Average",
+          "z": 1.3,
+          "weight": 0.22,
+          "weighted_z": 0.29
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary rate",
+          "z": -0.04,
+          "weight": 0.08,
+          "weighted_z": -0.0
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": 2.71,
+          "weight": 0.2,
+          "weighted_z": 0.54
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 0.97,
+          "weight": 0.15,
+          "weighted_z": 0.15
+        },
+        {
+          "key": "chase",
+          "label": "Chase record",
+          "z": 3.0,
+          "weight": 0.05,
+          "weighted_z": 0.15
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 55.42,
+        "score_median": 84.82,
+        "score_ci_high": 96.51,
+        "rank_ci_low": 3.0,
+        "rank_median": 14.0,
+        "rank_ci_high": 39.0,
+        "top10_probability": 0.33
+      },
+      "context": {
+        "categories": {
+          "High": 400,
+          "Extreme": 65
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 9,
+            "runs": 9,
+            "dismissals": 0,
+            "SR": 100.0
+          },
+          {
+            "phase": "Middle",
+            "balls": 219,
+            "runs": 295,
+            "dismissals": 6,
+            "SR": 134.7
+          },
+          {
+            "phase": "Death",
+            "balls": 237,
+            "runs": 408,
+            "dismissals": 16,
+            "SR": 172.15
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 465,
+            "runs": 712,
+            "dismissals": 22,
+            "SR": 153.12
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 98,
+            "runs": 134,
+            "dismissals": 6,
+            "SR": 136.73
+          },
+          {
+            "season": "2023",
+            "balls": 96,
+            "runs": 144,
+            "dismissals": 3,
+            "SR": 150.0
+          },
+          {
+            "season": "2024",
+            "balls": 100,
+            "runs": 154,
+            "dismissals": 4,
+            "SR": 154.0
+          },
+          {
+            "season": "2025",
+            "balls": 130,
+            "runs": 212,
+            "dismissals": 6,
+            "SR": 163.08
+          },
+          {
+            "season": "2026",
+            "balls": 41,
+            "runs": 68,
+            "dismissals": 3,
+            "SR": 165.85
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 40747,
+            "date": "2025-05-04",
+            "opponent": "Punjab Kings",
+            "season": "2025",
+            "format": "T20",
+            "runs": 73,
+            "balls": 37,
+            "SR": 197.3,
+            "dismissed": 1,
+            "pressure": 67.5,
+            "won": 0
+          },
+          {
+            "match_id": 20226,
+            "date": "2023-05-03",
+            "opponent": "Chennai Super Kings",
+            "season": "2023",
+            "format": "T20",
+            "runs": 59,
+            "balls": 33,
+            "SR": 178.79,
+            "dismissed": 0,
+            "pressure": 68.5,
+            "won": 0
+          },
+          {
+            "match_id": 31275,
+            "date": "2024-05-08",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2024",
+            "format": "T20",
+            "runs": 55,
+            "balls": 30,
+            "SR": 183.33,
+            "dismissed": 0,
+            "pressure": 64.9,
+            "won": 0
+          },
+          {
+            "match_id": 31244,
+            "date": "2024-04-12",
+            "opponent": "Delhi Capitals",
+            "season": "2024",
+            "format": "T20",
+            "runs": 55,
+            "balls": 35,
+            "SR": 157.14,
+            "dismissed": 0,
+            "pressure": 65.9,
+            "won": 0
+          },
+          {
+            "match_id": 14097,
+            "date": "2022-03-28",
+            "opponent": "Gujarat Titans",
+            "season": "2022",
+            "format": "T20",
+            "runs": 54,
+            "balls": 41,
+            "SR": 131.71,
+            "dismissed": 1,
+            "pressure": 64.6,
+            "won": 0
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 7897,
+      "player_name": "Namboori Tilak Varma",
+      "team": "Mumbai Indians",
+      "teams": "India; Mumbai Indians",
+      "formats": "T20; T20I",
+      "seasons": "2022; 2023; 2024; 2025; 2026",
+      "matches": 123,
+      "kind": "bat",
+      "rank": 9,
+      "score": 89.35,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "runs": 1110,
+        "balls": 712,
+        "innings": 42,
+        "SR": 155.9,
+        "average": 35.81,
+        "dismissals": 31,
+        "boundary_pct": 19.52,
+        "dot_pct": 30.34,
+        "runs_added_per_ball": 0.13
+      },
+      "normal": {
+        "runs": 1279,
+        "balls": 903,
+        "SR": 141.64,
+        "average": 42.63,
+        "dismissals": 30,
+        "boundary_pct": 17.72,
+        "dot_pct": 30.23
+      },
+      "lift": {
+        "SR": 14.26,
+        "average": -6.83,
+        "boundary_pct": 1.8
+      },
+      "components": [
+        {
+          "key": "sr",
+          "label": "Strike rate",
+          "z": 1.36,
+          "weight": 0.3,
+          "weighted_z": 0.41
+        },
+        {
+          "key": "avg",
+          "label": "Average",
+          "z": 2.51,
+          "weight": 0.22,
+          "weighted_z": 0.55
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary rate",
+          "z": 0.67,
+          "weight": 0.08,
+          "weighted_z": 0.05
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": -0.05,
+          "weight": 0.2,
+          "weighted_z": -0.01
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 0.62,
+          "weight": 0.15,
+          "weighted_z": 0.09
+        },
+        {
+          "key": "chase",
+          "label": "Chase record",
+          "z": 3.0,
+          "weight": 0.05,
+          "weighted_z": 0.15
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 45.36,
+        "score_median": 84.23,
+        "score_ci_high": 98.45,
+        "rank_ci_low": 1.0,
+        "rank_median": 14.0,
+        "rank_ci_high": 48.0,
+        "top10_probability": 0.38
+      },
+      "context": {
+        "categories": {
+          "High": 596,
+          "Extreme": 116
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 18,
+            "runs": 27,
+            "dismissals": 0,
+            "SR": 150.0
+          },
+          {
+            "phase": "Middle",
+            "balls": 456,
+            "runs": 626,
+            "dismissals": 18,
+            "SR": 137.28
+          },
+          {
+            "phase": "Death",
+            "balls": 238,
+            "runs": 457,
+            "dismissals": 13,
+            "SR": 192.02
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 464,
+            "runs": 745,
+            "dismissals": 19,
+            "SR": 160.56
+          },
+          {
+            "format": "T20I",
+            "balls": 248,
+            "runs": 365,
+            "dismissals": 12,
+            "SR": 147.18
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 113,
+            "runs": 155,
+            "dismissals": 5,
+            "SR": 137.17
+          },
+          {
+            "season": "2023",
+            "balls": 131,
+            "runs": 195,
+            "dismissals": 5,
+            "SR": 148.85
+          },
+          {
+            "season": "2024",
+            "balls": 125,
+            "runs": 217,
+            "dismissals": 5,
+            "SR": 173.6
+          },
+          {
+            "season": "2025",
+            "balls": 116,
+            "runs": 176,
+            "dismissals": 6,
+            "SR": 151.72
+          },
+          {
+            "season": "2026",
+            "balls": 227,
+            "runs": 367,
+            "dismissals": 10,
+            "SR": 161.67
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 20185,
+            "date": "2023-04-02",
+            "opponent": "Royal Challengers Bengaluru",
+            "season": "2023",
+            "format": "T20",
+            "runs": 84,
+            "balls": 46,
+            "SR": 182.61,
+            "dismissed": 0,
+            "pressure": 65.4,
+            "won": 0
+          },
+          {
+            "match_id": 31261,
+            "date": "2024-04-27",
+            "opponent": "Delhi Capitals",
+            "season": "2024",
+            "format": "T20",
+            "runs": 61,
+            "balls": 30,
+            "SR": 203.33,
+            "dismissed": 1,
+            "pressure": 67.0,
+            "won": 0
+          },
+          {
+            "match_id": 30063,
+            "date": "2024-03-27",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2024",
+            "format": "T20",
+            "runs": 60,
+            "balls": 27,
+            "SR": 222.22,
+            "dismissed": 1,
+            "pressure": 63.9,
+            "won": 0
+          },
+          {
+            "match_id": 40714,
+            "date": "2025-04-07",
+            "opponent": "Royal Challengers Bengaluru",
+            "season": "2025",
+            "format": "T20",
+            "runs": 56,
+            "balls": 29,
+            "SR": 193.1,
+            "dismissed": 1,
+            "pressure": 66.4,
+            "won": 0
+          },
+          {
+            "match_id": 45394,
+            "date": "2026-07-11",
+            "opponent": "England",
+            "season": "2026",
+            "format": "T20I",
+            "runs": 53,
+            "balls": 25,
+            "SR": 212.0,
+            "dismissed": 1,
+            "pressure": 68.3,
+            "won": 0
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 7260,
+      "player_name": "Dhruv Jurel",
+      "team": "Rajasthan Royals",
+      "teams": "India; Rajasthan Royals",
+      "formats": "T20; T20I",
+      "seasons": "2023; 2024; 2025; 2026",
+      "matches": 54,
+      "kind": "bat",
+      "rank": 10,
+      "score": 88.41,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "runs": 442,
+        "balls": 257,
+        "innings": 16,
+        "SR": 171.98,
+        "average": 29.47,
+        "dismissals": 15,
+        "boundary_pct": 24.51,
+        "dot_pct": 28.4,
+        "runs_added_per_ball": 0.25
+      },
+      "normal": {
+        "runs": 412,
+        "balls": 275,
+        "SR": 149.82,
+        "average": 37.45,
+        "dismissals": 11,
+        "boundary_pct": 20.36,
+        "dot_pct": 31.64
+      },
+      "lift": {
+        "SR": 22.17,
+        "average": -7.99,
+        "boundary_pct": 4.15
+      },
+      "components": [
+        {
+          "key": "sr",
+          "label": "Strike rate",
+          "z": 1.75,
+          "weight": 0.3,
+          "weighted_z": 0.52
+        },
+        {
+          "key": "avg",
+          "label": "Average",
+          "z": 0.79,
+          "weight": 0.22,
+          "weighted_z": 0.17
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary rate",
+          "z": 2.18,
+          "weight": 0.08,
+          "weighted_z": 0.17
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": -0.08,
+          "weight": 0.2,
+          "weighted_z": -0.02
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 1.57,
+          "weight": 0.15,
+          "weighted_z": 0.24
+        },
+        {
+          "key": "chase",
+          "label": "Chase record",
+          "z": 2.77,
+          "weight": 0.05,
+          "weighted_z": 0.14
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 46.86,
+        "score_median": 83.85,
+        "score_ci_high": 98.43,
+        "rank_ci_low": 1.0,
+        "rank_median": 13.0,
+        "rank_ci_high": 42.0,
+        "top10_probability": 0.36
+      },
+      "context": {
+        "categories": {
+          "High": 195,
+          "Extreme": 62
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 8,
+            "runs": 22,
+            "dismissals": 0,
+            "SR": 275.0
+          },
+          {
+            "phase": "Middle",
+            "balls": 96,
+            "runs": 143,
+            "dismissals": 5,
+            "SR": 148.96
+          },
+          {
+            "phase": "Death",
+            "balls": 153,
+            "runs": 277,
+            "dismissals": 10,
+            "SR": 181.05
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 253,
+            "runs": 440,
+            "dismissals": 14,
+            "SR": 173.91
+          },
+          {
+            "format": "T20I",
+            "balls": 4,
+            "runs": 2,
+            "dismissals": 1,
+            "SR": 50.0
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2023",
+            "balls": 56,
+            "runs": 103,
+            "dismissals": 3,
+            "SR": 183.93
+          },
+          {
+            "season": "2024",
+            "balls": 61,
+            "runs": 97,
+            "dismissals": 5,
+            "SR": 159.02
+          },
+          {
+            "season": "2025",
+            "balls": 139,
+            "runs": 242,
+            "dismissals": 6,
+            "SR": 174.1
+          },
+          {
+            "season": "2026",
+            "balls": 1,
+            "runs": 0,
+            "dismissals": 1,
+            "SR": 0.0
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 40695,
+            "date": "2025-03-23",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2025",
+            "format": "T20",
+            "runs": 70,
+            "balls": 35,
+            "SR": 200.0,
+            "dismissed": 1,
+            "pressure": 63.0,
+            "won": 0
+          },
+          {
+            "match_id": 40760,
+            "date": "2025-05-18",
+            "opponent": "Punjab Kings",
+            "season": "2025",
+            "format": "T20",
+            "runs": 53,
+            "balls": 31,
+            "SR": 170.97,
+            "dismissed": 1,
+            "pressure": 64.7,
+            "won": 0
+          },
+          {
+            "match_id": 31291,
+            "date": "2024-05-24",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2024",
+            "format": "T20",
+            "runs": 48,
+            "balls": 26,
+            "SR": 184.62,
+            "dismissed": 0,
+            "pressure": 72.1,
+            "won": 0
+          },
+          {
+            "match_id": 20212,
+            "date": "2023-04-23",
+            "opponent": "Royal Challengers Bengaluru",
+            "season": "2023",
+            "format": "T20",
+            "runs": 34,
+            "balls": 16,
+            "SR": 212.5,
+            "dismissed": 0,
+            "pressure": 72.0,
+            "won": 0
+          },
+          {
+            "match_id": 40699,
+            "date": "2025-03-26",
+            "opponent": "Kolkata Knight Riders",
+            "season": "2025",
+            "format": "T20",
+            "runs": 33,
+            "balls": 28,
+            "SR": 117.86,
+            "dismissed": 1,
+            "pressure": 65.7,
+            "won": 0
+          }
+        ]
+      }
+    }
+  ],
+  "bowlers": [
+    {
+      "player_id": 8661,
+      "player_name": "Matheesha Pathirana",
+      "team": "Chennai Super Kings",
+      "teams": "Chennai Super Kings; Kolkata Knight Riders; Sri Lanka",
+      "formats": "T20; T20I",
+      "seasons": "2022; 2023; 2024; 2024/25; 2025; 2026",
+      "matches": 54,
+      "kind": "bowl",
+      "rank": 1,
+      "score": 94.4,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "wickets": 48,
+        "balls": 529,
+        "innings": 33,
+        "economy": 8.73,
+        "average": 16.04,
+        "strike_rate": 11.02,
+        "dot_pct": 38.0,
+        "boundary_pct": 17.2,
+        "runs_saved_per_ball": 0.04
+      },
+      "normal": {
+        "wickets": 28,
+        "balls": 357,
+        "economy": 8.22,
+        "average": 17.46,
+        "dot_pct": 38.38,
+        "boundary_pct": 14.29,
+        "wicket_rate": 0.08
+      },
+      "lift": {
+        "economy": -0.51,
+        "wicket_rate": 0.01,
+        "dot_pct": -0.38
+      },
+      "components": [
+        {
+          "key": "econ",
+          "label": "Economy",
+          "z": 1.24,
+          "weight": 0.32,
+          "weighted_z": 0.4
+        },
+        {
+          "key": "wkt_rate",
+          "label": "Wicket rate",
+          "z": 2.84,
+          "weight": 0.24,
+          "weighted_z": 0.68
+        },
+        {
+          "key": "dot",
+          "label": "Dot-ball rate",
+          "z": 1.87,
+          "weight": 0.1,
+          "weighted_z": 0.19
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary prevention",
+          "z": 1.62,
+          "weight": 0.06,
+          "weighted_z": 0.1
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": 0.51,
+          "weight": 0.15,
+          "weighted_z": 0.08
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 1.24,
+          "weight": 0.1,
+          "weighted_z": 0.12
+        },
+        {
+          "key": "defend",
+          "label": "Defence record",
+          "z": 0.88,
+          "weight": 0.03,
+          "weighted_z": 0.03
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 66.35,
+        "score_median": 89.05,
+        "score_ci_high": 97.89,
+        "rank_ci_low": 1.0,
+        "rank_median": 3.0,
+        "rank_ci_high": 15.0,
+        "top10_probability": 0.92
+      },
+      "context": {
+        "categories": {
+          "High": 402,
+          "Extreme": 193
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 2,
+            "runs": 3,
+            "wickets": 0,
+            "econ": 9.0
+          },
+          {
+            "phase": "Middle",
+            "balls": 185,
+            "runs": 242,
+            "wickets": 13,
+            "econ": 7.85
+          },
+          {
+            "phase": "Death",
+            "balls": 342,
+            "runs": 525,
+            "wickets": 35,
+            "econ": 9.21
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 415,
+            "runs": 592,
+            "wickets": 33,
+            "econ": 8.56
+          },
+          {
+            "format": "T20I",
+            "balls": 114,
+            "runs": 178,
+            "wickets": 15,
+            "econ": 9.37
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 10,
+            "runs": 18,
+            "wickets": 0,
+            "econ": 10.8
+          },
+          {
+            "season": "2023",
+            "balls": 174,
+            "runs": 252,
+            "wickets": 12,
+            "econ": 8.69
+          },
+          {
+            "season": "2024",
+            "balls": 195,
+            "runs": 274,
+            "wickets": 24,
+            "econ": 8.43
+          },
+          {
+            "season": "2024/25",
+            "balls": 13,
+            "runs": 18,
+            "wickets": 1,
+            "econ": 8.31
+          },
+          {
+            "season": "2025",
+            "balls": 137,
+            "runs": 208,
+            "wickets": 11,
+            "econ": 9.11
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 31247,
+            "date": "2024-04-14",
+            "opponent": "Mumbai Indians",
+            "season": "2024",
+            "format": "T20",
+            "balls": 23,
+            "runs": 23,
+            "wickets": 4,
+            "econ": 6.0,
+            "runs_saved": 11.95,
+            "pressure": 69.2,
+            "won": 1
+          },
+          {
+            "match_id": 34427,
+            "date": "2024-07-27",
+            "opponent": "India",
+            "season": "2024",
+            "format": "T20I",
+            "balls": 24,
+            "runs": 40,
+            "wickets": 4,
+            "econ": 10.0,
+            "runs_saved": -6.67,
+            "pressure": 63.1,
+            "won": 0
+          },
+          {
+            "match_id": 29924,
+            "date": "2024-02-17",
+            "opponent": "Afghanistan",
+            "season": "2024",
+            "format": "T20I",
+            "balls": 15,
+            "runs": 15,
+            "wickets": 3,
+            "econ": 6.0,
+            "runs_saved": 5.83,
+            "pressure": 66.1,
+            "won": 1
+          },
+          {
+            "match_id": 40745,
+            "date": "2025-05-03",
+            "opponent": "Royal Challengers Bengaluru",
+            "season": "2025",
+            "format": "T20",
+            "balls": 22,
+            "runs": 33,
+            "wickets": 3,
+            "econ": 9.0,
+            "runs_saved": 0.43,
+            "pressure": 63.4,
+            "won": 0
+          },
+          {
+            "match_id": 20247,
+            "date": "2023-05-20",
+            "opponent": "Delhi Capitals",
+            "season": "2023",
+            "format": "T20",
+            "balls": 24,
+            "runs": 21,
+            "wickets": 2,
+            "econ": 5.25,
+            "runs_saved": 15.47,
+            "pressure": 66.2,
+            "won": 1
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 781,
+      "player_name": "Sunil Narine",
+      "team": "Kolkata Knight Riders",
+      "teams": "Kolkata Knight Riders",
+      "formats": "T20",
+      "seasons": "2022; 2023; 2024; 2025; 2026",
+      "matches": 67,
+      "kind": "bowl",
+      "rank": 2,
+      "score": 92.58,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "wickets": 24,
+        "balls": 466,
+        "innings": 34,
+        "economy": 7.44,
+        "average": 24.08,
+        "strike_rate": 19.42,
+        "dot_pct": 37.98,
+        "boundary_pct": 12.23,
+        "runs_saved_per_ball": 0.28
+      },
+      "normal": {
+        "wickets": 19,
+        "balls": 528,
+        "economy": 6.35,
+        "average": 29.42,
+        "dot_pct": 40.72,
+        "boundary_pct": 10.61,
+        "wicket_rate": 0.04
+      },
+      "lift": {
+        "economy": -1.09,
+        "wicket_rate": 0.02,
+        "dot_pct": -2.74
+      },
+      "components": [
+        {
+          "key": "econ",
+          "label": "Economy",
+          "z": 3.0,
+          "weight": 0.32,
+          "weighted_z": 0.96
+        },
+        {
+          "key": "wkt_rate",
+          "label": "Wicket rate",
+          "z": -0.54,
+          "weight": 0.24,
+          "weighted_z": -0.13
+        },
+        {
+          "key": "dot",
+          "label": "Dot-ball rate",
+          "z": 2.06,
+          "weight": 0.1,
+          "weighted_z": 0.21
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary prevention",
+          "z": 3.0,
+          "weight": 0.06,
+          "weighted_z": 0.18
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": -0.43,
+          "weight": 0.15,
+          "weighted_z": -0.06
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 2.31,
+          "weight": 0.1,
+          "weighted_z": 0.23
+        },
+        {
+          "key": "defend",
+          "label": "Defence record",
+          "z": 2.31,
+          "weight": 0.03,
+          "weighted_z": 0.07
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 67.33,
+        "score_median": 88.7,
+        "score_ci_high": 97.14,
+        "rank_ci_low": 1.0,
+        "rank_median": 3.0,
+        "rank_ci_high": 15.0,
+        "top10_probability": 0.92
+      },
+      "context": {
+        "categories": {
+          "High": 401,
+          "Extreme": 72
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 19,
+            "runs": 26,
+            "wickets": 0,
+            "econ": 8.21
+          },
+          {
+            "phase": "Middle",
+            "balls": 343,
+            "runs": 439,
+            "wickets": 12,
+            "econ": 7.68
+          },
+          {
+            "phase": "Death",
+            "balls": 104,
+            "runs": 113,
+            "wickets": 12,
+            "econ": 6.52
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 466,
+            "runs": 578,
+            "wickets": 24,
+            "econ": 7.44
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 66,
+            "runs": 46,
+            "wickets": 5,
+            "econ": 4.18
+          },
+          {
+            "season": "2023",
+            "balls": 71,
+            "runs": 102,
+            "wickets": 1,
+            "econ": 8.62
+          },
+          {
+            "season": "2024",
+            "balls": 122,
+            "runs": 127,
+            "wickets": 6,
+            "econ": 6.25
+          },
+          {
+            "season": "2025",
+            "balls": 103,
+            "runs": 172,
+            "wickets": 5,
+            "econ": 10.02
+          },
+          {
+            "season": "2026",
+            "balls": 104,
+            "runs": 131,
+            "wickets": 7,
+            "econ": 7.56
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 40741,
+            "date": "2025-04-29",
+            "opponent": "Delhi Capitals",
+            "season": "2025",
+            "format": "T20",
+            "balls": 12,
+            "runs": 10,
+            "wickets": 3,
+            "econ": 5.0,
+            "runs_saved": 8.23,
+            "pressure": 67.1,
+            "won": 1
+          },
+          {
+            "match_id": 14123,
+            "date": "2022-04-18",
+            "opponent": "Rajasthan Royals",
+            "season": "2022",
+            "format": "T20",
+            "balls": 24,
+            "runs": 21,
+            "wickets": 2,
+            "econ": 5.25,
+            "runs_saved": 15.47,
+            "pressure": 62.5,
+            "won": 0
+          },
+          {
+            "match_id": 50366,
+            "date": "2026-05-03",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2026",
+            "format": "T20",
+            "balls": 13,
+            "runs": 11,
+            "wickets": 2,
+            "econ": 5.08,
+            "runs_saved": 8.75,
+            "pressure": 62.2,
+            "won": 1
+          },
+          {
+            "match_id": 31250,
+            "date": "2024-04-16",
+            "opponent": "Rajasthan Royals",
+            "season": "2024",
+            "format": "T20",
+            "balls": 15,
+            "runs": 20,
+            "wickets": 2,
+            "econ": 8.0,
+            "runs_saved": 2.79,
+            "pressure": 65.4,
+            "won": 0
+          },
+          {
+            "match_id": 30058,
+            "date": "2024-03-23",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2024",
+            "format": "T20",
+            "balls": 24,
+            "runs": 19,
+            "wickets": 1,
+            "econ": 4.75,
+            "runs_saved": 17.47,
+            "pressure": 62.0,
+            "won": 1
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 305,
+      "player_name": "Ravichandran Ashwin",
+      "team": "Rajasthan Royals",
+      "teams": "Chennai Super Kings; India; Rajasthan Royals",
+      "formats": "T20; T20I",
+      "seasons": "2022; 2022/23; 2023; 2024; 2025",
+      "matches": 61,
+      "kind": "bowl",
+      "rank": 3,
+      "score": 91.13,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "wickets": 24,
+        "balls": 379,
+        "innings": 29,
+        "economy": 7.76,
+        "average": 20.42,
+        "strike_rate": 15.79,
+        "dot_pct": 32.45,
+        "boundary_pct": 11.87,
+        "runs_saved_per_ball": 0.2
+      },
+      "normal": {
+        "wickets": 11,
+        "balls": 385,
+        "economy": 7.43,
+        "average": 43.36,
+        "dot_pct": 32.99,
+        "boundary_pct": 12.99,
+        "wicket_rate": 0.03
+      },
+      "lift": {
+        "economy": -0.32,
+        "wicket_rate": 0.04,
+        "dot_pct": -0.53
+      },
+      "components": [
+        {
+          "key": "econ",
+          "label": "Economy",
+          "z": 2.38,
+          "weight": 0.32,
+          "weighted_z": 0.76
+        },
+        {
+          "key": "wkt_rate",
+          "label": "Wicket rate",
+          "z": 0.28,
+          "weight": 0.24,
+          "weighted_z": 0.07
+        },
+        {
+          "key": "dot",
+          "label": "Dot-ball rate",
+          "z": -0.03,
+          "weight": 0.1,
+          "weighted_z": -0.0
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary prevention",
+          "z": 3.0,
+          "weight": 0.06,
+          "weighted_z": 0.18
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": 0.99,
+          "weight": 0.15,
+          "weighted_z": 0.15
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 1.42,
+          "weight": 0.1,
+          "weighted_z": 0.14
+        },
+        {
+          "key": "defend",
+          "label": "Defence record",
+          "z": 2.6,
+          "weight": 0.03,
+          "weighted_z": 0.08
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 59.49,
+        "score_median": 86.73,
+        "score_ci_high": 96.68,
+        "rank_ci_low": 1.0,
+        "rank_median": 4.0,
+        "rank_ci_high": 20.0,
+        "top10_probability": 0.86
+      },
+      "context": {
+        "categories": {
+          "High": 343,
+          "Extreme": 60
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 11,
+            "runs": 13,
+            "wickets": 2,
+            "econ": 7.09
+          },
+          {
+            "phase": "Middle",
+            "balls": 287,
+            "runs": 351,
+            "wickets": 17,
+            "econ": 7.34
+          },
+          {
+            "phase": "Death",
+            "balls": 81,
+            "runs": 126,
+            "wickets": 5,
+            "econ": 9.33
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 303,
+            "runs": 389,
+            "wickets": 21,
+            "econ": 7.7
+          },
+          {
+            "format": "T20I",
+            "balls": 76,
+            "runs": 101,
+            "wickets": 3,
+            "econ": 7.97
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 148,
+            "runs": 174,
+            "wickets": 10,
+            "econ": 7.05
+          },
+          {
+            "season": "2022/23",
+            "balls": 30,
+            "runs": 48,
+            "wickets": 0,
+            "econ": 9.6
+          },
+          {
+            "season": "2023",
+            "balls": 100,
+            "runs": 111,
+            "wickets": 9,
+            "econ": 6.66
+          },
+          {
+            "season": "2024",
+            "balls": 75,
+            "runs": 120,
+            "wickets": 4,
+            "econ": 9.6
+          },
+          {
+            "season": "2025",
+            "balls": 26,
+            "runs": 37,
+            "wickets": 1,
+            "econ": 8.54
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 31274,
+            "date": "2024-05-07",
+            "opponent": "Delhi Capitals",
+            "season": "2024",
+            "format": "T20",
+            "balls": 13,
+            "runs": 8,
+            "wickets": 3,
+            "econ": 3.69,
+            "runs_saved": 11.75,
+            "pressure": 60.9,
+            "won": 0
+          },
+          {
+            "match_id": 20222,
+            "date": "2023-04-30",
+            "opponent": "Mumbai Indians",
+            "season": "2023",
+            "format": "T20",
+            "balls": 18,
+            "runs": 16,
+            "wickets": 2,
+            "econ": 5.33,
+            "runs_saved": 11.35,
+            "pressure": 61.5,
+            "won": 0
+          },
+          {
+            "match_id": 20217,
+            "date": "2023-04-27",
+            "opponent": "Chennai Super Kings",
+            "season": "2023",
+            "format": "T20",
+            "balls": 16,
+            "runs": 21,
+            "wickets": 2,
+            "econ": 7.88,
+            "runs_saved": 3.31,
+            "pressure": 61.6,
+            "won": 1
+          },
+          {
+            "match_id": 20184,
+            "date": "2023-04-02",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2023",
+            "format": "T20",
+            "balls": 18,
+            "runs": 17,
+            "wickets": 1,
+            "econ": 5.67,
+            "runs_saved": 10.35,
+            "pressure": 63.0,
+            "won": 1
+          },
+          {
+            "match_id": 20188,
+            "date": "2023-04-05",
+            "opponent": "Punjab Kings",
+            "season": "2023",
+            "format": "T20",
+            "balls": 13,
+            "runs": 11,
+            "wickets": 1,
+            "econ": 5.08,
+            "runs_saved": 8.75,
+            "pressure": 64.1,
+            "won": 0
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 4722,
+      "player_name": "Rashid Khan",
+      "team": "Gujarat Titans",
+      "teams": "Afghanistan; Gujarat Titans",
+      "formats": "T20; T20I",
+      "seasons": "2022; 2023; 2024; 2025; 2026",
+      "matches": 122,
+      "kind": "bowl",
+      "rank": 4,
+      "score": 84.9,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "wickets": 62,
+        "balls": 819,
+        "innings": 57,
+        "economy": 8.68,
+        "average": 19.11,
+        "strike_rate": 13.21,
+        "dot_pct": 32.84,
+        "boundary_pct": 17.09,
+        "runs_saved_per_ball": 0.03
+      },
+      "normal": {
+        "wickets": 51,
+        "balls": 1040,
+        "economy": 7.18,
+        "average": 24.39,
+        "dot_pct": 36.25,
+        "boundary_pct": 11.83,
+        "wicket_rate": 0.05
+      },
+      "lift": {
+        "economy": -1.5,
+        "wicket_rate": 0.03,
+        "dot_pct": -3.41
+      },
+      "components": [
+        {
+          "key": "econ",
+          "label": "Economy",
+          "z": 1.18,
+          "weight": 0.32,
+          "weighted_z": 0.38
+        },
+        {
+          "key": "wkt_rate",
+          "label": "Wicket rate",
+          "z": 1.74,
+          "weight": 0.24,
+          "weighted_z": 0.42
+        },
+        {
+          "key": "dot",
+          "label": "Dot-ball rate",
+          "z": -0.43,
+          "weight": 0.1,
+          "weighted_z": -0.04
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary prevention",
+          "z": 1.64,
+          "weight": 0.06,
+          "weighted_z": 0.1
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": -0.1,
+          "weight": 0.15,
+          "weighted_z": -0.01
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 1.54,
+          "weight": 0.1,
+          "weighted_z": 0.15
+        },
+        {
+          "key": "defend",
+          "label": "Defence record",
+          "z": 1.44,
+          "weight": 0.03,
+          "weighted_z": 0.04
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 47.86,
+        "score_median": 80.9,
+        "score_ci_high": 95.72,
+        "rank_ci_low": 1.0,
+        "rank_median": 7.0,
+        "rank_ci_high": 29.0,
+        "top10_probability": 0.69
+      },
+      "context": {
+        "categories": {
+          "High": 646,
+          "Extreme": 185
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 23,
+            "runs": 44,
+            "wickets": 1,
+            "econ": 11.48
+          },
+          {
+            "phase": "Middle",
+            "balls": 529,
+            "runs": 746,
+            "wickets": 28,
+            "econ": 8.46
+          },
+          {
+            "phase": "Death",
+            "balls": 267,
+            "runs": 395,
+            "wickets": 33,
+            "econ": 8.88
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 520,
+            "runs": 827,
+            "wickets": 39,
+            "econ": 9.54
+          },
+          {
+            "format": "T20I",
+            "balls": 299,
+            "runs": 358,
+            "wickets": 23,
+            "econ": 7.18
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 136,
+            "runs": 179,
+            "wickets": 11,
+            "econ": 7.9
+          },
+          {
+            "season": "2023",
+            "balls": 151,
+            "runs": 207,
+            "wickets": 14,
+            "econ": 8.23
+          },
+          {
+            "season": "2024",
+            "balls": 96,
+            "runs": 121,
+            "wickets": 10,
+            "econ": 7.56
+          },
+          {
+            "season": "2025",
+            "balls": 216,
+            "runs": 334,
+            "wickets": 12,
+            "econ": 9.28
+          },
+          {
+            "season": "2026",
+            "balls": 220,
+            "runs": 344,
+            "wickets": 15,
+            "econ": 9.38
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 50373,
+            "date": "2026-05-09",
+            "opponent": "Rajasthan Royals",
+            "season": "2026",
+            "format": "T20",
+            "balls": 23,
+            "runs": 29,
+            "wickets": 4,
+            "econ": 7.57,
+            "runs_saved": 5.95,
+            "pressure": 63.1,
+            "won": 1
+          },
+          {
+            "match_id": 20237,
+            "date": "2023-05-12",
+            "opponent": "Mumbai Indians",
+            "season": "2023",
+            "format": "T20",
+            "balls": 18,
+            "runs": 23,
+            "wickets": 4,
+            "econ": 7.67,
+            "runs_saved": 4.35,
+            "pressure": 62.1,
+            "won": 0
+          },
+          {
+            "match_id": 50138,
+            "date": "2026-04-08",
+            "opponent": "Delhi Capitals",
+            "season": "2026",
+            "format": "T20",
+            "balls": 18,
+            "runs": 13,
+            "wickets": 3,
+            "econ": 4.33,
+            "runs_saved": 14.35,
+            "pressure": 65.3,
+            "won": 1
+          },
+          {
+            "match_id": 45853,
+            "date": "2025-09-01",
+            "opponent": "United Arab Emirates",
+            "season": "2025",
+            "format": "T20I",
+            "balls": 18,
+            "runs": 18,
+            "wickets": 3,
+            "econ": 6.0,
+            "runs_saved": 7.0,
+            "pressure": 63.4,
+            "won": 1
+          },
+          {
+            "match_id": 20193,
+            "date": "2023-04-09",
+            "opponent": "Kolkata Knight Riders",
+            "season": "2023",
+            "format": "T20",
+            "balls": 18,
+            "runs": 27,
+            "wickets": 3,
+            "econ": 9.0,
+            "runs_saved": 0.35,
+            "pressure": 65.7,
+            "won": 0
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 7364,
+      "player_name": "Haris Rauf",
+      "team": "Pakistan",
+      "teams": "Pakistan",
+      "formats": "T20I",
+      "seasons": "2022; 2022/23; 2023; 2024; 2025",
+      "matches": 48,
+      "kind": "bowl",
+      "rank": 5,
+      "score": 83.33,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "wickets": 36,
+        "balls": 380,
+        "innings": 28,
+        "economy": 9.11,
+        "average": 16.03,
+        "strike_rate": 10.56,
+        "dot_pct": 40.26,
+        "boundary_pct": 18.95,
+        "runs_saved_per_ball": -0.13
+      },
+      "normal": {
+        "wickets": 13,
+        "balls": 237,
+        "economy": 8.51,
+        "average": 25.85,
+        "dot_pct": 44.3,
+        "boundary_pct": 21.94,
+        "wicket_rate": 0.06
+      },
+      "lift": {
+        "economy": -0.6,
+        "wicket_rate": 0.04,
+        "dot_pct": -4.04
+      },
+      "components": [
+        {
+          "key": "econ",
+          "label": "Economy",
+          "z": 0.03,
+          "weight": 0.32,
+          "weighted_z": 0.01
+        },
+        {
+          "key": "wkt_rate",
+          "label": "Wicket rate",
+          "z": 2.37,
+          "weight": 0.24,
+          "weighted_z": 0.57
+        },
+        {
+          "key": "dot",
+          "label": "Dot-ball rate",
+          "z": 1.79,
+          "weight": 0.1,
+          "weighted_z": 0.18
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary prevention",
+          "z": 0.18,
+          "weight": 0.06,
+          "weighted_z": 0.01
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": 1.41,
+          "weight": 0.15,
+          "weighted_z": 0.21
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 0.38,
+          "weight": 0.1,
+          "weighted_z": 0.04
+        },
+        {
+          "key": "defend",
+          "label": "Defence record",
+          "z": -1.07,
+          "weight": 0.03,
+          "weighted_z": -0.03
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 29.61,
+        "score_median": 74.97,
+        "score_ci_high": 94.59,
+        "rank_ci_low": 1.0,
+        "rank_median": 10.0,
+        "rank_ci_high": 40.1,
+        "top10_probability": 0.53
+      },
+      "context": {
+        "categories": {
+          "High": 276,
+          "Extreme": 124
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 34,
+            "runs": 31,
+            "wickets": 6,
+            "econ": 5.47
+          },
+          {
+            "phase": "Middle",
+            "balls": 93,
+            "runs": 145,
+            "wickets": 10,
+            "econ": 9.35
+          },
+          {
+            "phase": "Death",
+            "balls": 253,
+            "runs": 401,
+            "wickets": 20,
+            "econ": 9.51
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20I",
+            "balls": 380,
+            "runs": 577,
+            "wickets": 36,
+            "econ": 9.11
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 88,
+            "runs": 125,
+            "wickets": 4,
+            "econ": 8.52
+          },
+          {
+            "season": "2022/23",
+            "balls": 24,
+            "runs": 33,
+            "wickets": 0,
+            "econ": 8.25
+          },
+          {
+            "season": "2023",
+            "balls": 51,
+            "runs": 69,
+            "wickets": 9,
+            "econ": 8.12
+          },
+          {
+            "season": "2024",
+            "balls": 92,
+            "runs": 150,
+            "wickets": 11,
+            "econ": 9.78
+          },
+          {
+            "season": "2025",
+            "balls": 125,
+            "runs": 200,
+            "wickets": 12,
+            "econ": 9.6
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 21404,
+            "date": "2023-04-15",
+            "opponent": "New Zealand",
+            "season": "2023",
+            "format": "T20I",
+            "balls": 18,
+            "runs": 17,
+            "wickets": 4,
+            "econ": 5.67,
+            "runs_saved": 8.0,
+            "pressure": 66.4,
+            "won": 1
+          },
+          {
+            "match_id": 21403,
+            "date": "2023-04-14",
+            "opponent": "New Zealand",
+            "season": "2023",
+            "format": "T20I",
+            "balls": 15,
+            "runs": 17,
+            "wickets": 4,
+            "econ": 6.8,
+            "runs_saved": 3.83,
+            "pressure": 61.9,
+            "won": 1
+          },
+          {
+            "match_id": 28964,
+            "date": "2024-01-14",
+            "opponent": "New Zealand",
+            "season": "2024",
+            "format": "T20I",
+            "balls": 12,
+            "runs": 5,
+            "wickets": 3,
+            "econ": 2.5,
+            "runs_saved": 11.67,
+            "pressure": 63.1,
+            "won": 0
+          },
+          {
+            "match_id": 39811,
+            "date": "2025-03-23",
+            "opponent": "New Zealand",
+            "season": "2025",
+            "format": "T20I",
+            "balls": 19,
+            "runs": 16,
+            "wickets": 3,
+            "econ": 5.05,
+            "runs_saved": 10.39,
+            "pressure": 63.0,
+            "won": 0
+          },
+          {
+            "match_id": 45851,
+            "date": "2025-08-29",
+            "opponent": "Afghanistan",
+            "season": "2025",
+            "format": "T20I",
+            "balls": 14,
+            "runs": 19,
+            "wickets": 3,
+            "econ": 8.14,
+            "runs_saved": 0.44,
+            "pressure": 69.4,
+            "won": 1
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 2933,
+      "player_name": "Jasprit Bumrah",
+      "team": "Mumbai Indians",
+      "teams": "India; Mumbai Indians",
+      "formats": "T20; T20I",
+      "seasons": "2022; 2023; 2024; 2025; 2026",
+      "matches": 75,
+      "kind": "bowl",
+      "rank": 6,
+      "score": 82.22,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "wickets": 27,
+        "balls": 504,
+        "innings": 37,
+        "economy": 8.0,
+        "average": 24.89,
+        "strike_rate": 18.67,
+        "dot_pct": 34.33,
+        "boundary_pct": 15.48,
+        "runs_saved_per_ball": 0.15
+      },
+      "normal": {
+        "wickets": 21,
+        "balls": 538,
+        "economy": 6.83,
+        "average": 29.14,
+        "dot_pct": 48.7,
+        "boundary_pct": 14.87,
+        "wicket_rate": 0.04
+      },
+      "lift": {
+        "economy": -1.17,
+        "wicket_rate": 0.01,
+        "dot_pct": -14.37
+      },
+      "components": [
+        {
+          "key": "econ",
+          "label": "Economy",
+          "z": 2.11,
+          "weight": 0.32,
+          "weighted_z": 0.68
+        },
+        {
+          "key": "wkt_rate",
+          "label": "Wicket rate",
+          "z": -0.51,
+          "weight": 0.24,
+          "weighted_z": -0.12
+        },
+        {
+          "key": "dot",
+          "label": "Dot-ball rate",
+          "z": 0.41,
+          "weight": 0.1,
+          "weighted_z": 0.04
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary prevention",
+          "z": 2.17,
+          "weight": 0.06,
+          "weighted_z": 0.13
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": -0.31,
+          "weight": 0.15,
+          "weighted_z": -0.05
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 1.92,
+          "weight": 0.1,
+          "weighted_z": 0.19
+        },
+        {
+          "key": "defend",
+          "label": "Defence record",
+          "z": 1.7,
+          "weight": 0.03,
+          "weighted_z": 0.05
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 33.29,
+        "score_median": 77.32,
+        "score_ci_high": 96.94,
+        "rank_ci_low": 1.0,
+        "rank_median": 8.0,
+        "rank_ci_high": 38.0,
+        "top10_probability": 0.59
+      },
+      "context": {
+        "categories": {
+          "High": 354,
+          "Extreme": 166
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 68,
+            "runs": 109,
+            "wickets": 0,
+            "econ": 9.62
+          },
+          {
+            "phase": "Middle",
+            "balls": 131,
+            "runs": 159,
+            "wickets": 7,
+            "econ": 7.28
+          },
+          {
+            "phase": "Death",
+            "balls": 305,
+            "runs": 404,
+            "wickets": 20,
+            "econ": 7.95
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 352,
+            "runs": 462,
+            "wickets": 20,
+            "econ": 7.88
+          },
+          {
+            "format": "T20I",
+            "balls": 152,
+            "runs": 210,
+            "wickets": 7,
+            "econ": 8.29
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 97,
+            "runs": 133,
+            "wickets": 5,
+            "econ": 8.23
+          },
+          {
+            "season": "2023",
+            "balls": 19,
+            "runs": 11,
+            "wickets": 2,
+            "econ": 3.47
+          },
+          {
+            "season": "2024",
+            "balls": 89,
+            "runs": 117,
+            "wickets": 8,
+            "econ": 7.89
+          },
+          {
+            "season": "2025",
+            "balls": 151,
+            "runs": 156,
+            "wickets": 10,
+            "econ": 6.2
+          },
+          {
+            "season": "2026",
+            "balls": 148,
+            "runs": 255,
+            "wickets": 2,
+            "econ": 10.34
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 31243,
+            "date": "2024-04-11",
+            "opponent": "Royal Challengers Bengaluru",
+            "season": "2024",
+            "format": "T20",
+            "balls": 10,
+            "runs": 6,
+            "wickets": 4,
+            "econ": 3.6,
+            "runs_saved": 9.19,
+            "pressure": 64.6,
+            "won": 1
+          },
+          {
+            "match_id": 40738,
+            "date": "2025-04-27",
+            "opponent": "Lucknow Super Giants",
+            "season": "2025",
+            "format": "T20",
+            "balls": 12,
+            "runs": 9,
+            "wickets": 3,
+            "econ": 4.5,
+            "runs_saved": 9.23,
+            "pressure": 69.3,
+            "won": 1
+          },
+          {
+            "match_id": 42031,
+            "date": "2025-12-19",
+            "opponent": "South Africa",
+            "season": "2025",
+            "format": "T20I",
+            "balls": 24,
+            "runs": 13,
+            "wickets": 2,
+            "econ": 3.25,
+            "runs_saved": 20.33,
+            "pressure": 68.3,
+            "won": 1
+          },
+          {
+            "match_id": 24823,
+            "date": "2023-08-20",
+            "opponent": "Ireland",
+            "season": "2023",
+            "format": "T20I",
+            "balls": 18,
+            "runs": 7,
+            "wickets": 2,
+            "econ": 2.33,
+            "runs_saved": 18.0,
+            "pressure": 67.0,
+            "won": 1
+          },
+          {
+            "match_id": 14102,
+            "date": "2022-04-02",
+            "opponent": "Rajasthan Royals",
+            "season": "2022",
+            "format": "T20",
+            "balls": 13,
+            "runs": 8,
+            "wickets": 2,
+            "econ": 3.69,
+            "runs_saved": 11.75,
+            "pressure": 63.0,
+            "won": 0
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 5944,
+      "player_name": "Mohammed Siraj",
+      "team": "Royal Challengers Bengaluru",
+      "teams": "Gujarat Titans; India; Royal Challengers Bengaluru",
+      "formats": "T20; T20I",
+      "seasons": "2022; 2022/23; 2023; 2024; 2025; 2026",
+      "matches": 83,
+      "kind": "bowl",
+      "rank": 7,
+      "score": 79.66,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "wickets": 36,
+        "balls": 451,
+        "innings": 43,
+        "economy": 9.7,
+        "average": 20.25,
+        "strike_rate": 12.53,
+        "dot_pct": 39.02,
+        "boundary_pct": 23.5,
+        "runs_saved_per_ball": -0.11
+      },
+      "normal": {
+        "wickets": 17,
+        "balls": 488,
+        "economy": 8.57,
+        "average": 41.0,
+        "dot_pct": 44.67,
+        "boundary_pct": 21.52,
+        "wicket_rate": 0.04
+      },
+      "lift": {
+        "economy": -1.13,
+        "wicket_rate": 0.04,
+        "dot_pct": -5.65
+      },
+      "components": [
+        {
+          "key": "econ",
+          "label": "Economy",
+          "z": 0.1,
+          "weight": 0.32,
+          "weighted_z": 0.03
+        },
+        {
+          "key": "wkt_rate",
+          "label": "Wicket rate",
+          "z": 1.78,
+          "weight": 0.24,
+          "weighted_z": 0.43
+        },
+        {
+          "key": "dot",
+          "label": "Dot-ball rate",
+          "z": 2.31,
+          "weight": 0.1,
+          "weighted_z": 0.23
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary prevention",
+          "z": -0.57,
+          "weight": 0.06,
+          "weighted_z": -0.03
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": 0.83,
+          "weight": 0.15,
+          "weighted_z": 0.13
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 0.24,
+          "weight": 0.1,
+          "weighted_z": 0.02
+        },
+        {
+          "key": "defend",
+          "label": "Defence record",
+          "z": 1.01,
+          "weight": 0.03,
+          "weighted_z": 0.03
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 36.08,
+        "score_median": 74.0,
+        "score_ci_high": 93.13,
+        "rank_ci_low": 2.0,
+        "rank_median": 10.0,
+        "rank_ci_high": 38.0,
+        "top10_probability": 0.5
+      },
+      "context": {
+        "categories": {
+          "High": 331,
+          "Extreme": 161
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 109,
+            "runs": 145,
+            "wickets": 7,
+            "econ": 7.98
+          },
+          {
+            "phase": "Middle",
+            "balls": 61,
+            "runs": 80,
+            "wickets": 6,
+            "econ": 7.87
+          },
+          {
+            "phase": "Death",
+            "balls": 281,
+            "runs": 504,
+            "wickets": 23,
+            "econ": 10.76
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 400,
+            "runs": 671,
+            "wickets": 30,
+            "econ": 10.06
+          },
+          {
+            "format": "T20I",
+            "balls": 51,
+            "runs": 58,
+            "wickets": 6,
+            "econ": 6.82
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 60,
+            "runs": 98,
+            "wickets": 3,
+            "econ": 9.8
+          },
+          {
+            "season": "2022/23",
+            "balls": 39,
+            "runs": 41,
+            "wickets": 5,
+            "econ": 6.31
+          },
+          {
+            "season": "2023",
+            "balls": 82,
+            "runs": 116,
+            "wickets": 8,
+            "econ": 8.49
+          },
+          {
+            "season": "2024",
+            "balls": 85,
+            "runs": 128,
+            "wickets": 7,
+            "econ": 9.04
+          },
+          {
+            "season": "2025",
+            "balls": 105,
+            "runs": 182,
+            "wickets": 5,
+            "econ": 10.4
+          },
+          {
+            "season": "2026",
+            "balls": 80,
+            "runs": 164,
+            "wickets": 8,
+            "econ": 12.3
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 18532,
+            "date": "2022-11-22",
+            "opponent": "New Zealand",
+            "season": "2022/23",
+            "format": "T20I",
+            "balls": 10,
+            "runs": 3,
+            "wickets": 3,
+            "econ": 1.8,
+            "runs_saved": 10.89,
+            "pressure": 64.0,
+            "won": 0
+          },
+          {
+            "match_id": 31276,
+            "date": "2024-05-09",
+            "opponent": "Punjab Kings",
+            "season": "2024",
+            "format": "T20",
+            "balls": 12,
+            "runs": 17,
+            "wickets": 3,
+            "econ": 8.5,
+            "runs_saved": 1.23,
+            "pressure": 67.0,
+            "won": 1
+          },
+          {
+            "match_id": 40744,
+            "date": "2025-05-02",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2025",
+            "format": "T20",
+            "balls": 11,
+            "runs": 8,
+            "wickets": 2,
+            "econ": 4.36,
+            "runs_saved": 8.71,
+            "pressure": 66.6,
+            "won": 1
+          },
+          {
+            "match_id": 20207,
+            "date": "2023-04-20",
+            "opponent": "Punjab Kings",
+            "season": "2023",
+            "format": "T20",
+            "balls": 6,
+            "runs": 3,
+            "wickets": 2,
+            "econ": 3.0,
+            "runs_saved": 6.12,
+            "pressure": 64.1,
+            "won": 1
+          },
+          {
+            "match_id": 50346,
+            "date": "2026-04-17",
+            "opponent": "Kolkata Knight Riders",
+            "season": "2026",
+            "format": "T20",
+            "balls": 9,
+            "runs": 8,
+            "wickets": 2,
+            "econ": 5.33,
+            "runs_saved": 5.67,
+            "pressure": 61.5,
+            "won": 1
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 1612,
+      "player_name": "Yuzvendra Chahal",
+      "team": "Rajasthan Royals",
+      "teams": "India; Punjab Kings; Rajasthan Royals",
+      "formats": "T20; T20I",
+      "seasons": "2022; 2022/23; 2023; 2024; 2025; 2026",
+      "matches": 98,
+      "kind": "bowl",
+      "rank": 8,
+      "score": 79.43,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "wickets": 55,
+        "balls": 804,
+        "innings": 53,
+        "economy": 8.97,
+        "average": 21.85,
+        "strike_rate": 14.62,
+        "dot_pct": 28.73,
+        "boundary_pct": 16.29,
+        "runs_saved_per_ball": -0.0
+      },
+      "normal": {
+        "wickets": 27,
+        "balls": 573,
+        "economy": 8.66,
+        "average": 30.63,
+        "dot_pct": 31.06,
+        "boundary_pct": 16.4,
+        "wicket_rate": 0.05
+      },
+      "lift": {
+        "economy": -0.31,
+        "wicket_rate": 0.02,
+        "dot_pct": -2.33
+      },
+      "components": [
+        {
+          "key": "econ",
+          "label": "Economy",
+          "z": 0.95,
+          "weight": 0.32,
+          "weighted_z": 0.3
+        },
+        {
+          "key": "wkt_rate",
+          "label": "Wicket rate",
+          "z": 1.09,
+          "weight": 0.24,
+          "weighted_z": 0.26
+        },
+        {
+          "key": "dot",
+          "label": "Dot-ball rate",
+          "z": -1.97,
+          "weight": 0.1,
+          "weighted_z": -0.2
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary prevention",
+          "z": 2.2,
+          "weight": 0.06,
+          "weighted_z": 0.13
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": 1.31,
+          "weight": 0.15,
+          "weighted_z": 0.2
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 0.85,
+          "weight": 0.1,
+          "weighted_z": 0.08
+        },
+        {
+          "key": "defend",
+          "label": "Defence record",
+          "z": 1.31,
+          "weight": 0.03,
+          "weighted_z": 0.04
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 41.97,
+        "score_median": 75.05,
+        "score_ci_high": 92.31,
+        "rank_ci_low": 2.0,
+        "rank_median": 10.0,
+        "rank_ci_high": 31.0,
+        "top10_probability": 0.53
+      },
+      "context": {
+        "categories": {
+          "High": 663,
+          "Extreme": 182
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 1,
+            "runs": 0,
+            "wickets": 0,
+            "econ": 0.0
+          },
+          {
+            "phase": "Middle",
+            "balls": 581,
+            "runs": 851,
+            "wickets": 31,
+            "econ": 8.79
+          },
+          {
+            "phase": "Death",
+            "balls": 222,
+            "runs": 351,
+            "wickets": 24,
+            "econ": 9.49
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 651,
+            "runs": 1006,
+            "wickets": 43,
+            "econ": 9.27
+          },
+          {
+            "format": "T20I",
+            "balls": 153,
+            "runs": 196,
+            "wickets": 12,
+            "econ": 7.69
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 260,
+            "runs": 352,
+            "wickets": 23,
+            "econ": 8.12
+          },
+          {
+            "season": "2022/23",
+            "balls": 19,
+            "runs": 21,
+            "wickets": 2,
+            "econ": 6.63
+          },
+          {
+            "season": "2023",
+            "balls": 163,
+            "runs": 213,
+            "wickets": 15,
+            "econ": 7.84
+          },
+          {
+            "season": "2024",
+            "balls": 94,
+            "runs": 181,
+            "wickets": 4,
+            "econ": 11.55
+          },
+          {
+            "season": "2025",
+            "balls": 92,
+            "runs": 158,
+            "wickets": 4,
+            "econ": 10.3
+          },
+          {
+            "season": "2026",
+            "balls": 176,
+            "runs": 277,
+            "wickets": 7,
+            "econ": 9.44
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 20184,
+            "date": "2023-04-02",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2023",
+            "format": "T20",
+            "balls": 20,
+            "runs": 15,
+            "wickets": 4,
+            "econ": 4.5,
+            "runs_saved": 15.39,
+            "pressure": 63.3,
+            "won": 1
+          },
+          {
+            "match_id": 14098,
+            "date": "2022-03-29",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2022",
+            "format": "T20",
+            "balls": 24,
+            "runs": 22,
+            "wickets": 3,
+            "econ": 5.5,
+            "runs_saved": 14.47,
+            "pressure": 64.9,
+            "won": 1
+          },
+          {
+            "match_id": 14123,
+            "date": "2022-04-18",
+            "opponent": "Kolkata Knight Riders",
+            "season": "2022",
+            "format": "T20",
+            "balls": 19,
+            "runs": 34,
+            "wickets": 4,
+            "econ": 10.74,
+            "runs_saved": -5.13,
+            "pressure": 63.7,
+            "won": 1
+          },
+          {
+            "match_id": 20232,
+            "date": "2023-05-07",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2023",
+            "format": "T20",
+            "balls": 18,
+            "runs": 22,
+            "wickets": 3,
+            "econ": 7.33,
+            "runs_saved": 5.35,
+            "pressure": 71.2,
+            "won": 0
+          },
+          {
+            "match_id": 20191,
+            "date": "2023-04-08",
+            "opponent": "Delhi Capitals",
+            "season": "2023",
+            "format": "T20",
+            "balls": 18,
+            "runs": 23,
+            "wickets": 3,
+            "econ": 7.67,
+            "runs_saved": 4.35,
+            "pressure": 64.6,
+            "won": 1
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 830,
+      "player_name": "Josh Hazlewood",
+      "team": "Royal Challengers Bengaluru",
+      "teams": "Australia; Royal Challengers Bengaluru",
+      "formats": "T20; T20I",
+      "seasons": "2022; 2023; 2024; 2025; 2026",
+      "matches": 65,
+      "kind": "bowl",
+      "rank": 9,
+      "score": 76.65,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "wickets": 34,
+        "balls": 443,
+        "innings": 36,
+        "economy": 9.14,
+        "average": 19.85,
+        "strike_rate": 13.03,
+        "dot_pct": 40.63,
+        "boundary_pct": 22.57,
+        "runs_saved_per_ball": -0.06
+      },
+      "normal": {
+        "wickets": 32,
+        "balls": 460,
+        "economy": 7.97,
+        "average": 19.09,
+        "dot_pct": 47.17,
+        "boundary_pct": 19.57,
+        "wicket_rate": 0.07
+      },
+      "lift": {
+        "economy": -1.17,
+        "wicket_rate": 0.01,
+        "dot_pct": -6.54
+      },
+      "components": [
+        {
+          "key": "econ",
+          "label": "Economy",
+          "z": 0.52,
+          "weight": 0.32,
+          "weighted_z": 0.16
+        },
+        {
+          "key": "wkt_rate",
+          "label": "Wicket rate",
+          "z": 1.36,
+          "weight": 0.24,
+          "weighted_z": 0.33
+        },
+        {
+          "key": "dot",
+          "label": "Dot-ball rate",
+          "z": 2.57,
+          "weight": 0.1,
+          "weighted_z": 0.26
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary prevention",
+          "z": -0.53,
+          "weight": 0.06,
+          "weighted_z": -0.03
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": -0.37,
+          "weight": 0.15,
+          "weighted_z": -0.06
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 0.54,
+          "weight": 0.1,
+          "weighted_z": 0.05
+        },
+        {
+          "key": "defend",
+          "label": "Defence record",
+          "z": 0.64,
+          "weight": 0.03,
+          "weighted_z": 0.02
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 34.63,
+        "score_median": 71.41,
+        "score_ci_high": 93.11,
+        "rank_ci_low": 1.0,
+        "rank_median": 12.0,
+        "rank_ci_high": 36.0,
+        "top10_probability": 0.43
+      },
+      "context": {
+        "categories": {
+          "High": 275,
+          "Extreme": 186
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 77,
+            "runs": 90,
+            "wickets": 7,
+            "econ": 7.01
+          },
+          {
+            "phase": "Middle",
+            "balls": 102,
+            "runs": 163,
+            "wickets": 8,
+            "econ": 9.59
+          },
+          {
+            "phase": "Death",
+            "balls": 264,
+            "runs": 422,
+            "wickets": 19,
+            "econ": 9.59
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 260,
+            "runs": 428,
+            "wickets": 20,
+            "econ": 9.88
+          },
+          {
+            "format": "T20I",
+            "balls": 183,
+            "runs": 247,
+            "wickets": 14,
+            "econ": 8.1
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2022",
+            "balls": 168,
+            "runs": 274,
+            "wickets": 16,
+            "econ": 9.79
+          },
+          {
+            "season": "2023",
+            "balls": 18,
+            "runs": 30,
+            "wickets": 1,
+            "econ": 10.0
+          },
+          {
+            "season": "2024",
+            "balls": 67,
+            "runs": 89,
+            "wickets": 3,
+            "econ": 7.97
+          },
+          {
+            "season": "2025",
+            "balls": 106,
+            "runs": 153,
+            "wickets": 11,
+            "econ": 8.66
+          },
+          {
+            "season": "2026",
+            "balls": 84,
+            "runs": 129,
+            "wickets": 3,
+            "econ": 9.21
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 14120,
+            "date": "2022-04-16",
+            "opponent": "Delhi Capitals",
+            "season": "2022",
+            "format": "T20",
+            "balls": 14,
+            "runs": 20,
+            "wickets": 3,
+            "econ": 8.57,
+            "runs_saved": 1.27,
+            "pressure": 68.1,
+            "won": 1
+          },
+          {
+            "match_id": 14148,
+            "date": "2022-05-08",
+            "opponent": "Sunrisers Hyderabad",
+            "season": "2022",
+            "format": "T20",
+            "balls": 12,
+            "runs": 10,
+            "wickets": 2,
+            "econ": 5.0,
+            "runs_saved": 8.23,
+            "pressure": 67.9,
+            "won": 1
+          },
+          {
+            "match_id": 41969,
+            "date": "2025-08-10",
+            "opponent": "South Africa",
+            "season": "2025",
+            "format": "T20I",
+            "balls": 13,
+            "runs": 10,
+            "wickets": 2,
+            "econ": 4.62,
+            "runs_saved": 8.05,
+            "pressure": 67.2,
+            "won": 1
+          },
+          {
+            "match_id": 40735,
+            "date": "2025-04-24",
+            "opponent": "Rajasthan Royals",
+            "season": "2025",
+            "format": "T20",
+            "balls": 14,
+            "runs": 14,
+            "wickets": 2,
+            "econ": 6.0,
+            "runs_saved": 7.27,
+            "pressure": 68.5,
+            "won": 1
+          },
+          {
+            "match_id": 14124,
+            "date": "2022-04-19",
+            "opponent": "Lucknow Super Giants",
+            "season": "2022",
+            "format": "T20",
+            "balls": 12,
+            "runs": 13,
+            "wickets": 2,
+            "econ": 6.5,
+            "runs_saved": 5.23,
+            "pressure": 72.4,
+            "won": 1
+          }
+        ]
+      }
+    },
+    {
+      "player_id": 7967,
+      "player_name": "Noor Ahmad",
+      "team": "Chennai Super Kings",
+      "teams": "Afghanistan; Chennai Super Kings; Gujarat Titans",
+      "formats": "T20; T20I",
+      "seasons": "2022; 2023; 2024; 2025; 2026",
+      "matches": 70,
+      "kind": "bowl",
+      "rank": 10,
+      "score": 76.6,
+      "eligibility": "Fully Eligible",
+      "pressure": {
+        "wickets": 38,
+        "balls": 554,
+        "innings": 34,
+        "economy": 8.74,
+        "average": 21.24,
+        "strike_rate": 14.58,
+        "dot_pct": 34.48,
+        "boundary_pct": 16.61,
+        "runs_saved_per_ball": 0.03
+      },
+      "normal": {
+        "wickets": 25,
+        "balls": 471,
+        "economy": 6.75,
+        "average": 21.2,
+        "dot_pct": 39.92,
+        "boundary_pct": 10.83,
+        "wicket_rate": 0.05
+      },
+      "lift": {
+        "economy": -1.99,
+        "wicket_rate": 0.02,
+        "dot_pct": -5.44
+      },
+      "components": [
+        {
+          "key": "econ",
+          "label": "Economy",
+          "z": 1.19,
+          "weight": 0.32,
+          "weighted_z": 0.38
+        },
+        {
+          "key": "wkt_rate",
+          "label": "Wicket rate",
+          "z": 0.87,
+          "weight": 0.24,
+          "weighted_z": 0.21
+        },
+        {
+          "key": "dot",
+          "label": "Dot-ball rate",
+          "z": 0.48,
+          "weight": 0.1,
+          "weighted_z": 0.05
+        },
+        {
+          "key": "boundary",
+          "label": "Boundary prevention",
+          "z": 1.82,
+          "weight": 0.06,
+          "weighted_z": 0.11
+        },
+        {
+          "key": "lift",
+          "label": "Pressure lift",
+          "z": -0.78,
+          "weight": 0.15,
+          "weighted_z": -0.12
+        },
+        {
+          "key": "consistency",
+          "label": "Consistency",
+          "z": 0.71,
+          "weight": 0.1,
+          "weighted_z": 0.07
+        },
+        {
+          "key": "defend",
+          "label": "Defence record",
+          "z": 0.83,
+          "weight": 0.03,
+          "weighted_z": 0.03
+        }
+      ],
+      "bootstrap": {
+        "score_ci_low": 34.07,
+        "score_median": 70.31,
+        "score_ci_high": 92.36,
+        "rank_ci_low": 1.0,
+        "rank_median": 13.0,
+        "rank_ci_high": 37.0,
+        "top10_probability": 0.41
+      },
+      "context": {
+        "categories": {
+          "High": 476,
+          "Extreme": 105
+        },
+        "by_phase": [
+          {
+            "phase": "Powerplay",
+            "balls": 11,
+            "runs": 12,
+            "wickets": 1,
+            "econ": 6.55
+          },
+          {
+            "phase": "Middle",
+            "balls": 404,
+            "runs": 598,
+            "wickets": 24,
+            "econ": 8.88
+          },
+          {
+            "phase": "Death",
+            "balls": 139,
+            "runs": 197,
+            "wickets": 13,
+            "econ": 8.5
+          }
+        ],
+        "by_format": [
+          {
+            "format": "T20",
+            "balls": 408,
+            "runs": 599,
+            "wickets": 29,
+            "econ": 8.81
+          },
+          {
+            "format": "T20I",
+            "balls": 146,
+            "runs": 208,
+            "wickets": 9,
+            "econ": 8.55
+          }
+        ],
+        "by_season": [
+          {
+            "season": "2023",
+            "balls": 121,
+            "runs": 178,
+            "wickets": 9,
+            "econ": 8.83
+          },
+          {
+            "season": "2024",
+            "balls": 73,
+            "runs": 124,
+            "wickets": 3,
+            "econ": 10.19
+          },
+          {
+            "season": "2025",
+            "balls": 186,
+            "runs": 210,
+            "wickets": 18,
+            "econ": 6.77
+          },
+          {
+            "season": "2026",
+            "balls": 174,
+            "runs": 295,
+            "wickets": 8,
+            "econ": 10.17
+          }
+        ],
+        "top_innings": [
+          {
+            "match_id": 40762,
+            "date": "2025-05-25",
+            "opponent": "Gujarat Titans",
+            "season": "2025",
+            "format": "T20",
+            "balls": 24,
+            "runs": 21,
+            "wickets": 3,
+            "econ": 5.25,
+            "runs_saved": 15.47,
+            "pressure": 64.8,
+            "won": 1
+          },
+          {
+            "match_id": 40701,
+            "date": "2025-03-28",
+            "opponent": "Royal Challengers Bengaluru",
+            "season": "2025",
+            "format": "T20",
+            "balls": 21,
+            "runs": 26,
+            "wickets": 3,
+            "econ": 7.43,
+            "runs_saved": 5.91,
+            "pressure": 62.9,
+            "won": 0
+          },
+          {
+            "match_id": 40750,
+            "date": "2025-05-07",
+            "opponent": "Kolkata Knight Riders",
+            "season": "2025",
+            "format": "T20",
+            "balls": 11,
+            "runs": 12,
+            "wickets": 3,
+            "econ": 6.55,
+            "runs_saved": 4.71,
+            "pressure": 62.6,
+            "won": 1
+          },
+          {
+            "match_id": 20215,
+            "date": "2023-04-25",
+            "opponent": "Mumbai Indians",
+            "season": "2023",
+            "format": "T20",
+            "balls": 24,
+            "runs": 37,
+            "wickets": 3,
+            "econ": 9.25,
+            "runs_saved": -0.53,
+            "pressure": 62.5,
+            "won": 1
+          },
+          {
+            "match_id": 50354,
+            "date": "2026-04-23",
+            "opponent": "Mumbai Indians",
+            "season": "2026",
+            "format": "T20",
+            "balls": 24,
+            "runs": 23,
+            "wickets": 2,
+            "econ": 5.75,
+            "runs_saved": 13.47,
+            "pressure": 61.8,
+            "won": 1
+          }
+        ]
+      }
+    }
+  ]
+}
